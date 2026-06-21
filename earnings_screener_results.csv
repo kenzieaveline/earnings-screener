@@ -1,0 +1,8 @@
+ticker,name,sector,current_price,market_cap_b,next_earnings_date,days_to_earnings,ytd_change_pct,30d_change_pct,analyst_target,analyst_recommendation,pe_ratio
+QRVO,"Qorvo, Inc.",Technology,98.42,8.66,2026-07-28,37,23.2,10.6,91.46154,hold,27.187845
+NET,"Cloudflare, Inc.",Technology,224.06,79.53,2026-07-30,39,25.0,-12.7,243.1129,buy,
+SWKS,"Skyworks Solutions, Inc.",Technology,72.45,10.9,2026-08-04,44,4.7,12.4,72.52941,hold,30.187498
+NRG,"NRG Energy, Inc.",Utilities,135.06,28.5,2026-08-06,46,-10.1,-4.8,198.70589,buy,150.06667
+BBAI,"BigBear.ai, Inc.",Technology,3.92,1.88,2026-08-10,50,-2.0,-6.0,5.33333,none,
+CEG,Constellation Energy Corporatio,Utilities,274.06,97.87,2026-08-10,50,-9.6,-11.8,360.0038,buy,23.810598
+S,"SentinelOne, Inc.",Technology,15.02,5.15,2026-08-27,67,-13.5,-5.7,19.15625,buy,

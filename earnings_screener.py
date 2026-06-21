@@ -36,7 +36,8 @@ warnings.filterwarnings("ignore")
 # ─────────────────────────────────────────────────────────────────────────────
 MIN_DAYS_TO_EARNINGS = 30      # Don't bother with anything reporting sooner than this
 MAX_DAYS_TO_EARNINGS = 180     # Don't look further out than this (~6 months)
-MAX_YTD_CHANGE_PCT   = 30.0    # "Hasn't run up" threshold — YTD % change must be below this
+MIN_YTD_CHANGE_PCT   = -15.0   # Exclude stocks that have already crashed hard YTD
+MAX_YTD_CHANGE_PCT   = 30.0    # Exclude stocks that have already run up hard YTD
 MAX_30D_CHANGE_PCT   = 15.0    # Also exclude anything that's spiked hard in the last 30 days
 MIN_MARKET_CAP       = 300_000_000   # Skip illiquid micro caps below $300M
 REQUEST_DELAY_SEC    = 0.3     # Be polite to Yahoo Finance — avoid getting rate limited
@@ -78,7 +79,7 @@ def get_sp500_tickers() -> list[str]:
         df = tables[0]
         return df["Symbol"].str.replace(".", "-", regex=False).tolist()
     except Exception as e:
-        print(f"⚠️  Could not fetch S&P 500 list live ({e}). Falling back to empty list.")
+        print(f"[!] Could not fetch S&P 500 list live ({e}). Falling back to empty list.")
         return []
 
 
@@ -86,7 +87,7 @@ def get_universe() -> list[str]:
     """Combine S&P 500 (live) + curated AI/Tech/small-cap focus list, deduplicated."""
     sp500 = get_sp500_tickers()
     combined = sorted(set(sp500) | set(AI_TECH_FOCUS_LIST))
-    print(f"📋 Universe size: {len(combined)} tickers "
+    print(f"[*] Universe size: {len(combined)} tickers "
           f"({len(sp500)} from S&P 500 + {len(AI_TECH_FOCUS_LIST)} AI/Tech focus list, deduped)")
     return combined
 
@@ -117,8 +118,12 @@ def screen_ticker(ticker: str) -> dict | None:
         # Earnings date
         try:
             cal = tk.get_earnings_dates(limit=4)
-            future_dates = [d for d in cal.index if d.to_pydatetime() > datetime.now()] if cal is not None and not cal.empty else []
-            next_earnings = future_dates[0].to_pydatetime() if future_dates else None
+            now_naive = datetime.now()
+            future_dates = [
+                d for d in cal.index
+                if d.to_pydatetime().replace(tzinfo=None) > now_naive
+            ] if cal is not None and not cal.empty else []
+            next_earnings = future_dates[0].to_pydatetime().replace(tzinfo=None) if future_dates else None
         except Exception:
             next_earnings = None
 
@@ -131,6 +136,7 @@ def screen_ticker(ticker: str) -> dict | None:
 
         # Price history for YTD and 30-day change
         hist = tk.history(period="1y")
+        hist = hist.dropna(subset=["Close"])
         if hist.empty or len(hist) < 30:
             return None
 
@@ -141,7 +147,7 @@ def screen_ticker(ticker: str) -> dict | None:
         ytd_change_pct = ((current_price - year_start_price) / year_start_price) * 100
         thirty_day_change_pct = ((current_price - thirty_day_price) / thirty_day_price) * 100
 
-        if ytd_change_pct > MAX_YTD_CHANGE_PCT:
+        if not (MIN_YTD_CHANGE_PCT <= ytd_change_pct <= MAX_YTD_CHANGE_PCT):
             return None
         if thirty_day_change_pct > MAX_30D_CHANGE_PCT:
             return None
@@ -169,7 +175,7 @@ def run_screener():
     universe = get_universe()
     results = []
 
-    print(f"\n🔍 Screening {len(universe)} tickers — this will take a while "
+    print(f"\n[>] Screening {len(universe)} tickers -- this will take a while "
           f"(~{round(len(universe) * REQUEST_DELAY_SEC / 60, 1)} min minimum)...\n")
 
     for i, ticker in enumerate(universe, 1):
@@ -178,23 +184,23 @@ def run_screener():
         row = screen_ticker(ticker)
         if row:
             results.append(row)
-            print(f"   ✅ MATCH: {ticker} — earnings in {row['days_to_earnings']}d, "
+            print(f"   [MATCH] {ticker} -- earnings in {row['days_to_earnings']}d, "
                   f"YTD {row['ytd_change_pct']}%, 30d {row['30d_change_pct']}%")
         time.sleep(REQUEST_DELAY_SEC)
 
     if not results:
-        print("\n😕 No matches found. Try loosening MAX_YTD_CHANGE_PCT or widening the earnings window.")
+        print("\n[!] No matches found. Try loosening MAX_YTD_CHANGE_PCT or widening the earnings window.")
         return
 
     df = pd.DataFrame(results)
     df = df.sort_values("days_to_earnings")
     df.to_csv(OUTPUT_CSV, index=False)
 
-    print(f"\n✅ Done! {len(df)} candidates saved to {OUTPUT_CSV}\n")
+    print(f"\n[DONE] {len(df)} candidates saved to {OUTPUT_CSV}\n")
     print(df.to_string(index=False))
     print(
-        "\n⚠️  REMINDER: This is a screener, not a recommendation. Each candidate still "
-        "needs manual research — read recent news, check why it's quiet, check the "
+        "\n[!] REMINDER: This is a screener, not a recommendation. Each candidate still "
+        "needs manual research -- read recent news, check why it's quiet, check the "
         "actual earnings estimate trend, before considering any position."
     )
 
