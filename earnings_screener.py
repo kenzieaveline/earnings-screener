@@ -67,20 +67,35 @@ AI_TECH_FOCUS_LIST = [
 ]
 
 def get_sp500_tickers() -> list[str]:
-    """Pull live S&P 500 constituent list from Wikipedia."""
-    try:
-        resp = requests.get(
+    """Pull live S&P 500 constituent list, trying sources in order."""
+    sources = [
+        (
+            "GitHub datasets CSV",
+            "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
+            "csv",
+        ),
+        (
+            "Wikipedia",
             "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
-            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
-            timeout=15,
-        )
-        resp.raise_for_status()
-        tables = pd.read_html(io.StringIO(resp.text))
-        df = tables[0]
-        return df["Symbol"].str.replace(".", "-", regex=False).tolist()
-    except Exception as e:
-        print(f"[!] Could not fetch S&P 500 list live ({e}). Falling back to empty list.")
-        return []
+            "html",
+        ),
+    ]
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    for name, url, fmt in sources:
+        try:
+            resp = requests.get(url, headers=headers, timeout=15)
+            resp.raise_for_status()
+            if fmt == "csv":
+                df = pd.read_csv(io.StringIO(resp.text))
+            else:
+                df = pd.read_html(io.StringIO(resp.text))[0]
+            tickers = df["Symbol"].str.replace(".", "-", regex=False).tolist()
+            print(f"[*] S&P 500 list fetched from {name} ({len(tickers)} tickers)")
+            return tickers
+        except Exception as e:
+            print(f"[!] {name} failed ({e}), trying next source...")
+    print("[!] All S&P 500 sources failed. Falling back to AI/Tech focus list only.")
+    return []
 
 
 def get_universe() -> list[str]:

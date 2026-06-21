@@ -1,8 +1,240 @@
 ticker,name,sector,current_price,market_cap_b,next_earnings_date,days_to_earnings,ytd_change_pct,30d_change_pct,analyst_target,analyst_recommendation,pe_ratio
+AVY,Avery Dennison Corporation,Consumer Cyclical,158.68,12.14,2026-07-21,30,-7.5,-3.5,200.3,none,17.849268
+COF,Capital One Financial Corporati,Financial Services,201.53,125.41,2026-07-21,30,3.1,5.1,254.66667,buy,62.200615
+DHR,Danaher Corporation,Healthcare,177.17,125.4,2026-07-21,30,-9.2,0.9,242.34782,strong_buy,34.335274
+KO,Coca-Cola Company (The),Consumer Defensive,79.39,341.57,2026-07-21,30,18.6,1.9,85.97417,buy,24.965408
+GPC,Genuine Parts Company,Consumer Cyclical,108.7,15.12,2026-07-21,30,-6.0,4.4,134.0,buy,252.79068
+IQV,"IQVIA Holdings, Inc.",Healthcare,167.77,28.0,2026-07-21,30,8.4,-6.1,225.47368,strong_buy,20.840994
+DHI,"D.R. Horton, Inc.",Consumer Cyclical,157.81,44.75,2026-07-21,30,28.5,8.1,168.23077,hold,14.817841
+LMT,Lockheed Martin Corporation,Industrials,510.95,117.81,2026-07-21,30,11.5,0.4,625.1579,hold,24.755331
+SYF,Synchrony Financial,Financial Services,75.26,25.32,2026-07-21,30,22.7,1.7,89.21739,buy,7.7908907
+OMC,Omnicom Group Inc.,Communication Services,71.35,20.34,2026-07-21,30,5.6,-6.2,102.83333,buy,
+RTX,RTX Corporation,Industrials,185.6,249.94,2026-07-21,30,28.6,5.4,215.72636,buy,34.821766
+SHW,Sherwin-Williams Company (The),Basic Materials,320.79,79.12,2026-07-21,30,-2.9,0.4,372.95,buy,30.756472
+MMM,3M Company,Industrials,160.6,83.76,2026-07-21,30,13.6,12.3,170.9679,buy,30.944124
+MSCI,MSCI Inc.,Financial Services,581.19,42.27,2026-07-21,30,8.2,-0.9,690.4375,buy,33.229847
+NOC,Northrop Grumman Corporation,Industrials,521.5,74.07,2026-07-21,30,6.4,-5.2,696.9514,none,16.337719
+CCI,Crown Castle Inc.,Real Estate,82.05,35.81,2026-07-22,31,-14.2,-8.9,99.07368,buy,34.620255
+NEE,"NextEra Energy, Inc.",Utilities,86.75,180.93,2026-07-22,31,24.8,-6.4,98.9,buy,22.017767
+TSLA,"Tesla, Inc.",Consumer Cyclical,400.49,1504.13,2026-07-22,31,24.3,-2.7,420.54633,buy,370.82404
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,48.72,32.28,2026-07-22,31,19.2,-9.4,69.08947,buy,17.97786
+NVR,"NVR, Inc.",Consumer Cyclical,6490.93,17.52,2026-07-22,31,-9.3,8.0,7132.0,hold,15.847772
+PHM,"PulteGroup, Inc.",Consumer Cyclical,126.96,24.18,2026-07-22,31,26.1,8.9,138.07692,buy,12.290417
+RJF,"Raymond James Financial, Inc.",Financial Services,155.86,30.37,2026-07-22,31,6.0,1.5,174.0,none,14.731569
+PKG,Packaging Corporation of Americ,Consumer Cyclical,229.02,20.41,2026-07-22,31,25.6,3.2,235.9,buy,27.861313
+PM,Philip Morris International Inc,Consumer Defensive,178.4,278.05,2026-07-22,31,0.8,4.3,193.85715,buy,25.12676
+IBM,International Business Machines,Technology,249.1,234.13,2026-07-22,31,-9.1,8.5,290.8857,buy,22.024757
+GD,General Dynamics Corporation,Industrials,350.01,94.65,2026-07-22,31,27.9,0.6,393.16763,buy,22.027061
+HAS,"Hasbro, Inc.",Consumer Cyclical,84.74,11.99,2026-07-22,31,27.6,-12.3,113.06667,buy,
+CME,CME Group Inc.,Financial Services,246.38,89.02,2026-07-22,31,-6.6,-13.7,305.93332,buy,21.004263
+TMO,Thermo Fisher Scientific Inc,Healthcare,464.61,172.66,2026-07-22,31,17.2,-2.0,599.1923,buy,25.514004
+TDY,Teledyne Technologies Incorpora,Technology,619.58,28.7,2026-07-22,31,27.3,-1.8,736.8461,buy,31.355263
+BX,Blackstone Inc.,Financial Services,123.79,151.3,2026-07-23,32,-6.8,1.2,143.45,buy,31.741026
+AMP,"Ameriprise Financial, Inc.",Financial Services,467.43,42.02,2026-07-23,32,-7.2,1.9,540.8182,buy,11.642092
+DLR,"Digital Realty Trust, Inc.",Real Estate,188.15,67.3,2026-07-23,32,10.4,-2.8,218.72414,buy,50.03989
+EW,Edwards Lifesciences Corporatio,Healthcare,87.36,50.3,2026-07-23,32,18.3,5.6,96.92308,buy,47.221622
+DOV,Dover Corporation,Industrials,223.57,30.11,2026-07-23,32,29.2,1.5,250.85,none,27.94625
+DOW,Dow Inc.,Basic Materials,31.73,22.87,2026-07-23,32,20.3,-14.1,42.25,buy,
+DGX,Quest Diagnostics Incorporated,Healthcare,195.0,21.59,2026-07-23,32,10.6,2.2,223.4375,buy,21.54696
+LH,Labcorp Holdings Inc.,Healthcare,255.82,20.98,2026-07-23,32,-1.3,-0.6,310.11765,buy,22.67908
+HON,Honeywell International Inc.,Industrials,229.01,145.11,2026-07-23,32,11.9,6.6,246.67192,buy,36.641598
+MCO,Moody's Corporation,Financial Services,450.67,78.72,2026-07-23,32,-3.3,-1.2,536.5,buy,32.352478
+WY,Weyerhaeuser Company,Real Estate,24.32,17.54,2026-07-23,32,-3.8,3.5,31.18182,buy,43.42857
+NDAQ,"Nasdaq, Inc.",Financial Services,82.24,46.51,2026-07-23,32,-3.3,-7.3,106.53333,buy,24.771084
+UNP,Union Pacific Corporation,Industrials,256.88,152.51,2026-07-23,32,18.1,-2.5,291.72726,buy,21.142387
+TXT,Textron Inc.,Industrials,89.47,15.56,2026-07-23,32,16.3,-2.3,103.45188,buy,17.074429
+VLTO,Veralto Corp,Industrials,84.02,20.64,2026-07-23,32,-12.7,-5.3,108.05882,buy,21.654638
+VRSN,"VeriSign, Inc.",Technology,264.64,24.08,2026-07-23,32,-4.6,-4.7,312.0,buy,29.24199
+ALLE,Allegion plc,Industrials,133.57,11.48,2026-07-23,32,-2.2,-2.0,164.07692,buy,18.247269
+CNP,"CenterPoint Energy, Inc (Holdin",Utilities,42.82,28.01,2026-07-23,32,22.5,1.9,46.125,buy,26.26994
+DECK,Deckers Outdoor Corporation,Consumer Cyclical,109.11,15.15,2026-07-23,32,7.3,6.2,126.85714,buy,15.542735
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive,30.76,41.85,2026-07-23,32,-5.3,7.9,33.52941,buy,22.785185
+HBAN,Huntington Bancshares Incorpora,Financial Services,16.86,34.18,2026-07-23,32,10.4,5.1,19.83889,buy,12.969232
+AXP,American Express Company,Financial Services,338.0,230.63,2026-07-24,33,14.4,6.1,363.1071,buy,21.098625
+HCA,"HCA Healthcare, Inc.",Healthcare,375.17,83.23,2026-07-24,33,0.1,-12.4,503.57144,buy,12.919077
+LHX,"L3Harris Technologies, Inc.",Industrials,294.82,54.92,2026-07-24,33,20.0,-1.7,381.94736,buy,32.045654
+VZ,Verizon Communications Inc.,Communication Services,45.37,189.45,2026-07-24,33,16.1,-3.7,51.90435,buy,11.065854
+AON,Aon plc,Financial Services,317.74,67.86,2026-07-24,33,-10.0,1.3,382.3684,buy,17.448654
+WM,"Waste Management, Inc.",Industrials,214.6,86.18,2026-07-27,36,-6.0,-2.7,256.04,buy,31.056442
+RVTY,"Revvity, Inc.",Healthcare,100.0,11.16,2026-07-27,36,5.6,1.2,113.64286,buy,48.076923
+CINF,Cincinnati Financial Corporatio,Financial Services,170.2,26.33,2026-07-27,36,19.7,5.0,181.5,buy,9.736842
+ESS,"Essex Property Trust, Inc.",Real Estate,273.71,18.87,2026-07-28,37,0.1,2.4,286.84784,hold,30.753933
+CNC,Centene Corporation,Healthcare,61.02,30.13,2026-07-28,37,12.2,11.0,61.35294,buy,
+BXP,"BXP, Inc.",Real Estate,64.7,11.54,2026-07-28,37,-5.1,8.8,69.55,buy,32.51256
+ACGL,Arch Capital Group Ltd.,Financial Services,91.18,31.86,2026-07-28,37,1.1,-3.5,108.71053,buy,7.0138464
+CB,Chubb Limited,Financial Services,323.4,125.43,2026-07-28,37,14.6,1.0,345.0435,buy,11.439689
+PPG,"PPG Industries, Inc.",Basic Materials,118.25,26.36,2026-07-28,37,11.7,9.3,123.0,buy,16.941261
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,312.51,83.81,2026-07-28,37,16.7,11.8,336.84616,buy,19.078756
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,60.12,77.17,2026-07-28,37,-9.1,-1.9,67.20833,buy,29.762377
+SBUX,Starbucks Corporation,Consumer Cyclical,100.65,114.71,2026-07-28,37,10.9,-2.9,106.25,buy,76.83207
+ECL,Ecolab Inc.,Basic Materials,269.12,75.74,2026-07-28,37,4.1,5.2,317.14285,buy,36.367565
+BA,Boeing Company (The),Industrials,222.72,175.57,2026-07-28,37,12.1,-3.6,270.0,buy,87.68504
+CARR,Carrier Global Corporation,Industrials,71.81,59.64,2026-07-28,37,3.4,6.8,76.2513,buy,47.873333
+SYY,Sysco Corporation,Consumer Defensive,78.7,37.63,2026-07-28,37,8.4,8.0,86.86667,buy,21.86111
+V,Visa Inc.,Financial Services,327.24,622.33,2026-07-28,37,-2.6,2.1,398.83362,strong_buy,28.480417
+UPS,"United Parcel Service, Inc.",Industrials,104.86,89.13,2026-07-28,37,12.9,6.5,113.6,buy,16.967638
 QRVO,"Qorvo, Inc.",Technology,98.42,8.66,2026-07-28,37,23.2,10.6,91.46154,hold,27.187845
+FTV,Fortive Corporation,Technology,61.03,18.61,2026-07-29,38,16.7,0.2,63.625,none,35.899998
+INVH,Invitation Homes Inc.,Real Estate,28.41,16.88,2026-07-29,38,-12.2,-1.9,32.0,buy,29.905264
+ITW,Illinois Tool Works Inc.,Industrials,264.09,75.98,2026-07-29,38,12.5,3.3,274.54187,hold,24.52089
+KHC,The Kraft Heinz Company,Consumer Defensive,22.82,27.06,2026-07-29,38,-5.6,-1.7,23.47222,none,
+EXR,Extra Space Storage Inc,Real Estate,145.33,32.07,2026-07-29,38,4.1,2.5,155.7,buy,32.65843
+WAT,Waters Corporation,Healthcare,355.44,34.9,2026-07-29,38,3.7,1.4,400.27274,buy,45.221375
+SW,Smurfit WestRock plc,Consumer Cyclical,44.2,23.18,2026-07-29,38,7.6,7.4,53.46429,strong_buy,61.38889
+VICI,VICI Properties Inc.,Real Estate,26.28,28.3,2026-07-29,38,-13.3,-7.2,34.04348,buy,9.0
+WEC,"WEC Energy Group, Inc.",Utilities,112.17,36.54,2026-07-29,38,11.3,0.3,124.19444,buy,22.478958
+NSC,Norfolk Southern Corporation,Industrials,300.08,67.4,2026-07-29,38,20.7,-3.8,335.70587,none,25.259258
+MAA,Mid-America Apartment Communiti,Real Estate,132.5,15.81,2026-07-29,38,-6.7,1.6,141.58333,buy,40.151516
+PG,Procter & Gamble Company (The),Consumer Defensive,150.38,350.17,2026-07-29,38,-2.7,3.0,163.43478,buy,21.98538
+PFE,"Pfizer, Inc.",Healthcare,25.21,143.68,2026-07-29,38,12.5,-3.2,29.18778,buy,19.244274
+PRU,"Prudential Financial, Inc.",Financial Services,106.53,37.0,2026-07-29,38,7.7,8.6,100.46667,hold,10.982474
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,86.84,71.97,2026-07-29,38,-3.2,-8.2,110.20833,buy,28.286644
+TT,Trane Technologies plc,Industrials,483.4,106.86,2026-07-29,38,16.0,3.1,521.5139,buy,36.90076
+UDR,"UDR, Inc.",Real Estate,37.56,13.92,2026-07-29,38,-4.1,1.7,40.54762,buy,25.551022
+FE,FirstEnergy Corp.,Utilities,46.45,26.87,2026-07-29,38,21.1,2.8,52.15385,buy,25.244566
+EQIX,"Equinix, Inc.",Real Estate,1092.19,107.72,2026-07-29,38,26.5,2.9,1197.1072,buy,75.741325
+PSA,Public Storage,Real Estate,318.12,55.86,2026-07-29,38,14.2,3.8,328.25,buy,32.89762
+REG,Regency Centers Corporation,Real Estate,76.88,14.37,2026-07-29,38,12.5,-0.3,84.63158,buy,26.419243
+LII,"Lennox International, Inc.",Industrials,532.43,18.53,2026-07-29,38,-2.2,1.1,570.06665,buy,23.64254
+EG,"Everest Group, Ltd.",Financial Services,335.63,13.28,2026-07-29,38,0.7,-4.0,388.26666,buy,6.835642
+AVB,"AvalonBay Communities, Inc.",Real Estate,177.32,25.16,2026-07-29,38,-11.0,-4.6,196.77779,buy,21.97274
+ALGN,"Align Technology, Inc.",Healthcare,182.08,13.04,2026-07-29,38,0.2,8.1,209.07143,buy,30.601683
+CVNA,Carvana Co.,Consumer Cyclical,66.56,73.01,2026-07-29,38,4.0,-16.8,92.09524,buy,38.697674
+AWK,"American Water Works Company, I",Utilities,125.07,24.42,2026-07-29,38,-9.1,-0.2,135.54546,hold,22.175533
+GEHC,GE HealthCare Technologies Inc.,Healthcare,61.59,28.02,2026-07-29,38,-13.4,0.4,79.72222,buy,14.769784
+GRMN,Garmin Ltd.,Technology,234.2,45.17,2026-07-29,38,19.0,-2.8,262.42856,none,26.109251
+CRH,CRH PLC,Basic Materials,111.24,74.33,2026-07-30,39,27.1,-0.9,142.66028,strong_buy,20.599998
+CBRE,CBRE Group Inc,Real Estate,131.55,38.52,2026-07-30,39,-1.7,-10.3,177.16667,buy,30.034246
+CTVA,"Corteva, Inc.",Basic Materials,78.59,52.56,2026-07-30,39,7.6,-0.4,90.04762,buy,42.48108
+MO,"Altria Group, Inc.",Consumer Defensive,69.12,115.42,2026-07-30,39,23.5,1.6,70.36364,none,14.430063
+PPL,PPL Corporation,Utilities,35.38,26.62,2026-07-30,39,8.1,-3.0,41.2,none,21.705523
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,609.94,63.95,2026-07-30,39,20.3,-13.9,833.3061,buy,14.880214
+ES,Eversource Energy (D/B/A),Utilities,69.59,26.17,2026-07-30,39,16.4,5.0,72.16667,hold,14.901498
+CPT,Camden Property Trust,Real Estate,108.99,10.8,2026-07-30,39,-1.9,4.7,114.26136,buy,30.529411
+DTE,DTE Energy Company,Utilities,147.56,30.7,2026-07-30,39,14.3,3.9,159.25,buy,24.269737
+IR,Ingersoll Rand Inc.,Industrials,77.91,30.49,2026-07-30,39,-3.0,0.6,93.2,buy,52.641895
+HIG,"The Hartford Insurance Group, I",Financial Services,128.25,35.16,2026-07-30,39,3.5,-2.9,147.65,buy,9.025334
+HSY,The Hershey Company,Consumer Defensive,172.63,35.02,2026-07-30,39,3.7,-7.0,217.13635,buy,32.147114
+HII,"Huntington Ingalls Industries, ",Industrials,285.43,11.25,2026-07-30,39,23.8,-8.9,387.9091,none,18.558517
+EXC,Exelon Corporation,Utilities,45.81,46.87,2026-07-30,39,11.4,4.1,49.33333,none,16.78022
+CI,The Cigna Group,Healthcare,279.27,73.88,2026-07-30,39,-9.2,-1.1,340.5,buy,11.17527
+CMS,CMS Energy Corporation,Utilities,73.38,22.67,2026-07-30,39,9.5,-0.0,79.78571,buy,20.270718
+BMY,Bristol-Myers Squibb Company,Healthcare,54.0,110.27,2026-07-30,39,21.0,-4.0,63.08,none,15.126051
+AOS,A.O. Smith Corporation,Industrials,58.22,8.02,2026-07-30,39,-5.3,-3.3,70.45455,hold,15.525333
+APTV,Aptiv PLC,Consumer Cyclical,63.68,13.48,2026-07-30,39,-5.0,11.5,78.21053,strong_buy,37.904762
+APD,"Air Products and Chemicals, Inc",Basic Materials,280.21,62.4,2026-07-30,39,6.4,-5.0,327.85666,buy,29.495789
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,244.39,2628.93,2026-07-30,39,16.5,-9.9,312.98715,strong_buy,31.656736
+ABBV,AbbVie Inc.,Healthcare,216.49,382.49,2026-07-30,39,20.6,6.8,253.55173,buy,106.12255
+AEP,American Electric Power Company,Utilities,127.69,69.48,2026-07-30,39,29.5,-2.4,144.09525,buy,18.917038
+AEE,Ameren Corporation,Utilities,108.67,30.07,2026-07-30,39,18.0,0.6,119.86667,buy,19.544964
+VMC,Vulcan Materials Company (Holdi,Basic Materials,302.84,39.29,2026-07-30,39,19.2,5.0,326.72726,buy,35.839054
+WTW,Willis Towers Watson Public Lim,Financial Services,255.2,24.1,2026-07-30,39,-13.6,-1.1,331.6842,buy,14.994124
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,151.99,41.89,2026-07-30,39,11.4,-2.9,173.7143,buy,24.514517
+XEL,Xcel Energy Inc.,Utilities,77.41,48.32,2026-07-30,39,19.7,-3.0,91.38889,strong_buy,22.30836
+SO,Southern Company (The),Utilities,93.09,104.94,2026-07-30,39,7.7,1.5,101.28947,hold,23.808182
+MA,Mastercard Incorporated,Financial Services,489.79,432.77,2026-07-30,39,-7.6,-2.2,644.8889,strong_buy,28.327934
+MSI,"Motorola Solutions, Inc.",Technology,395.17,65.6,2026-07-30,39,-1.6,-8.5,506.54544,buy,31.84287
 NET,"Cloudflare, Inc.",Technology,224.06,79.53,2026-07-30,39,25.0,-12.7,243.1129,buy,
+MTD,"Mettler-Toledo International, I",Healthcare,1144.84,23.13,2026-07-30,39,-0.8,-13.2,1327.8334,buy,26.880487
+PCG,Pacific Gas & Electric Co.,Utilities,16.48,36.29,2026-07-30,39,19.9,1.8,22.59375,none,12.775194
+MAS,Masco Corporation,Industrials,74.38,15.01,2026-07-30,39,23.8,3.9,80.82353,buy,18.41089
+TROW,"T. Rowe Price Group, Inc.",Financial Services,107.65,23.07,2026-07-31,40,21.5,5.2,97.83333,hold,11.550429
+CHD,"Church & Dwight Company, Inc.",Consumer Defensive,95.63,22.66,2026-07-31,40,0.5,2.2,102.52632,buy,31.457237
+XOM,Exxon Mobil Corporation,Energy,137.81,571.22,2026-07-31,40,24.0,-5.3,169.90909,buy,23.200336
+LIN,Linde plc,Basic Materials,512.15,236.79,2026-07-31,40,13.9,4.0,545.44,buy,34.007305
+LYB,LyondellBasell Industries NV,Basic Materials,60.07,19.39,2026-07-31,40,10.9,-15.1,80.35294,none,
+CBOE,"Cboe Global Markets, Inc.",Financial Services,249.1,26.07,2026-07-31,40,10.8,-26.3,326.92856,hold,21.272417
+CVX,Chevron Corporation,Energy,173.63,345.8,2026-07-31,40,21.0,-4.0,216.04349,buy,30.196522
+CL,Colgate-Palmolive Company,Consumer Defensive,89.48,71.6,2026-07-31,40,4.5,2.4,95.85,buy,34.682175
+BRK-B,Berkshire Hathaway Inc. New,Financial Services,489.46,1055.69,2026-08-01,41,1.0,3.0,520.3333,none,14.575937
+PLTR,Palantir Technologies Inc.,Technology,128.47,307.98,2026-08-03,43,-6.4,-6.3,182.75407,buy,144.34831
+O,Realty Income Corporation,Real Estate,60.24,56.17,2026-08-03,43,11.2,-2.1,67.9,buy,49.37705
+TSN,"Tyson Foods, Inc.",Consumer Defensive,55.46,19.53,2026-08-03,43,5.5,-17.7,70.91667,hold,43.669292
+OKE,"ONEOK, Inc.",Energy,85.03,53.57,2026-08-03,43,8.9,-1.0,95.47619,buy,15.156862
+WMB,"Williams Companies, Inc. (The)",Energy,73.12,89.43,2026-08-03,43,24.7,1.0,82.89957,buy,32.070175
+VRTX,Vertex Pharmaceuticals Incorpor,Healthcare,451.63,114.63,2026-08-03,43,2.4,6.3,548.68964,buy,26.802967
+FANG,"Diamondback Energy, Inc.",Energy,183.5,51.62,2026-08-03,43,26.5,-3.1,232.82759,buy,189.17525
+L,Loews Corporation,Financial Services,107.28,22.07,2026-08-03,43,20.6,2.8,,none,13.648854
+IDXX,"IDEXX Laboratories, Inc.",Healthcare,562.09,44.34,2026-08-03,43,7.3,-1.8,709.1429,none,41.330147
+NWSA,News Corporation,Communication Services,25.28,13.76,2026-08-04,44,-10.2,-6.5,35.175,none,32.0
+PEG,Public Service Enterprise Group,Utilities,79.89,39.81,2026-08-04,44,0.5,3.5,89.63889,none,17.674778
+NWS,News Corporation,Communication Services,28.75,15.64,2026-08-04,44,-11.2,-6.8,,none,36.392403
+DUK,Duke Energy Corporation (Holdin,Utilities,123.86,96.56,2026-08-04,44,11.1,0.0,137.83333,buy,19.055386
+DVN,Devon Energy Corporation,Energy,42.12,48.58,2026-08-04,44,26.0,-6.4,60.80769,strong_buy,11.732591
+DOC,"Healthpeak Properties, Inc.",Real Estate,19.56,13.49,2026-08-04,44,22.5,0.5,21.27778,buy,61.125
+EQR,Equity Residential,Real Estate,64.09,24.76,2026-08-04,44,-2.9,-2.7,71.55556,buy,25.635998
+HSIC,"Henry Schein, Inc.",Healthcare,79.92,9.1,2026-08-04,44,11.0,13.4,88.06667,buy,24.145016
+ETN,"Eaton Corporation, PLC",Industrials,421.77,163.77,2026-08-04,44,28.8,6.0,451.73297,buy,41.309498
+KIM,Kimco Realty Corporation (HC),Real Estate,24.38,16.44,2026-08-04,44,22.2,4.7,25.81818,buy,28.022987
+J,Jacobs Solutions Inc.,Industrials,120.97,14.28,2026-08-04,44,-4.0,-1.1,158.26666,buy,35.684364
+IFF,International Flavors & Fragran,Basic Materials,76.72,19.59,2026-08-04,44,6.6,-1.4,91.65556,buy,23.752323
+BALL,Ball Corporation,Consumer Cyclical,57.72,15.37,2026-08-04,44,4.1,-0.8,70.78571,buy,16.827988
+APO,"Apollo Global Management, Inc. ",Financial Services,137.5,79.27,2026-08-04,44,3.8,8.1,150.375,buy,85.9375
+AMGN,Amgen Inc.,Healthcare,337.6,182.21,2026-08-04,44,20.2,3.4,352.76666,buy,23.47705
+TAP,Molson Coors Beverage Company,Consumer Defensive,39.4,7.39,2026-08-04,44,-14.5,-7.6,46.0,hold,
+TDG,Transdigm Group Incorporated,Industrials,1328.31,74.3,2026-08-04,44,-1.6,7.0,1524.5,buy,41.496723
 SWKS,"Skyworks Solutions, Inc.",Technology,72.45,10.9,2026-08-04,44,4.7,12.4,72.52941,hold,30.187498
+ALL,Allstate Corporation (The),Financial Services,221.17,56.93,2026-08-05,45,15.5,4.1,240.86365,buy,4.8920593
+STE,STERIS plc (Ireland),Healthcare,202.61,19.75,2026-08-05,45,-13.3,-4.9,256.85715,buy,25.582071
+TECH,Bio-Techne Corp,Healthcare,57.94,9.07,2026-08-05,45,16.8,14.0,61.30769,buy,82.77143
+TKO,"TKO Group Holdings, Inc.",Communication Services,198.78,37.99,2026-08-05,45,15.4,6.4,234.38889,buy,74.17164
+UBER,"Uber Technologies, Inc.",Technology,71.64,145.83,2026-08-05,45,-14.5,-6.6,104.48157,strong_buy,17.776674
+TPL,Texas Pacific Land Corporation,Energy,355.11,24.49,2026-08-05,45,-1.1,-10.9,445.0,none,48.778843
+CPAY,"Corpay, Inc.",Technology,345.28,22.57,2026-08-05,45,9.2,12.9,395.14285,none,20.663076
+CF,"CF Industries Holdings, Inc.",Basic Materials,102.93,15.81,2026-08-05,45,4.8,-12.9,126.10526,hold,9.272973
+CRL,Charles River Laboratories Inte,Healthcare,185.0,8.91,2026-08-05,45,25.5,1.8,215.33333,buy,
+FOXA,Fox Corporation,Communication Services,52.23,21.93,2026-08-05,45,-4.6,-16.7,71.4,buy,13.744737
+FOX,Fox Corporation,Communication Services,46.95,19.71,2026-08-05,45,-6.5,-16.9,,none,12.355264
+EMR,Emerson Electric Company,Industrials,150.66,84.38,2026-08-05,45,19.3,7.2,163.46759,buy,34.875
+DIS,Walt Disney Company (The),Communication Services,103.89,180.41,2026-08-05,45,-10.7,-4.4,129.66553,strong_buy,16.6224
+GPN,Global Payments Inc.,Industrials,66.88,18.29,2026-08-05,45,-11.6,-4.3,94.52,buy,24.588234
+ABNB,"Airbnb, Inc.",Consumer Cyclical,142.41,84.52,2026-08-05,45,8.1,1.4,156.47298,buy,35.25
+COR,"Cencora, Inc.",Healthcare,271.83,52.89,2026-08-05,45,-6.7,6.6,350.58334,buy,20.829884
+ATO,Atmos Energy Corporation,Utilities,170.11,28.39,2026-08-05,45,13.3,-5.9,186.18182,hold,20.97534
+MCK,McKesson Corporation,Healthcare,750.63,87.88,2026-08-05,45,4.5,-0.4,941.4,strong_buy,19.568039
+OXY,Occidental Petroleum Corporatio,Energy,51.82,51.54,2026-08-05,45,15.9,-3.5,65.5,hold,70.02702
+NI,NiSource Inc,Utilities,47.26,22.66,2026-08-05,45,22.8,0.5,51.35714,buy,23.512438
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,87.97,17.02,2026-08-06,46,-2.6,5.5,98.7,hold,22.790157
+KVUE,Kenvue Inc.,Consumer Defensive,18.12,34.79,2026-08-06,46,-11.3,3.5,19.50027,none,21.57143
+WYNN,"Wynn Resorts, Limited",Consumer Cyclical,105.53,10.95,2026-08-06,46,20.4,-1.0,135.88889,strong_buy,30.237822
+XYL,Xylem Inc.,Industrials,111.42,26.48,2026-08-06,46,-9.3,-3.3,150.64706,none,27.716417
+SOLV,Solventum Corporation,Healthcare,75.43,13.06,2026-08-06,46,2.5,5.3,82.15385,buy,9.232558
+LYV,"Live Nation Entertainment, Inc.",Communication Services,171.24,39.85,2026-08-06,46,15.0,3.3,185.43478,buy,
+LNT,Alliant Energy Corporation,Utilities,73.0,18.85,2026-08-06,46,24.4,1.8,79.125,buy,22.955975
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,609.12,36.58,2026-08-06,46,13.8,1.6,683.087,buy,38.165413
+MCD,McDonald's Corporation,Consumer Cyclical,278.61,197.95,2026-08-06,46,-0.7,-1.1,331.2903,buy,22.987623
+EVRG,"Evergy, Inc.",Utilities,82.5,19.02,2026-08-06,46,27.2,0.6,90.45833,buy,21.94149
+ED,"Consolidated Edison, Inc.",Utilities,106.36,39.2,2026-08-06,46,8.8,0.8,109.75,hold,17.935919
+EOG,"EOG Resources, Inc.",Energy,129.98,69.23,2026-08-06,46,7.4,-0.7,159.82143,buy,12.793307
+GILD,"Gilead Sciences, Inc.",Healthcare,123.76,153.66,2026-08-06,46,17.0,-7.1,157.57143,buy,16.838097
+AFL,AFLAC Incorporated,Financial Services,115.47,58.77,2026-08-06,46,14.2,2.2,112.42857,hold,13.196571
+AIG,"American International Group, I",Financial Services,74.02,39.25,2026-08-06,46,-11.0,-2.5,87.8,buy,13.03169
+BDX,"Becton, Dickinson and Company",Healthcare,143.98,39.67,2026-08-06,46,11.4,-5.4,180.6923,buy,25.1274
+COP,ConocoPhillips,Energy,107.74,131.26,2026-08-06,46,17.6,-5.5,142.76923,buy,18.261017
 NRG,"NRG Energy, Inc.",Utilities,135.06,28.5,2026-08-06,46,-10.1,-4.8,198.70589,buy,150.06667
-BBAI,"BigBear.ai, Inc.",Technology,3.92,1.88,2026-08-10,50,-2.0,-6.0,5.33333,none,
+SRE,DBA Sempra,Utilities,90.69,59.28,2026-08-06,46,26.2,-1.0,103.5,buy,30.84694
+VST,Vistra Corp.,Utilities,163.75,55.21,2026-08-06,46,-11.2,6.4,223.0,strong_buy,27.382942
+PNW,Pinnacle West Capital Corporati,Utilities,102.32,12.4,2026-08-06,46,20.1,2.8,105.07143,none,19.089552
+XYZ,"Block, Inc.",Technology,74.78,44.51,2026-08-10,50,17.6,6.6,90.404,buy,58.421875
+TTWO,"Take-Two Interactive Software, ",Communication Services,239.28,44.43,2026-08-10,50,0.4,7.1,279.45,strong_buy,
 CEG,Constellation Energy Corporatio,Utilities,274.06,97.87,2026-08-10,50,-9.6,-11.8,360.0038,buy,23.810598
+BBAI,"BigBear.ai, Inc.",Technology,3.92,1.88,2026-08-10,50,-2.0,-6.0,5.33333,none,
+MET,"MetLife, Inc.",Financial Services,85.58,55.07,2026-08-10,50,11.3,9.4,92.0,buy,16.553192
+AMCR,Amcor plc,Consumer Cyclical,41.08,18.99,2026-08-13,53,-5.7,4.6,48.21455,buy,33.129032
+HD,"Home Depot, Inc. (The)",Consumer Cyclical,334.28,333.32,2026-08-18,58,-1.8,4.4,370.18182,buy,23.758352
+MDT,Medtronic plc.,Healthcare,79.34,101.56,2026-08-18,58,-5.2,1.8,98.0,buy,21.270777
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,222.2,124.59,2026-08-19,59,6.5,-3.8,263.72726,none,18.798647
+EL,"Estee Lauder Companies, Inc. (T",Consumer Defensive,84.81,30.68,2026-08-19,59,14.4,-0.2,95.12,buy,
+DE,Deere & Company,Industrials,589.24,159.06,2026-08-20,60,14.5,1.5,644.20825,buy,33.328053
+WMT,Walmart Inc.,Consumer Defensive,117.18,932.53,2026-08-20,60,22.9,-9.8,138.65,strong_buy,41.260563
+A,"Agilent Technologies, Inc.",Healthcare,127.06,35.89,2026-08-26,66,10.9,7.1,160.35294,buy,25.514055
+BF-B,Brown Forman Inc,Consumer Defensive,26.64,12.22,2026-08-27,67,7.3,-1.9,27.775,hold,17.411764
 S,"SentinelOne, Inc.",Technology,15.02,5.15,2026-08-27,67,-13.5,-5.7,19.15625,buy,
+DG,Dollar General Corporation,Consumer Defensive,113.45,25.03,2026-08-27,67,3.8,-2.6,131.24138,buy,16.046675
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,456.13,19.61,2026-08-27,67,-3.7,-13.4,627.25,buy,17.096327
+SJM,The J.M. Smucker Company,Consumer Defensive,110.86,11.82,2026-08-27,67,19.2,12.7,121.58824,buy,
+COO,"The Cooper Companies, Inc.",Healthcare,65.91,12.85,2026-09-03,74,-5.1,7.9,80.57143,buy,55.855938
+SNPS,"Synopsys, Inc.",Technology,455.51,87.22,2026-09-08,79,-3.2,-9.8,559.5771,buy,104.2357
+ORCL,Oracle Corporation,Technology,184.29,530.03,2026-09-09,80,-9.3,-5.3,252.6405,buy,31.664946
+LEN,Lennar Corporation,Consumer Cyclical,89.73,22.1,2026-09-17,88,-14.1,2.3,88.53846,hold,14.064263
+COST,Costco Wholesale Corporation,Consumer Defensive,951.45,421.95,2026-09-24,95,-2.4,-6.0,1082.9393,buy,47.835598
