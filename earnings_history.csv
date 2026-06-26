@@ -1,1331 +1,1331 @@
-ticker,sector,earnings_date,eps_estimate,eps_actual,beat_miss_meet,trailing_4q_beat_rate
-ABBV,Healthcare,2014-10-31,0.77,0.89,beat,1.0
-ABBV,Healthcare,2015-01-30,0.86,0.89,beat,1.0
-ABBV,Healthcare,2015-04-23,0.85,0.94,beat,1.0
-ABBV,Healthcare,2015-07-24,1.06,1.08,beat,1.0
-ABBV,Healthcare,2015-10-30,1.08,1.13,beat,1.0
-ABBV,Healthcare,2016-01-29,1.12,1.13,beat,1.0
-ABBV,Healthcare,2016-04-28,1.14,1.15,beat,1.0
-ABBV,Healthcare,2016-07-29,1.2,1.26,beat,1.0
-ABBV,Healthcare,2016-10-28,1.2,1.21,beat,1.0
-ABBV,Healthcare,2017-01-27,1.2,1.2,meet,1.0
-ABBV,Healthcare,2017-04-27,1.26,1.28,beat,0.75
-ABBV,Healthcare,2017-07-28,1.4,1.42,beat,0.75
-ABBV,Healthcare,2017-10-27,1.39,1.41,beat,0.75
-ABBV,Healthcare,2018-01-26,1.43,1.48,beat,0.75
-ABBV,Healthcare,2018-04-26,1.79,1.87,beat,1.0
-ABBV,Healthcare,2018-07-27,1.97,2.0,beat,1.0
-ABBV,Healthcare,2018-11-02,2.0,2.14,beat,1.0
-ABBV,Healthcare,2019-01-25,1.93,1.9,miss,1.0
-ABBV,Healthcare,2019-04-25,2.07,2.14,beat,0.75
-ABBV,Healthcare,2019-07-26,2.21,2.26,beat,0.75
-ABBV,Healthcare,2019-11-01,2.3,2.33,beat,0.75
-ABBV,Healthcare,2020-02-07,2.19,2.21,beat,0.75
-ABBV,Healthcare,2020-05-01,2.25,2.42,beat,1.0
-ABBV,Healthcare,2020-07-31,2.2,2.34,beat,1.0
-ABBV,Healthcare,2020-10-30,2.77,2.83,beat,1.0
-ABBV,Healthcare,2021-02-03,2.85,2.92,beat,1.0
-ABBV,Healthcare,2021-04-30,2.83,2.95,beat,1.0
-ABBV,Healthcare,2021-07-30,3.03,3.11,beat,1.0
-ABBV,Healthcare,2021-10-29,3.22,3.33,beat,1.0
-ABBV,Healthcare,2022-02-02,3.28,3.31,beat,1.0
-ABBV,Healthcare,2022-04-29,3.14,3.16,beat,1.0
-ABBV,Healthcare,2022-07-29,3.31,3.37,beat,1.0
-ABBV,Healthcare,2022-10-28,3.57,3.66,beat,1.0
-ABBV,Healthcare,2023-02-09,3.58,3.6,beat,1.0
-ABBV,Healthcare,2023-04-27,2.49,2.46,miss,1.0
-ABBV,Healthcare,2023-07-27,2.81,2.91,beat,0.75
-ABBV,Healthcare,2023-10-27,2.87,2.95,beat,0.75
-ABBV,Healthcare,2024-02-02,2.8,2.79,miss,0.75
-ABBV,Healthcare,2024-04-26,2.26,2.31,beat,0.5
-ABBV,Healthcare,2024-07-25,2.66,2.65,miss,0.75
-ABBV,Healthcare,2024-10-30,2.92,3.0,beat,0.5
-ABBV,Healthcare,2025-01-31,2.12,2.16,beat,0.5
-ABBV,Healthcare,2025-04-25,2.4,2.46,beat,0.75
-ABBV,Healthcare,2025-07-31,2.91,2.97,beat,0.75
-ABBV,Healthcare,2025-10-31,1.78,1.86,beat,1.0
-ABBV,Healthcare,2026-02-04,2.65,2.71,beat,1.0
-ABBV,Healthcare,2026-04-29,2.67,2.65,miss,1.0
-AMGN,Healthcare,2014-10-27,2.12,2.3,beat,0.5
-AMGN,Healthcare,2015-01-27,2.05,2.16,beat,0.67
-AMGN,Healthcare,2015-04-21,2.11,2.48,beat,0.75
-AMGN,Healthcare,2015-07-30,2.42,2.57,beat,1.0
-AMGN,Healthcare,2015-10-28,2.37,2.72,beat,1.0
-AMGN,Healthcare,2016-01-28,2.28,2.61,beat,1.0
-AMGN,Healthcare,2016-04-28,2.61,2.9,beat,1.0
-AMGN,Healthcare,2016-07-27,2.74,2.84,beat,1.0
-AMGN,Healthcare,2016-10-27,2.8,3.02,beat,1.0
-AMGN,Healthcare,2017-02-02,2.79,2.89,beat,1.0
-AMGN,Healthcare,2017-04-26,3.01,3.15,beat,1.0
-AMGN,Healthcare,2017-07-25,3.11,3.27,beat,1.0
-AMGN,Healthcare,2017-10-25,3.1,3.27,beat,1.0
-AMGN,Healthcare,2018-02-01,3.03,2.89,miss,1.0
-AMGN,Healthcare,2018-04-24,3.25,3.47,beat,0.75
-AMGN,Healthcare,2018-07-26,3.56,3.83,beat,0.75
-AMGN,Healthcare,2018-10-30,3.45,3.69,beat,0.75
-AMGN,Healthcare,2019-01-29,3.27,3.42,beat,0.75
-AMGN,Healthcare,2019-04-30,3.48,3.56,beat,1.0
-AMGN,Healthcare,2019-07-30,3.58,3.97,beat,1.0
-AMGN,Healthcare,2019-10-29,3.53,3.66,beat,1.0
-AMGN,Healthcare,2020-01-30,3.42,3.64,beat,1.0
-AMGN,Healthcare,2020-04-30,3.75,4.17,beat,1.0
-AMGN,Healthcare,2020-07-28,3.77,4.25,beat,1.0
-AMGN,Healthcare,2020-10-28,3.75,4.37,beat,1.0
-AMGN,Healthcare,2021-02-02,3.35,3.81,beat,1.0
-AMGN,Healthcare,2021-04-27,4.04,3.7,miss,1.0
-AMGN,Healthcare,2021-08-03,4.01,4.38,beat,0.75
-AMGN,Healthcare,2021-11-02,4.22,4.67,beat,0.75
-AMGN,Healthcare,2022-02-07,4.04,4.36,beat,0.75
-AMGN,Healthcare,2022-04-27,4.12,4.25,beat,0.75
-AMGN,Healthcare,2022-08-04,4.33,4.65,beat,1.0
-AMGN,Healthcare,2022-11-03,4.45,4.7,beat,1.0
-AMGN,Healthcare,2023-01-31,4.09,4.09,meet,1.0
-AMGN,Healthcare,2023-04-27,3.85,3.98,beat,0.75
-AMGN,Healthcare,2023-08-03,4.49,5.0,beat,0.75
-AMGN,Healthcare,2023-10-31,4.68,4.96,beat,0.75
-AMGN,Healthcare,2024-02-06,4.59,4.71,beat,0.75
-AMGN,Healthcare,2024-05-02,3.89,3.96,beat,1.0
-AMGN,Healthcare,2024-08-06,5.0,4.97,miss,1.0
-AMGN,Healthcare,2024-10-30,5.11,5.58,beat,0.75
-AMGN,Healthcare,2025-02-04,5.08,5.31,beat,0.75
-AMGN,Healthcare,2025-05-01,4.26,4.9,beat,0.75
-AMGN,Healthcare,2025-08-05,5.28,6.02,beat,0.75
-AMGN,Healthcare,2025-11-04,5.01,5.64,beat,1.0
-AMGN,Healthcare,2026-02-03,4.73,5.29,beat,1.0
-AMGN,Healthcare,2026-04-30,4.77,5.15,beat,1.0
-AMZN,Consumer Cyclical,2014-10-23,-0.04,-0.05,miss,0.0
-AMZN,Consumer Cyclical,2015-01-29,0.01,0.02,beat,0.0
-AMZN,Consumer Cyclical,2015-07-23,-0.01,0.01,beat,0.25
-AMZN,Consumer Cyclical,2015-10-22,-0.01,0.01,beat,0.5
-AMZN,Consumer Cyclical,2016-01-28,0.08,0.05,miss,0.75
-AMZN,Consumer Cyclical,2016-04-28,0.03,0.05,beat,0.75
-AMZN,Consumer Cyclical,2016-07-28,0.05,0.09,beat,0.75
-AMZN,Consumer Cyclical,2016-10-27,0.04,0.03,miss,0.75
-AMZN,Consumer Cyclical,2017-02-02,0.07,0.08,beat,0.5
-AMZN,Consumer Cyclical,2017-04-27,0.06,0.07,beat,0.75
-AMZN,Consumer Cyclical,2017-07-27,0.07,0.02,miss,0.75
-AMZN,Consumer Cyclical,2018-02-01,0.09,0.19,beat,0.5
-AMZN,Consumer Cyclical,2018-04-26,0.06,0.16,beat,0.75
-AMZN,Consumer Cyclical,2018-07-26,0.13,0.25,beat,0.75
-AMZN,Consumer Cyclical,2018-10-25,0.16,0.29,beat,0.75
-AMZN,Consumer Cyclical,2019-01-31,0.28,0.3,beat,1.0
-AMZN,Consumer Cyclical,2019-04-25,0.23,0.35,beat,1.0
-AMZN,Consumer Cyclical,2019-07-25,0.28,0.26,miss,1.0
-AMZN,Consumer Cyclical,2019-10-24,0.23,0.21,miss,0.75
-AMZN,Consumer Cyclical,2020-01-30,0.2,0.32,beat,0.5
-AMZN,Consumer Cyclical,2020-04-30,0.31,0.25,miss,0.5
-AMZN,Consumer Cyclical,2020-07-30,0.08,0.52,beat,0.25
-AMZN,Consumer Cyclical,2020-10-29,0.37,0.62,beat,0.5
-AMZN,Consumer Cyclical,2021-02-02,0.36,0.7,beat,0.75
-AMZN,Consumer Cyclical,2021-04-29,0.48,0.79,beat,0.75
-AMZN,Consumer Cyclical,2021-07-29,0.62,0.76,beat,1.0
-AMZN,Consumer Cyclical,2021-10-28,0.44,0.31,miss,1.0
-AMZN,Consumer Cyclical,2022-02-03,0.19,1.39,beat,0.75
-AMZN,Consumer Cyclical,2022-04-28,0.41,-0.38,miss,0.75
-AMZN,Consumer Cyclical,2022-07-28,0.12,-0.2,miss,0.5
-AMZN,Consumer Cyclical,2022-10-27,0.21,0.28,beat,0.25
-AMZN,Consumer Cyclical,2023-02-02,0.16,0.03,miss,0.5
-AMZN,Consumer Cyclical,2023-04-27,0.21,0.31,beat,0.25
-AMZN,Consumer Cyclical,2023-08-03,0.34,0.65,beat,0.5
-AMZN,Consumer Cyclical,2023-10-26,0.58,0.94,beat,0.75
-AMZN,Consumer Cyclical,2024-02-01,0.8,1.0,beat,0.75
-AMZN,Consumer Cyclical,2024-04-30,0.83,0.98,beat,1.0
-AMZN,Consumer Cyclical,2024-08-01,1.02,1.26,beat,1.0
-AMZN,Consumer Cyclical,2024-10-31,1.14,1.43,beat,1.0
-AMZN,Consumer Cyclical,2025-02-06,1.48,1.86,beat,1.0
-AMZN,Consumer Cyclical,2025-05-01,1.36,1.59,beat,1.0
-AMZN,Consumer Cyclical,2025-07-31,1.33,1.68,beat,1.0
-AMZN,Consumer Cyclical,2025-10-30,1.56,1.95,beat,1.0
-AMZN,Consumer Cyclical,2026-02-05,1.95,1.95,meet,1.0
-AMZN,Consumer Cyclical,2026-04-29,1.65,2.78,beat,0.75
-AXP,Financial Services,2014-10-15,1.36,1.4,beat,1.0
-AXP,Financial Services,2015-01-21,1.38,1.39,beat,1.0
-AXP,Financial Services,2015-04-16,1.36,1.48,beat,1.0
-AXP,Financial Services,2015-07-22,1.33,1.42,beat,1.0
-AXP,Financial Services,2015-10-21,1.31,1.24,miss,1.0
-AXP,Financial Services,2016-01-21,1.12,1.23,beat,0.75
-AXP,Financial Services,2016-04-20,1.35,1.5,beat,0.75
-AXP,Financial Services,2016-07-20,1.71,2.26,beat,0.75
-AXP,Financial Services,2016-10-19,0.96,1.24,beat,0.75
-AXP,Financial Services,2017-01-19,0.99,0.91,miss,1.0
-AXP,Financial Services,2017-04-19,1.26,1.34,beat,0.75
-AXP,Financial Services,2017-07-19,1.44,1.47,beat,0.75
-AXP,Financial Services,2017-10-18,1.48,1.63,beat,0.75
-AXP,Financial Services,2018-01-18,1.54,1.58,beat,0.75
-AXP,Financial Services,2018-04-18,1.71,1.86,beat,1.0
-AXP,Financial Services,2018-07-18,1.82,1.84,beat,1.0
-AXP,Financial Services,2018-10-18,1.77,1.88,beat,1.0
-AXP,Financial Services,2019-01-17,1.8,1.74,miss,1.0
-AXP,Financial Services,2019-04-18,1.97,2.01,beat,0.75
-AXP,Financial Services,2019-07-19,2.02,2.07,beat,0.75
-AXP,Financial Services,2019-10-18,2.02,2.08,beat,0.75
-AXP,Financial Services,2020-01-24,2.01,2.03,beat,0.75
-AXP,Financial Services,2020-04-24,1.67,0.41,miss,1.0
-AXP,Financial Services,2020-07-24,0.02,0.29,beat,0.75
-AXP,Financial Services,2020-10-23,1.35,1.3,miss,0.75
-AXP,Financial Services,2021-01-26,1.3,1.76,beat,0.5
-AXP,Financial Services,2021-04-23,1.62,2.74,beat,0.5
-AXP,Financial Services,2021-07-23,1.62,2.8,beat,0.75
-AXP,Financial Services,2021-10-22,1.75,2.27,beat,0.75
-AXP,Financial Services,2022-01-25,1.84,2.18,beat,1.0
-AXP,Financial Services,2022-04-22,2.47,2.73,beat,1.0
-AXP,Financial Services,2022-07-22,2.41,2.57,beat,1.0
-AXP,Financial Services,2022-10-21,2.41,2.47,beat,1.0
-AXP,Financial Services,2023-01-27,2.24,2.07,miss,1.0
-AXP,Financial Services,2023-04-20,2.67,2.4,miss,0.75
-AXP,Financial Services,2023-07-21,2.82,2.89,beat,0.5
-AXP,Financial Services,2023-10-20,2.95,3.3,beat,0.5
-AXP,Financial Services,2024-01-26,2.65,2.62,miss,0.5
-AXP,Financial Services,2024-04-19,2.98,3.33,beat,0.5
-AXP,Financial Services,2024-07-19,3.26,4.15,beat,0.75
-AXP,Financial Services,2024-10-18,3.29,3.49,beat,0.75
-AXP,Financial Services,2025-01-24,3.03,3.04,beat,0.75
-AXP,Financial Services,2025-04-17,3.47,3.64,beat,1.0
-AXP,Financial Services,2025-07-18,3.88,4.08,beat,1.0
-AXP,Financial Services,2025-10-17,3.98,4.14,beat,1.0
-AXP,Financial Services,2026-01-30,3.55,3.53,miss,1.0
-AXP,Financial Services,2026-04-23,3.99,4.28,beat,0.75
-BA,Industrials,2014-10-22,1.96,2.14,beat,1.0
-BA,Industrials,2015-01-28,2.12,2.31,beat,1.0
-BA,Industrials,2015-04-22,1.81,1.97,beat,1.0
-BA,Industrials,2015-07-22,1.38,1.62,beat,1.0
-BA,Industrials,2015-10-21,2.19,2.52,beat,1.0
-BA,Industrials,2016-01-27,1.28,1.6,beat,1.0
-BA,Industrials,2016-04-27,1.85,1.74,miss,1.0
-BA,Industrials,2016-07-27,2.24,2.79,beat,0.75
-BA,Industrials,2016-10-26,2.62,3.51,beat,0.75
-BA,Industrials,2017-01-25,2.33,2.47,beat,0.75
-BA,Industrials,2017-04-26,1.91,2.01,beat,0.75
-BA,Industrials,2017-07-26,2.29,2.55,beat,1.0
-BA,Industrials,2017-10-25,2.66,2.72,beat,1.0
-BA,Industrials,2018-01-31,2.88,3.06,beat,1.0
-BA,Industrials,2018-04-25,2.61,3.64,beat,1.0
-BA,Industrials,2018-07-25,3.27,3.33,beat,1.0
-BA,Industrials,2018-10-24,3.46,3.58,beat,1.0
-BA,Industrials,2019-01-30,4.55,5.48,beat,1.0
-BA,Industrials,2019-04-24,3.19,3.16,miss,1.0
-BA,Industrials,2019-07-24,-6.66,-5.82,beat,0.75
-BA,Industrials,2019-10-23,2.11,1.45,miss,0.75
-BA,Industrials,2020-01-29,-1.18,-2.33,miss,0.5
-BA,Industrials,2020-04-29,-1.49,-1.7,miss,0.25
-BA,Industrials,2020-07-29,-2.53,-4.79,miss,0.25
-BA,Industrials,2020-10-28,-2.21,-1.39,beat,0.0
-BA,Industrials,2021-01-27,-1.65,-15.25,miss,0.25
-BA,Industrials,2021-04-28,-1.09,-1.53,miss,0.25
-BA,Industrials,2021-07-28,-0.73,0.4,beat,0.25
-BA,Industrials,2021-10-27,-0.15,-0.6,miss,0.5
-BA,Industrials,2022-01-26,-0.16,-7.69,miss,0.25
-BA,Industrials,2022-04-27,-0.25,-2.75,miss,0.25
-BA,Industrials,2022-07-27,-0.11,-0.37,miss,0.25
-BA,Industrials,2022-10-26,0.09,-6.18,miss,0.0
-BA,Industrials,2023-01-25,0.2,-1.75,miss,0.0
-BA,Industrials,2023-04-26,-1.05,-1.27,miss,0.0
-BA,Industrials,2023-07-26,-0.89,-0.82,beat,0.0
-BA,Industrials,2023-10-25,-2.61,-3.26,miss,0.25
-BA,Industrials,2024-01-31,-0.79,-0.47,beat,0.25
-BA,Industrials,2024-04-24,-1.52,-1.13,beat,0.5
-BA,Industrials,2024-07-31,-2.01,-2.9,miss,0.75
-BA,Industrials,2024-10-23,-8.72,-10.44,miss,0.5
-BA,Industrials,2025-01-28,-3.78,-5.9,miss,0.5
-BA,Industrials,2025-04-23,-1.3,-0.49,beat,0.25
-BA,Industrials,2025-07-29,-1.27,-1.24,beat,0.25
-BA,Industrials,2025-10-29,-2.38,-7.47,miss,0.5
-BA,Industrials,2026-01-27,-0.41,9.92,beat,0.5
-BA,Industrials,2026-04-22,-0.67,-0.2,beat,0.75
-BRK-B,Financial Services,2014-11-07,1.7,1.92,beat,0.5
-BRK-B,Financial Services,2015-02-28,1.85,1.61,miss,0.67
-BRK-B,Financial Services,2015-05-01,1.62,1.72,beat,0.5
-BRK-B,Financial Services,2015-08-07,2.13,1.58,miss,0.75
-BRK-B,Financial Services,2015-11-06,1.9,1.85,miss,0.5
-BRK-B,Financial Services,2016-02-27,1.75,1.9,beat,0.25
-BRK-B,Financial Services,2016-05-06,1.89,1.52,miss,0.5
-BRK-B,Financial Services,2016-08-05,1.89,1.87,miss,0.25
-BRK-B,Financial Services,2016-11-04,2.01,1.97,miss,0.25
-BRK-B,Financial Services,2017-02-25,1.82,1.78,miss,0.25
-BRK-B,Financial Services,2017-05-05,1.74,1.44,miss,0.0
-BRK-B,Financial Services,2017-08-04,1.8,1.67,miss,0.0
-BRK-B,Financial Services,2017-11-03,1.59,1.4,miss,0.0
-BRK-B,Financial Services,2018-02-24,1.76,1.35,miss,0.0
-BRK-B,Financial Services,2018-05-05,2.06,2.14,beat,0.0
-BRK-B,Financial Services,2018-08-04,2.22,2.79,beat,0.25
-BRK-B,Financial Services,2018-11-03,2.48,2.79,beat,0.5
-BRK-B,Financial Services,2019-02-23,2.24,2.32,beat,0.75
-BRK-B,Financial Services,2019-05-04,2.26,2.26,meet,1.0
-BRK-B,Financial Services,2019-08-03,2.59,2.5,miss,0.75
-BRK-B,Financial Services,2019-11-02,2.81,3.21,beat,0.5
-BRK-B,Financial Services,2020-02-22,2.48,1.81,miss,0.5
-BRK-B,Financial Services,2020-05-02,2.51,2.41,miss,0.25
-BRK-B,Financial Services,2020-08-08,2.3,2.28,miss,0.25
-BRK-B,Financial Services,2020-11-07,2.41,2.3,miss,0.25
-BRK-B,Financial Services,2021-02-27,2.28,2.15,miss,0.0
-BRK-B,Financial Services,2021-05-01,2.57,3.05,beat,0.0
-BRK-B,Financial Services,2021-08-07,2.65,2.93,beat,0.25
-BRK-B,Financial Services,2021-11-06,2.93,2.87,miss,0.5
-BRK-B,Financial Services,2022-02-26,2.95,3.27,beat,0.5
-BRK-B,Financial Services,2022-04-30,2.88,3.18,beat,0.75
-BRK-B,Financial Services,2022-08-06,3.34,4.21,beat,0.75
-BRK-B,Financial Services,2022-11-05,2.92,3.53,beat,0.75
-BRK-B,Financial Services,2023-02-25,4.17,3.06,miss,1.0
-BRK-B,Financial Services,2023-05-06,3.5,3.69,beat,0.75
-BRK-B,Financial Services,2023-08-05,3.99,4.62,beat,0.75
-BRK-B,Financial Services,2023-11-04,4.93,4.96,beat,0.75
-BRK-B,Financial Services,2024-02-24,3.79,3.92,beat,0.75
-BRK-B,Financial Services,2024-05-04,4.9,5.2,beat,1.0
-BRK-B,Financial Services,2024-08-03,4.77,5.38,beat,1.0
-BRK-B,Financial Services,2024-11-02,5.28,4.68,miss,1.0
-BRK-B,Financial Services,2025-02-22,4.19,6.73,beat,0.75
-BRK-B,Financial Services,2025-05-03,4.72,4.47,miss,0.75
-BRK-B,Financial Services,2025-08-02,5.04,5.17,beat,0.5
-BRK-B,Financial Services,2025-11-01,5.73,6.25,beat,0.5
-BRK-B,Financial Services,2026-02-28,5.17,4.73,miss,0.75
-BRK-B,Financial Services,2026-05-02,5.05,5.26,beat,0.5
-COST,Consumer Defensive,2014-12-10,1.09,1.12,beat,0.5
-COST,Consumer Defensive,2015-03-05,1.18,1.35,beat,0.67
-COST,Consumer Defensive,2015-05-27,1.15,1.17,beat,0.75
-COST,Consumer Defensive,2015-09-29,1.66,1.73,beat,1.0
-COST,Consumer Defensive,2015-12-08,1.17,1.09,miss,1.0
-COST,Consumer Defensive,2016-03-02,1.27,1.24,miss,0.75
-COST,Consumer Defensive,2016-05-25,1.22,1.24,beat,0.5
-COST,Consumer Defensive,2016-09-29,1.73,1.77,beat,0.5
-COST,Consumer Defensive,2016-12-07,1.19,1.24,beat,0.5
-COST,Consumer Defensive,2017-03-02,1.36,1.17,miss,0.75
-COST,Consumer Defensive,2017-05-25,1.3,1.59,beat,0.75
-COST,Consumer Defensive,2017-10-05,2.02,2.08,beat,0.75
-COST,Consumer Defensive,2017-12-14,1.34,1.45,beat,0.75
-COST,Consumer Defensive,2018-03-07,1.51,1.59,beat,0.75
-COST,Consumer Defensive,2018-05-31,1.7,1.7,meet,1.0
-COST,Consumer Defensive,2018-10-04,2.37,2.36,miss,0.75
-COST,Consumer Defensive,2018-12-13,1.62,1.73,beat,0.5
-COST,Consumer Defensive,2019-03-07,1.69,2.01,beat,0.5
-COST,Consumer Defensive,2019-05-30,1.81,2.05,beat,0.5
-COST,Consumer Defensive,2019-10-03,2.55,2.47,miss,0.75
-COST,Consumer Defensive,2019-12-12,1.71,1.9,beat,0.75
-COST,Consumer Defensive,2020-03-05,2.06,2.1,beat,0.75
-COST,Consumer Defensive,2020-05-28,1.89,1.89,meet,0.75
-COST,Consumer Defensive,2020-09-24,2.81,3.13,beat,0.5
-COST,Consumer Defensive,2020-12-10,2.07,2.62,beat,0.75
-COST,Consumer Defensive,2021-03-04,2.44,2.14,miss,0.75
-COST,Consumer Defensive,2021-05-27,2.34,2.75,beat,0.5
-COST,Consumer Defensive,2021-09-23,3.58,3.76,beat,0.75
-COST,Consumer Defensive,2021-12-09,2.65,2.98,beat,0.75
-COST,Consumer Defensive,2022-03-03,2.79,2.92,beat,0.75
-COST,Consumer Defensive,2022-05-26,3.04,3.04,meet,1.0
-COST,Consumer Defensive,2022-09-22,4.2,4.2,meet,0.75
-COST,Consumer Defensive,2022-12-08,3.13,3.07,miss,0.5
-COST,Consumer Defensive,2023-03-02,3.23,3.3,beat,0.25
-COST,Consumer Defensive,2023-06-01,3.19,2.93,miss,0.25
-COST,Consumer Defensive,2023-09-26,4.78,4.86,beat,0.25
-COST,Consumer Defensive,2023-12-14,3.42,3.58,beat,0.5
-COST,Consumer Defensive,2024-03-07,3.61,3.92,beat,0.75
-COST,Consumer Defensive,2024-06-06,3.77,3.78,beat,0.75
-COST,Consumer Defensive,2024-09-26,5.06,5.29,beat,1.0
-COST,Consumer Defensive,2024-12-12,3.8,4.04,beat,1.0
-COST,Consumer Defensive,2025-03-06,4.1,4.02,miss,1.0
-COST,Consumer Defensive,2025-05-29,4.23,4.28,beat,0.75
-COST,Consumer Defensive,2025-09-25,5.8,5.87,beat,0.75
-COST,Consumer Defensive,2025-12-11,4.28,4.5,beat,0.75
-COST,Consumer Defensive,2026-03-05,4.54,4.58,beat,0.75
-COST,Consumer Defensive,2026-05-28,4.92,4.93,beat,1.0
-CVX,Energy,2014-10-31,2.53,2.95,beat,0.5
-CVX,Energy,2015-01-30,1.65,1.85,beat,0.67
-CVX,Energy,2015-05-01,0.81,1.37,beat,0.75
-CVX,Energy,2015-07-31,1.16,0.97,miss,1.0
-CVX,Energy,2015-10-30,0.74,1.09,beat,0.75
-CVX,Energy,2016-01-29,0.51,0.27,miss,0.75
-CVX,Energy,2016-04-29,-0.16,-0.11,beat,0.5
-CVX,Energy,2016-07-29,0.32,0.35,beat,0.5
-CVX,Energy,2016-10-28,0.39,0.49,beat,0.75
-CVX,Energy,2017-01-27,0.64,0.21,miss,0.75
-CVX,Energy,2017-04-28,0.87,1.23,beat,0.75
-CVX,Energy,2017-07-28,0.87,0.91,beat,0.75
-CVX,Energy,2017-10-27,0.97,0.85,miss,0.75
-CVX,Energy,2018-02-02,1.24,0.72,miss,0.5
-CVX,Energy,2018-04-27,1.49,1.9,beat,0.5
-CVX,Energy,2018-07-27,2.09,1.78,miss,0.5
-CVX,Energy,2018-11-02,2.06,2.44,beat,0.25
-CVX,Energy,2019-02-01,1.89,1.95,beat,0.5
-CVX,Energy,2019-04-26,1.33,1.47,beat,0.75
-CVX,Energy,2019-08-02,1.82,1.77,miss,0.75
-CVX,Energy,2019-11-01,1.46,1.55,beat,0.75
-CVX,Energy,2020-01-31,1.46,1.49,beat,0.75
-CVX,Energy,2020-05-01,0.67,1.29,beat,0.75
-CVX,Energy,2020-07-31,-0.92,-1.59,miss,0.75
-CVX,Energy,2020-10-30,-0.27,0.11,beat,0.75
-CVX,Energy,2021-01-29,0.09,-0.01,miss,0.75
-CVX,Energy,2021-04-30,0.94,0.9,miss,0.5
-CVX,Energy,2021-07-30,1.6,1.71,beat,0.25
-CVX,Energy,2021-10-29,2.19,2.96,beat,0.5
-CVX,Energy,2022-01-28,3.12,2.56,miss,0.5
-CVX,Energy,2022-04-29,3.45,3.36,miss,0.5
-CVX,Energy,2022-07-29,5.03,5.82,beat,0.5
-CVX,Energy,2022-10-28,4.92,5.56,beat,0.5
-CVX,Energy,2023-01-27,4.3,4.09,miss,0.5
-CVX,Energy,2023-04-28,3.38,3.55,beat,0.5
-CVX,Energy,2023-07-23,2.98,3.08,beat,0.75
-CVX,Energy,2023-10-27,3.68,3.05,miss,0.75
-CVX,Energy,2024-02-02,3.22,3.45,beat,0.5
-CVX,Energy,2024-04-26,2.91,2.93,beat,0.75
-CVX,Energy,2024-08-02,3.0,2.55,miss,0.75
-CVX,Energy,2024-11-01,2.42,2.51,beat,0.5
-CVX,Energy,2025-01-31,2.11,2.06,miss,0.75
-CVX,Energy,2025-05-02,2.15,2.18,beat,0.5
-CVX,Energy,2025-08-01,1.74,1.77,beat,0.5
-CVX,Energy,2025-10-31,1.71,1.85,beat,0.75
-CVX,Energy,2026-01-30,1.44,1.52,beat,0.75
-CVX,Energy,2026-05-01,0.97,1.41,beat,1.0
-DE,Industrials,2014-11-26,1.62,1.83,beat,1.0
-DE,Industrials,2015-02-20,0.82,1.12,beat,1.0
-DE,Industrials,2015-05-22,1.56,2.03,beat,1.0
-DE,Industrials,2015-08-21,1.44,1.53,beat,1.0
-DE,Industrials,2015-11-25,0.75,1.08,beat,1.0
-DE,Industrials,2016-02-19,0.72,0.8,beat,1.0
-DE,Industrials,2016-05-20,1.5,1.56,beat,1.0
-DE,Industrials,2016-08-19,0.93,1.55,beat,1.0
-DE,Industrials,2016-11-23,0.4,0.9,beat,1.0
-DE,Industrials,2017-02-17,0.52,0.61,beat,1.0
-DE,Industrials,2017-05-19,1.66,2.49,beat,1.0
-DE,Industrials,2017-08-18,1.95,1.97,beat,1.0
-DE,Industrials,2017-11-22,1.47,1.57,beat,1.0
-DE,Industrials,2018-02-16,1.21,-1.66,miss,1.0
-DE,Industrials,2018-05-18,3.4,3.67,beat,0.75
-DE,Industrials,2018-08-17,2.75,2.78,beat,0.75
-DE,Industrials,2018-11-21,2.4,2.42,beat,0.75
-DE,Industrials,2019-02-15,1.74,1.54,miss,0.75
-DE,Industrials,2019-05-17,3.59,3.52,miss,0.75
-DE,Industrials,2019-08-16,2.82,2.81,miss,0.5
-DE,Industrials,2019-11-27,2.14,2.27,beat,0.25
-DE,Industrials,2020-02-21,1.26,1.63,beat,0.25
-DE,Industrials,2020-05-22,1.62,2.11,beat,0.5
-DE,Industrials,2020-08-21,1.25,2.57,beat,0.75
-DE,Industrials,2020-11-25,1.34,2.39,beat,1.0
-DE,Industrials,2021-02-19,2.21,3.87,beat,1.0
-DE,Industrials,2021-05-21,4.59,5.68,beat,1.0
-DE,Industrials,2021-08-20,4.57,5.32,beat,1.0
-DE,Industrials,2021-11-24,3.89,4.12,beat,1.0
-DE,Industrials,2022-02-18,2.26,2.92,beat,1.0
-DE,Industrials,2022-05-20,6.69,6.81,beat,1.0
-DE,Industrials,2022-08-19,6.69,6.16,miss,1.0
-DE,Industrials,2022-11-23,7.1,7.44,beat,0.75
-DE,Industrials,2023-02-17,5.45,6.55,beat,0.75
-DE,Industrials,2023-05-19,8.64,9.65,beat,0.75
-DE,Industrials,2023-08-18,8.18,10.2,beat,0.75
-DE,Industrials,2023-11-22,7.41,8.26,beat,1.0
-DE,Industrials,2024-02-15,5.21,6.23,beat,1.0
-DE,Industrials,2024-05-16,7.92,8.53,beat,1.0
-DE,Industrials,2024-08-15,5.64,6.29,beat,1.0
-DE,Industrials,2024-11-21,3.93,4.55,beat,1.0
-DE,Industrials,2025-02-13,3.25,3.19,miss,1.0
-DE,Industrials,2025-05-15,5.64,6.64,beat,0.75
-DE,Industrials,2025-08-14,4.66,4.75,beat,0.75
-DE,Industrials,2025-11-26,3.83,3.93,beat,0.75
-DE,Industrials,2026-02-19,2.1,2.42,beat,0.75
-DE,Industrials,2026-05-21,5.74,6.55,beat,1.0
-ETN,Industrials,2014-10-29,1.23,1.29,beat,0.5
-ETN,Industrials,2015-02-03,1.2,1.27,beat,0.67
-ETN,Industrials,2015-04-29,0.98,1.01,beat,0.75
-ETN,Industrials,2015-07-29,1.13,1.16,beat,0.75
-ETN,Industrials,2015-10-30,0.98,0.97,miss,1.0
-ETN,Industrials,2016-02-03,1.1,1.17,beat,0.75
-ETN,Industrials,2016-04-29,0.85,0.88,beat,0.75
-ETN,Industrials,2016-08-02,1.07,1.07,meet,0.75
-ETN,Industrials,2016-11-01,1.15,1.15,meet,0.5
-ETN,Industrials,2017-02-02,1.1,1.12,beat,0.5
-ETN,Industrials,2017-05-02,0.88,0.96,beat,0.5
-ETN,Industrials,2017-08-01,1.16,1.15,miss,0.5
-ETN,Industrials,2017-10-31,1.25,1.25,meet,0.5
-ETN,Industrials,2018-02-01,1.24,1.29,beat,0.5
-ETN,Industrials,2018-05-01,1.07,1.1,beat,0.5
-ETN,Industrials,2018-07-31,1.32,1.39,beat,0.5
-ETN,Industrials,2018-10-30,1.43,1.43,meet,0.75
-ETN,Industrials,2019-01-31,1.43,1.46,beat,0.75
-ETN,Industrials,2019-04-30,1.25,1.26,beat,0.75
-ETN,Industrials,2019-07-30,1.51,1.53,beat,0.75
-ETN,Industrials,2019-10-29,1.51,1.52,beat,0.75
-ETN,Industrials,2020-02-04,1.4,1.37,miss,1.0
-ETN,Industrials,2020-04-30,1.07,1.09,beat,0.75
-ETN,Industrials,2020-07-29,0.53,0.7,beat,0.75
-ETN,Industrials,2020-11-03,1.05,1.18,beat,0.75
-ETN,Industrials,2021-02-02,1.24,1.28,beat,0.75
-ETN,Industrials,2021-05-04,1.24,1.44,beat,1.0
-ETN,Industrials,2021-08-03,1.57,1.72,beat,1.0
-ETN,Industrials,2021-11-02,1.73,1.75,beat,1.0
-ETN,Industrials,2022-02-04,1.71,1.72,beat,1.0
-ETN,Industrials,2022-05-03,1.6,1.62,beat,1.0
-ETN,Industrials,2022-08-02,1.82,1.87,beat,1.0
-ETN,Industrials,2022-11-01,2.01,2.02,beat,1.0
-ETN,Industrials,2023-02-08,2.05,2.06,beat,1.0
-ETN,Industrials,2023-05-02,1.78,1.88,beat,1.0
-ETN,Industrials,2023-08-01,2.11,2.21,beat,1.0
-ETN,Industrials,2023-10-31,2.34,2.47,beat,1.0
-ETN,Industrials,2024-02-01,2.47,2.55,beat,1.0
-ETN,Industrials,2024-04-30,2.29,2.4,beat,1.0
-ETN,Industrials,2024-08-01,2.61,2.73,beat,1.0
-ETN,Industrials,2024-10-31,2.81,2.84,beat,1.0
-ETN,Industrials,2025-01-31,2.81,2.83,beat,1.0
-ETN,Industrials,2025-05-02,2.71,2.72,beat,1.0
-ETN,Industrials,2025-08-05,2.92,2.95,beat,1.0
-ETN,Industrials,2025-11-04,3.05,3.07,beat,1.0
-ETN,Industrials,2026-02-03,3.32,3.33,beat,1.0
-ETN,Industrials,2026-05-05,2.73,2.81,beat,1.0
-GILD,Healthcare,2014-10-28,1.9,1.84,miss,1.0
-GILD,Healthcare,2015-02-03,2.18,2.43,beat,0.67
-GILD,Healthcare,2015-04-30,2.29,2.94,beat,0.75
-GILD,Healthcare,2015-07-28,2.71,3.15,beat,0.75
-GILD,Healthcare,2015-10-27,2.87,3.22,beat,0.75
-GILD,Healthcare,2016-02-02,2.97,3.32,beat,1.0
-GILD,Healthcare,2016-04-28,3.13,3.03,miss,1.0
-GILD,Healthcare,2016-07-25,3.01,3.08,beat,0.75
-GILD,Healthcare,2016-11-01,2.83,2.75,miss,0.75
-GILD,Healthcare,2017-02-07,2.6,2.7,beat,0.5
-GILD,Healthcare,2017-05-02,2.28,2.23,miss,0.5
-GILD,Healthcare,2017-07-26,2.17,2.56,beat,0.5
-GILD,Healthcare,2017-10-26,2.13,2.27,beat,0.5
-GILD,Healthcare,2018-02-06,1.67,1.78,beat,0.75
-GILD,Healthcare,2018-05-01,1.67,1.48,miss,0.75
-GILD,Healthcare,2018-07-25,1.56,1.91,beat,0.75
-GILD,Healthcare,2018-10-25,1.63,1.84,beat,0.75
-GILD,Healthcare,2019-02-04,1.69,1.44,miss,0.75
-GILD,Healthcare,2019-05-02,1.6,1.76,beat,0.5
-GILD,Healthcare,2019-07-30,1.71,1.82,beat,0.75
-GILD,Healthcare,2019-10-24,1.73,1.75,beat,0.75
-GILD,Healthcare,2020-02-04,1.67,1.3,miss,0.75
-GILD,Healthcare,2020-04-30,1.56,1.68,beat,0.75
-GILD,Healthcare,2020-07-30,1.45,1.11,miss,0.75
-GILD,Healthcare,2020-10-28,1.89,2.11,beat,0.5
-GILD,Healthcare,2021-02-04,2.15,2.19,beat,0.5
-GILD,Healthcare,2021-04-29,2.11,2.08,miss,0.75
-GILD,Healthcare,2021-07-29,1.75,1.87,beat,0.5
-GILD,Healthcare,2021-10-28,1.78,2.65,beat,0.75
-GILD,Healthcare,2022-02-01,1.59,0.69,miss,0.75
-GILD,Healthcare,2022-04-28,1.81,2.12,beat,0.5
-GILD,Healthcare,2022-08-02,1.52,1.58,beat,0.75
-GILD,Healthcare,2022-10-27,1.43,1.9,beat,0.75
-GILD,Healthcare,2023-02-02,1.51,1.67,beat,0.75
-GILD,Healthcare,2023-04-27,1.54,1.37,miss,1.0
-GILD,Healthcare,2023-08-03,1.64,1.34,miss,0.75
-GILD,Healthcare,2023-11-07,1.92,2.29,beat,0.5
-GILD,Healthcare,2024-02-06,1.76,1.72,miss,0.5
-GILD,Healthcare,2024-04-25,-1.52,-1.32,beat,0.25
-GILD,Healthcare,2024-08-08,1.6,2.01,beat,0.5
-GILD,Healthcare,2024-11-06,1.55,2.02,beat,0.75
-GILD,Healthcare,2025-02-11,1.7,1.9,beat,0.75
-GILD,Healthcare,2025-04-24,1.78,1.81,beat,1.0
-GILD,Healthcare,2025-08-07,1.96,2.01,beat,1.0
-GILD,Healthcare,2025-10-30,2.14,2.47,beat,1.0
-GILD,Healthcare,2026-02-10,1.81,1.86,beat,1.0
-GILD,Healthcare,2026-05-07,1.91,2.03,beat,1.0
-HD,Consumer Cyclical,2014-11-18,1.14,1.12,miss,0.5
-HD,Consumer Cyclical,2015-02-24,0.89,1.0,beat,0.33
-HD,Consumer Cyclical,2015-05-19,1.15,1.16,beat,0.5
-HD,Consumer Cyclical,2015-08-18,1.69,1.71,beat,0.75
-HD,Consumer Cyclical,2015-11-17,1.32,1.36,beat,0.75
-HD,Consumer Cyclical,2016-02-23,1.1,1.17,beat,1.0
-HD,Consumer Cyclical,2016-05-17,1.35,1.44,beat,1.0
-HD,Consumer Cyclical,2016-08-16,1.97,1.97,meet,1.0
-HD,Consumer Cyclical,2016-11-15,1.58,1.6,beat,0.75
-HD,Consumer Cyclical,2017-02-21,1.34,1.44,beat,0.75
-HD,Consumer Cyclical,2017-05-16,1.61,1.67,beat,0.75
-HD,Consumer Cyclical,2017-08-15,2.22,2.25,beat,0.75
-HD,Consumer Cyclical,2017-11-14,1.82,1.84,beat,1.0
-HD,Consumer Cyclical,2018-02-20,1.64,1.69,beat,1.0
-HD,Consumer Cyclical,2018-05-15,2.05,2.08,beat,1.0
-HD,Consumer Cyclical,2018-08-14,2.85,3.05,beat,1.0
-HD,Consumer Cyclical,2018-11-13,2.27,2.51,beat,1.0
-HD,Consumer Cyclical,2019-02-26,2.16,2.25,beat,1.0
-HD,Consumer Cyclical,2019-05-21,2.19,2.27,beat,1.0
-HD,Consumer Cyclical,2019-08-20,3.08,3.17,beat,1.0
-HD,Consumer Cyclical,2019-11-19,2.53,2.53,meet,1.0
-HD,Consumer Cyclical,2020-02-25,2.11,2.28,beat,0.75
-HD,Consumer Cyclical,2020-05-19,2.26,2.08,miss,0.75
-HD,Consumer Cyclical,2020-08-18,3.72,4.02,beat,0.5
-HD,Consumer Cyclical,2020-11-17,3.04,3.18,beat,0.5
-HD,Consumer Cyclical,2021-02-23,2.62,2.74,beat,0.75
-HD,Consumer Cyclical,2021-05-18,3.05,3.86,beat,0.75
-HD,Consumer Cyclical,2021-08-17,4.43,4.53,beat,1.0
-HD,Consumer Cyclical,2021-11-16,3.4,3.92,beat,1.0
-HD,Consumer Cyclical,2022-02-22,3.18,3.21,beat,1.0
-HD,Consumer Cyclical,2022-05-17,3.69,4.09,beat,1.0
-HD,Consumer Cyclical,2022-08-16,4.93,5.05,beat,1.0
-HD,Consumer Cyclical,2022-11-15,4.12,4.24,beat,1.0
-HD,Consumer Cyclical,2023-02-21,3.29,3.3,beat,1.0
-HD,Consumer Cyclical,2023-05-16,3.8,3.82,beat,1.0
-HD,Consumer Cyclical,2023-08-15,4.44,4.65,beat,1.0
-HD,Consumer Cyclical,2023-11-14,3.76,3.81,beat,1.0
-HD,Consumer Cyclical,2024-02-20,2.77,2.82,beat,1.0
-HD,Consumer Cyclical,2024-05-14,3.61,3.63,beat,1.0
-HD,Consumer Cyclical,2024-08-13,4.55,4.6,beat,1.0
-HD,Consumer Cyclical,2024-11-12,3.66,3.67,beat,1.0
-HD,Consumer Cyclical,2025-02-25,3.04,3.02,miss,1.0
-HD,Consumer Cyclical,2025-05-20,3.59,3.56,miss,0.75
-HD,Consumer Cyclical,2025-08-19,4.69,4.68,miss,0.5
-HD,Consumer Cyclical,2025-11-18,3.83,3.74,miss,0.25
-HD,Consumer Cyclical,2026-02-24,2.52,2.72,beat,0.0
-HD,Consumer Cyclical,2026-05-19,3.41,3.43,beat,0.25
-IBM,Technology,2014-10-20,4.32,3.54,miss,0.5
-IBM,Technology,2015-01-20,5.41,5.81,beat,0.33
-IBM,Technology,2015-04-20,2.84,2.91,beat,0.5
-IBM,Technology,2015-07-20,3.79,3.84,beat,0.75
-IBM,Technology,2015-10-19,3.3,3.34,beat,0.75
-IBM,Technology,2016-01-19,4.81,4.84,beat,1.0
-IBM,Technology,2016-04-18,2.17,2.35,beat,1.0
-IBM,Technology,2016-07-18,2.88,2.95,beat,1.0
-IBM,Technology,2016-10-17,3.23,3.29,beat,1.0
-IBM,Technology,2017-01-19,4.88,5.01,beat,1.0
-IBM,Technology,2017-04-18,2.35,2.38,beat,1.0
-IBM,Technology,2017-07-18,2.74,2.97,beat,1.0
-IBM,Technology,2017-10-17,3.28,3.3,beat,1.0
-IBM,Technology,2018-01-18,5.17,5.18,beat,1.0
-IBM,Technology,2018-04-17,2.42,2.45,beat,1.0
-IBM,Technology,2018-07-18,3.04,3.08,beat,1.0
-IBM,Technology,2018-10-16,3.4,3.42,beat,1.0
-IBM,Technology,2019-01-22,4.82,4.87,beat,1.0
-IBM,Technology,2019-04-16,2.24,2.25,beat,1.0
-IBM,Technology,2019-07-17,3.07,3.17,beat,1.0
-IBM,Technology,2019-10-16,2.66,2.68,beat,1.0
-IBM,Technology,2020-01-21,4.69,4.71,beat,1.0
-IBM,Technology,2020-04-20,1.8,1.84,beat,1.0
-IBM,Technology,2020-07-20,2.09,2.18,beat,1.0
-IBM,Technology,2020-10-19,2.58,2.58,meet,1.0
-IBM,Technology,2021-01-21,1.88,2.07,beat,0.75
-IBM,Technology,2021-04-19,1.65,1.77,beat,0.75
-IBM,Technology,2021-07-19,2.29,2.33,beat,0.75
-IBM,Technology,2021-10-20,2.51,2.52,beat,0.75
-IBM,Technology,2022-01-24,3.29,3.35,beat,1.0
-IBM,Technology,2022-04-19,1.42,1.4,miss,1.0
-IBM,Technology,2022-07-18,2.29,2.31,beat,0.75
-IBM,Technology,2022-10-19,1.8,1.81,beat,0.75
-IBM,Technology,2023-01-25,3.61,3.6,miss,0.75
-IBM,Technology,2023-04-19,1.24,1.36,beat,0.5
-IBM,Technology,2023-07-19,2.0,2.18,beat,0.75
-IBM,Technology,2023-10-25,2.13,2.2,beat,0.75
-IBM,Technology,2024-01-24,3.8,3.87,beat,0.75
-IBM,Technology,2024-04-24,1.6,1.68,beat,1.0
-IBM,Technology,2024-07-24,2.17,2.43,beat,1.0
-IBM,Technology,2024-10-23,2.23,2.3,beat,1.0
-IBM,Technology,2025-01-29,3.78,3.92,beat,1.0
-IBM,Technology,2025-04-23,1.43,1.6,beat,1.0
-IBM,Technology,2025-07-23,2.65,2.8,beat,1.0
-IBM,Technology,2025-10-22,2.45,2.65,beat,1.0
-IBM,Technology,2026-01-28,4.29,4.52,beat,1.0
-IBM,Technology,2026-04-22,1.81,1.91,beat,1.0
-KO,Consumer Defensive,2014-10-21,0.53,0.53,meet,0.5
-KO,Consumer Defensive,2015-02-10,0.42,0.44,beat,0.33
-KO,Consumer Defensive,2015-04-22,0.42,0.48,beat,0.5
-KO,Consumer Defensive,2015-07-22,0.6,0.63,beat,0.75
-KO,Consumer Defensive,2015-10-21,0.5,0.51,beat,0.75
-KO,Consumer Defensive,2016-02-09,0.37,0.38,beat,1.0
-KO,Consumer Defensive,2016-04-20,0.44,0.45,beat,1.0
-KO,Consumer Defensive,2016-07-27,0.58,0.6,beat,1.0
-KO,Consumer Defensive,2016-10-26,0.48,0.49,beat,1.0
-KO,Consumer Defensive,2017-02-09,0.37,0.37,meet,1.0
-KO,Consumer Defensive,2017-04-25,0.44,0.43,miss,0.75
-KO,Consumer Defensive,2017-07-26,0.57,0.59,beat,0.5
-KO,Consumer Defensive,2017-10-25,0.49,0.5,beat,0.5
-KO,Consumer Defensive,2018-02-16,0.38,0.39,beat,0.5
-KO,Consumer Defensive,2018-04-24,0.46,0.47,beat,0.75
-KO,Consumer Defensive,2018-07-25,0.6,0.61,beat,1.0
-KO,Consumer Defensive,2018-10-30,0.55,0.58,beat,1.0
-KO,Consumer Defensive,2019-02-14,0.43,0.43,meet,1.0
-KO,Consumer Defensive,2019-04-23,0.46,0.48,beat,0.75
-KO,Consumer Defensive,2019-07-23,0.61,0.63,beat,0.75
-KO,Consumer Defensive,2019-10-18,0.56,0.56,meet,0.75
-KO,Consumer Defensive,2020-01-30,0.44,0.44,meet,0.5
-KO,Consumer Defensive,2020-04-21,0.44,0.51,beat,0.5
-KO,Consumer Defensive,2020-07-21,0.41,0.42,beat,0.5
-KO,Consumer Defensive,2020-10-22,0.46,0.55,beat,0.5
-KO,Consumer Defensive,2021-02-10,0.42,0.47,beat,0.75
-KO,Consumer Defensive,2021-04-19,0.5,0.55,beat,1.0
-KO,Consumer Defensive,2021-07-21,0.56,0.68,beat,1.0
-KO,Consumer Defensive,2021-10-27,0.58,0.65,beat,1.0
-KO,Consumer Defensive,2022-02-10,0.41,0.45,beat,1.0
-KO,Consumer Defensive,2022-04-25,0.58,0.64,beat,1.0
-KO,Consumer Defensive,2022-07-26,0.67,0.7,beat,1.0
-KO,Consumer Defensive,2022-10-25,0.64,0.69,beat,1.0
-KO,Consumer Defensive,2023-02-14,0.45,0.45,meet,1.0
-KO,Consumer Defensive,2023-04-24,0.65,0.68,beat,0.75
-KO,Consumer Defensive,2023-07-26,0.72,0.78,beat,0.75
-KO,Consumer Defensive,2023-10-24,0.69,0.74,beat,0.75
-KO,Consumer Defensive,2024-02-13,0.49,0.49,meet,0.75
-KO,Consumer Defensive,2024-04-30,0.7,0.72,beat,0.75
-KO,Consumer Defensive,2024-07-23,0.81,0.84,beat,0.75
-KO,Consumer Defensive,2024-10-23,0.75,0.77,beat,0.75
-KO,Consumer Defensive,2025-02-11,0.52,0.55,beat,0.75
-KO,Consumer Defensive,2025-04-29,0.72,0.73,beat,1.0
-KO,Consumer Defensive,2025-07-22,0.84,0.87,beat,1.0
-KO,Consumer Defensive,2025-10-21,0.78,0.82,beat,1.0
-KO,Consumer Defensive,2026-02-10,0.56,0.58,beat,1.0
-KO,Consumer Defensive,2026-04-28,0.81,0.86,beat,1.0
-LIN,Basic Materials,2014-10-29,1.62,1.62,meet,0.0
-LIN,Basic Materials,2015-01-28,1.56,1.57,beat,0.0
-LIN,Basic Materials,2015-04-29,1.44,1.43,miss,0.25
-LIN,Basic Materials,2015-07-29,1.45,1.45,meet,0.25
-LIN,Basic Materials,2015-10-29,1.45,1.46,beat,0.25
-LIN,Basic Materials,2016-01-29,1.47,1.47,meet,0.5
-LIN,Basic Materials,2016-04-29,1.27,1.28,beat,0.25
-LIN,Basic Materials,2016-07-28,1.36,1.39,beat,0.5
-LIN,Basic Materials,2016-10-27,1.4,1.41,beat,0.75
-LIN,Basic Materials,2017-01-26,1.41,1.41,meet,0.75
-LIN,Basic Materials,2017-04-27,1.33,1.37,beat,0.75
-LIN,Basic Materials,2017-07-27,1.42,1.46,beat,0.75
-LIN,Basic Materials,2017-10-26,1.44,1.5,beat,0.75
-LIN,Basic Materials,2018-01-25,1.48,1.52,beat,0.75
-LIN,Basic Materials,2018-04-26,1.56,1.65,beat,1.0
-LIN,Basic Materials,2018-07-26,1.7,1.72,beat,1.0
-LIN,Basic Materials,2018-11-09,1.69,1.69,meet,1.0
-LIN,Basic Materials,2019-05-10,1.57,1.69,beat,0.75
-LIN,Basic Materials,2019-08-05,1.71,1.83,beat,0.75
-LIN,Basic Materials,2019-11-12,1.77,1.94,beat,0.75
-LIN,Basic Materials,2020-02-13,1.84,1.89,beat,0.75
-LIN,Basic Materials,2020-03-01,1.51,-0.48,miss,1.0
-LIN,Basic Materials,2020-05-07,1.84,1.89,beat,0.75
-LIN,Basic Materials,2020-07-31,1.65,1.9,beat,0.75
-LIN,Basic Materials,2020-11-05,1.95,2.15,beat,0.75
-LIN,Basic Materials,2021-02-05,2.15,2.3,beat,0.75
-LIN,Basic Materials,2021-05-06,2.26,2.49,beat,1.0
-LIN,Basic Materials,2021-07-30,2.53,2.7,beat,1.0
-LIN,Basic Materials,2021-10-29,2.66,2.73,beat,1.0
-LIN,Basic Materials,2022-02-10,2.67,2.77,beat,1.0
-LIN,Basic Materials,2022-04-28,2.77,2.93,beat,1.0
-LIN,Basic Materials,2022-07-28,2.96,3.1,beat,1.0
-LIN,Basic Materials,2022-10-27,2.93,3.1,beat,1.0
-LIN,Basic Materials,2023-02-07,2.89,3.16,beat,1.0
-LIN,Basic Materials,2023-04-27,3.14,3.42,beat,1.0
-LIN,Basic Materials,2023-07-27,3.49,3.57,beat,1.0
-LIN,Basic Materials,2023-10-26,3.57,3.63,beat,1.0
-LIN,Basic Materials,2024-02-06,3.5,3.59,beat,1.0
-LIN,Basic Materials,2024-05-02,3.67,3.75,beat,1.0
-LIN,Basic Materials,2024-08-02,3.79,3.85,beat,1.0
-LIN,Basic Materials,2024-10-31,3.91,3.94,beat,1.0
-LIN,Basic Materials,2025-02-06,3.92,3.97,beat,1.0
-LIN,Basic Materials,2025-05-01,3.92,3.95,beat,1.0
-LIN,Basic Materials,2025-08-01,4.04,4.09,beat,1.0
-LIN,Basic Materials,2025-10-31,4.18,4.21,beat,1.0
-LIN,Basic Materials,2026-02-05,4.18,4.2,beat,1.0
-LIN,Basic Materials,2026-05-01,4.27,4.33,beat,1.0
-MA,Financial Services,2014-10-30,0.78,0.87,beat,1.0
-MA,Financial Services,2015-01-30,0.67,0.69,beat,1.0
-MA,Financial Services,2015-04-29,0.8,0.89,beat,1.0
-MA,Financial Services,2015-07-29,0.85,0.85,meet,1.0
-MA,Financial Services,2015-10-29,0.87,0.91,beat,0.75
-MA,Financial Services,2016-01-29,0.68,0.79,beat,0.75
-MA,Financial Services,2016-04-28,0.85,0.86,beat,0.75
-MA,Financial Services,2016-07-28,0.9,0.96,beat,0.75
-MA,Financial Services,2016-10-28,0.98,1.08,beat,1.0
-MA,Financial Services,2017-01-31,0.86,0.86,meet,1.0
-MA,Financial Services,2017-05-02,0.95,1.01,beat,0.75
-MA,Financial Services,2017-07-27,1.04,1.1,beat,0.75
-MA,Financial Services,2017-10-31,1.23,1.34,beat,0.75
-MA,Financial Services,2018-02-01,1.12,1.14,beat,0.75
-MA,Financial Services,2018-05-02,1.24,1.5,beat,1.0
-MA,Financial Services,2018-07-26,1.53,1.66,beat,1.0
-MA,Financial Services,2018-10-30,1.68,1.78,beat,1.0
-MA,Financial Services,2019-01-31,1.52,1.55,beat,1.0
-MA,Financial Services,2019-04-30,1.66,1.78,beat,1.0
-MA,Financial Services,2019-07-30,1.83,1.89,beat,1.0
-MA,Financial Services,2019-10-29,2.01,2.15,beat,1.0
-MA,Financial Services,2020-01-29,1.87,1.96,beat,1.0
-MA,Financial Services,2020-04-29,1.74,1.83,beat,1.0
-MA,Financial Services,2020-07-30,1.18,1.36,beat,1.0
-MA,Financial Services,2020-10-28,1.66,1.6,miss,1.0
-MA,Financial Services,2021-01-28,1.52,1.64,beat,0.75
-MA,Financial Services,2021-04-29,1.56,1.74,beat,0.75
-MA,Financial Services,2021-07-29,1.75,1.95,beat,0.75
-MA,Financial Services,2021-10-28,2.19,2.37,beat,0.75
-MA,Financial Services,2022-01-27,2.21,2.35,beat,1.0
-MA,Financial Services,2022-04-28,2.16,2.76,beat,1.0
-MA,Financial Services,2022-07-28,2.36,2.56,beat,1.0
-MA,Financial Services,2022-10-27,2.57,2.68,beat,1.0
-MA,Financial Services,2023-01-26,2.58,2.65,beat,1.0
-MA,Financial Services,2023-04-27,2.71,2.8,beat,1.0
-MA,Financial Services,2023-07-27,2.83,2.89,beat,1.0
-MA,Financial Services,2023-10-26,3.21,3.39,beat,1.0
-MA,Financial Services,2024-01-31,3.08,3.18,beat,1.0
-MA,Financial Services,2024-05-01,3.24,3.31,beat,1.0
-MA,Financial Services,2024-07-31,3.51,3.59,beat,1.0
-MA,Financial Services,2024-10-31,3.75,3.89,beat,1.0
-MA,Financial Services,2025-01-30,3.69,3.82,beat,1.0
-MA,Financial Services,2025-05-01,3.56,3.73,beat,1.0
-MA,Financial Services,2025-07-31,4.02,4.15,beat,1.0
-MA,Financial Services,2025-10-30,4.31,4.38,beat,1.0
-MA,Financial Services,2026-01-29,4.24,4.76,beat,1.0
-MA,Financial Services,2026-04-30,4.41,4.6,beat,1.0
-MCD,Consumer Cyclical,2014-10-21,1.37,1.35,miss,0.0
-MCD,Consumer Cyclical,2015-01-23,1.22,1.17,miss,0.0
-MCD,Consumer Cyclical,2015-04-22,1.06,1.01,miss,0.0
-MCD,Consumer Cyclical,2015-07-23,1.23,1.29,beat,0.0
-MCD,Consumer Cyclical,2015-10-22,1.28,1.4,beat,0.25
-MCD,Consumer Cyclical,2016-01-25,1.23,1.28,beat,0.5
-MCD,Consumer Cyclical,2016-04-22,1.16,1.23,beat,0.75
-MCD,Consumer Cyclical,2016-07-26,1.38,1.45,beat,1.0
-MCD,Consumer Cyclical,2016-10-21,1.48,1.62,beat,1.0
-MCD,Consumer Cyclical,2017-01-23,1.41,1.43,beat,1.0
-MCD,Consumer Cyclical,2017-04-25,1.33,1.47,beat,1.0
-MCD,Consumer Cyclical,2017-07-25,1.62,1.73,beat,1.0
-MCD,Consumer Cyclical,2017-10-24,1.77,1.76,miss,1.0
-MCD,Consumer Cyclical,2018-01-30,1.59,1.71,beat,0.75
-MCD,Consumer Cyclical,2018-04-30,1.67,1.79,beat,0.75
-MCD,Consumer Cyclical,2018-07-26,1.93,1.99,beat,0.75
-MCD,Consumer Cyclical,2018-10-23,1.99,2.1,beat,0.75
-MCD,Consumer Cyclical,2019-01-30,1.89,1.97,beat,1.0
-MCD,Consumer Cyclical,2019-04-30,1.76,1.72,miss,1.0
-MCD,Consumer Cyclical,2019-07-26,2.05,2.05,meet,0.75
-MCD,Consumer Cyclical,2019-10-22,2.21,2.11,miss,0.5
-MCD,Consumer Cyclical,2020-01-29,1.97,1.97,meet,0.25
-MCD,Consumer Cyclical,2020-04-30,1.54,1.47,miss,0.0
-MCD,Consumer Cyclical,2020-07-28,0.75,0.66,miss,0.0
-MCD,Consumer Cyclical,2020-11-09,1.9,2.22,beat,0.0
-MCD,Consumer Cyclical,2021-01-28,1.78,1.7,miss,0.25
-MCD,Consumer Cyclical,2021-04-29,1.82,1.92,beat,0.25
-MCD,Consumer Cyclical,2021-07-28,2.12,2.37,beat,0.5
-MCD,Consumer Cyclical,2021-10-27,2.47,2.76,beat,0.75
-MCD,Consumer Cyclical,2022-01-27,2.34,2.23,miss,0.75
-MCD,Consumer Cyclical,2022-04-28,2.18,2.28,beat,0.75
-MCD,Consumer Cyclical,2022-07-26,2.47,2.55,beat,0.75
-MCD,Consumer Cyclical,2022-10-27,2.58,2.68,beat,0.75
-MCD,Consumer Cyclical,2023-01-31,2.46,2.59,beat,0.75
-MCD,Consumer Cyclical,2023-04-25,2.34,2.63,beat,1.0
-MCD,Consumer Cyclical,2023-07-27,2.79,3.17,beat,1.0
-MCD,Consumer Cyclical,2023-10-30,2.99,3.19,beat,1.0
-MCD,Consumer Cyclical,2024-02-05,2.83,2.95,beat,1.0
-MCD,Consumer Cyclical,2024-04-30,2.73,2.7,miss,1.0
-MCD,Consumer Cyclical,2024-07-29,3.07,2.97,miss,0.75
-MCD,Consumer Cyclical,2024-10-29,3.2,3.23,beat,0.5
-MCD,Consumer Cyclical,2025-02-10,2.86,2.83,miss,0.5
-MCD,Consumer Cyclical,2025-05-01,2.67,2.67,meet,0.25
-MCD,Consumer Cyclical,2025-08-06,3.15,3.19,beat,0.25
-MCD,Consumer Cyclical,2025-11-05,3.33,3.22,miss,0.5
-MCD,Consumer Cyclical,2026-02-11,3.05,3.12,beat,0.25
-MCD,Consumer Cyclical,2026-05-07,2.74,2.83,beat,0.5
-NEE,Utilities,2014-10-31,0.38,0.39,beat,0.5
-NEE,Utilities,2015-01-27,0.26,0.26,meet,0.67
-NEE,Utilities,2015-04-29,0.32,0.35,beat,0.5
-NEE,Utilities,2015-08-03,0.37,0.39,beat,0.5
-NEE,Utilities,2015-10-28,0.41,0.4,miss,0.75
-NEE,Utilities,2016-01-28,0.27,0.29,beat,0.5
-NEE,Utilities,2016-04-28,0.35,0.34,miss,0.75
-NEE,Utilities,2016-07-27,0.39,0.42,beat,0.5
-NEE,Utilities,2016-10-31,0.42,0.44,beat,0.5
-NEE,Utilities,2017-01-27,0.32,0.3,miss,0.75
-NEE,Utilities,2017-04-21,0.4,0.44,beat,0.5
-NEE,Utilities,2017-07-26,0.44,0.47,beat,0.75
-NEE,Utilities,2017-10-26,0.44,0.46,beat,0.75
-NEE,Utilities,2018-01-26,0.33,0.31,miss,0.75
-NEE,Utilities,2018-04-24,0.46,0.49,beat,0.75
-NEE,Utilities,2018-07-25,0.52,0.53,beat,0.75
-NEE,Utilities,2018-10-23,0.54,0.55,beat,0.75
-NEE,Utilities,2019-01-25,0.38,0.37,miss,0.75
-NEE,Utilities,2019-04-23,0.51,0.55,beat,0.75
-NEE,Utilities,2019-07-24,0.58,0.59,beat,0.75
-NEE,Utilities,2019-10-22,0.57,0.6,beat,0.75
-NEE,Utilities,2020-01-24,0.37,0.36,miss,0.75
-NEE,Utilities,2020-04-22,0.56,0.6,beat,0.75
-NEE,Utilities,2020-07-24,0.63,0.65,beat,0.75
-NEE,Utilities,2020-10-21,0.65,0.67,beat,0.75
-NEE,Utilities,2021-01-26,0.38,0.4,beat,0.75
-NEE,Utilities,2021-04-21,0.61,0.67,beat,1.0
-NEE,Utilities,2021-07-23,0.69,0.71,beat,1.0
-NEE,Utilities,2021-10-20,0.72,0.75,beat,1.0
-NEE,Utilities,2022-01-25,0.4,0.41,beat,1.0
-NEE,Utilities,2022-04-21,0.72,0.74,beat,1.0
-NEE,Utilities,2022-07-22,0.76,0.81,beat,1.0
-NEE,Utilities,2022-10-28,0.8,0.85,beat,1.0
-NEE,Utilities,2023-01-25,0.49,0.51,beat,1.0
-NEE,Utilities,2023-04-25,0.76,0.84,beat,1.0
-NEE,Utilities,2023-07-25,0.81,0.88,beat,1.0
-NEE,Utilities,2023-10-24,0.88,0.94,beat,1.0
-NEE,Utilities,2024-01-25,0.49,0.52,beat,1.0
-NEE,Utilities,2024-04-23,0.8,0.91,beat,1.0
-NEE,Utilities,2024-07-24,0.95,0.96,beat,1.0
-NEE,Utilities,2024-10-23,0.97,1.03,beat,1.0
-NEE,Utilities,2025-01-24,0.53,0.53,meet,1.0
-NEE,Utilities,2025-04-22,0.98,0.99,beat,0.75
-NEE,Utilities,2025-07-23,1.01,1.05,beat,0.75
-NEE,Utilities,2025-10-28,1.02,1.13,beat,0.75
-NEE,Utilities,2026-01-27,0.53,0.54,beat,0.75
-NEE,Utilities,2026-04-23,1.03,1.09,beat,1.0
-ORCL,Technology,2014-12-17,0.68,0.69,beat,0.0
-ORCL,Technology,2015-03-17,0.68,0.68,meet,0.33
-ORCL,Technology,2015-06-17,0.86,0.78,miss,0.25
-ORCL,Technology,2015-09-16,0.52,0.53,beat,0.25
-ORCL,Technology,2015-12-16,0.6,0.63,beat,0.5
-ORCL,Technology,2016-03-15,0.62,0.64,beat,0.5
-ORCL,Technology,2016-06-16,0.82,0.81,miss,0.75
-ORCL,Technology,2016-09-15,0.58,0.55,miss,0.75
-ORCL,Technology,2016-12-15,0.6,0.61,beat,0.5
-ORCL,Technology,2017-03-15,0.62,0.69,beat,0.5
-ORCL,Technology,2017-06-21,0.78,0.89,beat,0.5
-ORCL,Technology,2017-09-14,0.6,0.62,beat,0.75
-ORCL,Technology,2017-12-14,0.68,0.7,beat,1.0
-ORCL,Technology,2018-03-19,0.72,0.83,beat,1.0
-ORCL,Technology,2018-06-19,0.94,0.99,beat,1.0
-ORCL,Technology,2018-09-17,0.68,0.71,beat,1.0
-ORCL,Technology,2018-12-17,0.78,0.8,beat,1.0
-ORCL,Technology,2019-03-14,0.84,0.87,beat,1.0
-ORCL,Technology,2019-06-19,1.07,1.16,beat,1.0
-ORCL,Technology,2019-09-11,0.81,0.81,meet,1.0
-ORCL,Technology,2019-12-12,0.89,0.9,beat,0.75
-ORCL,Technology,2020-03-12,0.96,0.97,beat,0.75
-ORCL,Technology,2020-06-16,1.15,1.2,beat,0.75
-ORCL,Technology,2020-09-10,0.86,0.93,beat,0.75
-ORCL,Technology,2020-12-10,1.0,1.06,beat,1.0
-ORCL,Technology,2021-03-10,1.11,1.16,beat,1.0
-ORCL,Technology,2021-06-15,1.33,1.54,beat,1.0
-ORCL,Technology,2021-09-13,0.97,1.03,beat,1.0
-ORCL,Technology,2021-12-09,1.11,1.21,beat,1.0
-ORCL,Technology,2022-03-10,1.18,1.13,miss,1.0
-ORCL,Technology,2022-06-13,1.38,1.54,beat,0.75
-ORCL,Technology,2022-09-12,1.08,1.03,miss,0.75
-ORCL,Technology,2022-12-12,1.17,1.21,beat,0.5
-ORCL,Technology,2023-03-09,1.2,1.22,beat,0.5
-ORCL,Technology,2023-06-12,1.58,1.67,beat,0.75
-ORCL,Technology,2023-09-11,1.15,1.19,beat,0.75
-ORCL,Technology,2023-12-11,1.33,1.34,beat,1.0
-ORCL,Technology,2024-03-11,1.38,1.41,beat,1.0
-ORCL,Technology,2024-06-11,1.65,1.63,miss,1.0
-ORCL,Technology,2024-09-09,1.33,1.39,beat,0.75
-ORCL,Technology,2024-12-09,1.48,1.47,miss,0.75
-ORCL,Technology,2025-03-10,1.49,1.47,miss,0.5
-ORCL,Technology,2025-06-11,1.64,1.7,beat,0.25
-ORCL,Technology,2025-09-09,1.48,1.47,miss,0.5
-ORCL,Technology,2025-12-10,1.64,2.26,beat,0.25
-ORCL,Technology,2026-03-10,1.69,1.79,beat,0.5
-ORCL,Technology,2026-06-10,1.96,2.11,beat,0.75
-PG,Consumer Defensive,2014-10-24,1.07,1.07,meet,1.0
-PG,Consumer Defensive,2015-01-27,1.13,1.06,miss,0.67
-PG,Consumer Defensive,2015-04-23,0.92,0.92,meet,0.5
-PG,Consumer Defensive,2015-07-30,0.95,1.0,beat,0.25
-PG,Consumer Defensive,2015-10-23,0.94,0.98,beat,0.25
-PG,Consumer Defensive,2016-01-26,0.97,1.04,beat,0.5
-PG,Consumer Defensive,2016-04-26,0.82,0.86,beat,0.75
-PG,Consumer Defensive,2016-08-02,0.74,0.79,beat,1.0
-PG,Consumer Defensive,2016-10-25,0.98,1.03,beat,1.0
-PG,Consumer Defensive,2017-01-20,1.06,1.08,beat,1.0
-PG,Consumer Defensive,2017-04-26,0.94,0.96,beat,1.0
-PG,Consumer Defensive,2017-07-27,0.78,0.85,beat,1.0
-PG,Consumer Defensive,2017-10-20,1.08,1.09,beat,1.0
-PG,Consumer Defensive,2018-01-23,1.14,1.19,beat,1.0
-PG,Consumer Defensive,2018-04-19,0.98,1.0,beat,1.0
-PG,Consumer Defensive,2018-07-31,0.9,0.94,beat,1.0
-PG,Consumer Defensive,2018-10-19,1.09,1.12,beat,1.0
-PG,Consumer Defensive,2019-01-23,1.21,1.25,beat,1.0
-PG,Consumer Defensive,2019-04-23,1.04,1.06,beat,1.0
-PG,Consumer Defensive,2019-07-30,1.05,1.1,beat,1.0
-PG,Consumer Defensive,2019-10-22,1.24,1.37,beat,1.0
-PG,Consumer Defensive,2020-01-23,1.37,1.42,beat,1.0
-PG,Consumer Defensive,2020-04-17,1.13,1.17,beat,1.0
-PG,Consumer Defensive,2020-07-30,1.01,1.16,beat,1.0
-PG,Consumer Defensive,2020-10-20,1.42,1.63,beat,1.0
-PG,Consumer Defensive,2021-01-20,1.51,1.64,beat,1.0
-PG,Consumer Defensive,2021-04-20,1.19,1.26,beat,1.0
-PG,Consumer Defensive,2021-07-30,1.09,1.13,beat,1.0
-PG,Consumer Defensive,2021-10-19,1.59,1.61,beat,1.0
-PG,Consumer Defensive,2022-01-19,1.65,1.66,beat,1.0
-PG,Consumer Defensive,2022-04-20,1.29,1.33,beat,1.0
-PG,Consumer Defensive,2022-07-29,1.23,1.21,miss,1.0
-PG,Consumer Defensive,2022-10-19,1.55,1.57,beat,0.75
-PG,Consumer Defensive,2023-01-19,1.59,1.59,meet,0.75
-PG,Consumer Defensive,2023-04-21,1.32,1.37,beat,0.5
-PG,Consumer Defensive,2023-07-28,1.32,1.37,beat,0.5
-PG,Consumer Defensive,2023-10-18,1.72,1.83,beat,0.75
-PG,Consumer Defensive,2024-01-23,1.7,1.84,beat,0.75
-PG,Consumer Defensive,2024-04-19,1.41,1.52,beat,1.0
-PG,Consumer Defensive,2024-07-30,1.37,1.4,beat,1.0
-PG,Consumer Defensive,2024-10-18,1.9,1.93,beat,1.0
-PG,Consumer Defensive,2025-01-22,1.86,1.88,beat,1.0
-PG,Consumer Defensive,2025-04-24,1.53,1.54,beat,1.0
-PG,Consumer Defensive,2025-07-29,1.42,1.48,beat,1.0
-PG,Consumer Defensive,2025-10-24,1.9,1.99,beat,1.0
-PG,Consumer Defensive,2026-01-22,1.86,1.88,beat,1.0
-PG,Consumer Defensive,2026-04-24,1.56,1.59,beat,1.0
-PLTR,Technology,2021-05-11,0.04,0.04,meet,1.0
-PLTR,Technology,2021-08-12,0.03,0.04,beat,0.67
-PLTR,Technology,2021-11-09,0.04,0.04,meet,0.75
-PLTR,Technology,2022-02-17,0.04,0.02,miss,0.5
-PLTR,Technology,2022-05-09,0.04,0.02,miss,0.25
-PLTR,Technology,2022-08-08,0.03,-0.01,miss,0.25
-PLTR,Technology,2022-11-07,0.02,0.01,miss,0.0
-PLTR,Technology,2023-02-13,0.03,0.04,beat,0.0
-PLTR,Technology,2023-05-08,0.04,0.05,beat,0.25
-PLTR,Technology,2023-08-07,0.05,0.05,meet,0.5
-PLTR,Technology,2023-11-02,0.06,0.07,beat,0.5
-PLTR,Technology,2024-02-05,0.08,0.08,meet,0.75
-PLTR,Technology,2024-05-06,0.08,0.08,meet,0.5
-PLTR,Technology,2024-08-05,0.08,0.09,beat,0.25
-PLTR,Technology,2024-11-04,0.09,0.1,beat,0.5
-PLTR,Technology,2025-02-03,0.11,0.14,beat,0.5
-PLTR,Technology,2025-05-05,0.13,0.13,meet,0.75
-PLTR,Technology,2025-08-04,0.14,0.16,beat,0.75
-PLTR,Technology,2025-11-03,0.17,0.21,beat,0.75
-PLTR,Technology,2026-02-02,0.23,0.25,beat,0.75
-PLTR,Technology,2026-05-04,0.28,0.33,beat,0.75
-PM,Consumer Defensive,2014-10-16,1.33,1.39,beat,1.0
-PM,Consumer Defensive,2015-02-05,1.06,1.03,miss,1.0
-PM,Consumer Defensive,2015-04-16,1.01,1.16,beat,0.75
-PM,Consumer Defensive,2015-07-16,1.13,1.21,beat,0.75
-PM,Consumer Defensive,2015-10-15,1.11,1.24,beat,0.75
-PM,Consumer Defensive,2016-02-04,0.81,0.81,meet,0.75
-PM,Consumer Defensive,2016-04-19,1.11,0.98,miss,0.75
-PM,Consumer Defensive,2016-07-19,1.19,1.15,miss,0.5
-PM,Consumer Defensive,2016-10-18,1.23,1.25,beat,0.25
-PM,Consumer Defensive,2017-02-02,1.11,1.1,miss,0.25
-PM,Consumer Defensive,2017-04-20,1.03,0.98,miss,0.25
-PM,Consumer Defensive,2017-07-20,1.23,1.14,miss,0.25
-PM,Consumer Defensive,2017-10-19,1.38,1.27,miss,0.25
-PM,Consumer Defensive,2018-02-08,1.35,1.32,miss,0.0
-PM,Consumer Defensive,2018-04-19,0.88,1.0,beat,0.0
-PM,Consumer Defensive,2018-07-19,1.23,1.41,beat,0.25
-PM,Consumer Defensive,2018-10-18,1.29,1.44,beat,0.5
-PM,Consumer Defensive,2019-02-07,1.16,1.25,beat,0.75
-PM,Consumer Defensive,2019-04-18,1.01,1.09,beat,1.0
-PM,Consumer Defensive,2019-07-18,1.33,1.46,beat,1.0
-PM,Consumer Defensive,2019-10-17,1.36,1.43,beat,1.0
-PM,Consumer Defensive,2020-02-06,1.21,1.22,beat,1.0
-PM,Consumer Defensive,2020-04-21,1.13,1.21,beat,1.0
-PM,Consumer Defensive,2020-07-21,1.1,1.29,beat,1.0
-PM,Consumer Defensive,2020-10-20,1.36,1.42,beat,1.0
-PM,Consumer Defensive,2021-02-04,1.21,1.26,beat,1.0
-PM,Consumer Defensive,2021-04-20,1.39,1.57,beat,1.0
-PM,Consumer Defensive,2021-07-20,1.55,1.57,beat,1.0
-PM,Consumer Defensive,2021-10-19,1.56,1.58,beat,1.0
-PM,Consumer Defensive,2022-02-10,1.33,1.35,beat,1.0
-PM,Consumer Defensive,2022-04-21,1.49,1.56,beat,1.0
-PM,Consumer Defensive,2022-07-21,1.25,1.48,beat,1.0
-PM,Consumer Defensive,2022-10-20,1.36,1.53,beat,1.0
-PM,Consumer Defensive,2023-02-09,1.28,1.39,beat,1.0
-PM,Consumer Defensive,2023-04-20,1.34,1.38,beat,1.0
-PM,Consumer Defensive,2023-07-20,1.48,1.6,beat,1.0
-PM,Consumer Defensive,2023-10-19,1.61,1.67,beat,1.0
-PM,Consumer Defensive,2024-02-08,1.45,1.36,miss,1.0
-PM,Consumer Defensive,2024-04-23,1.41,1.5,beat,0.75
-PM,Consumer Defensive,2024-07-23,1.56,1.59,beat,0.75
-PM,Consumer Defensive,2024-10-22,1.82,1.91,beat,0.75
-PM,Consumer Defensive,2025-02-06,1.5,1.55,beat,0.75
-PM,Consumer Defensive,2025-04-23,1.61,1.69,beat,1.0
-PM,Consumer Defensive,2025-07-22,1.86,1.91,beat,1.0
-PM,Consumer Defensive,2025-10-21,2.1,2.24,beat,1.0
-PM,Consumer Defensive,2026-02-06,1.7,1.7,meet,1.0
-PM,Consumer Defensive,2026-04-22,1.83,1.96,beat,0.75
-RTX,Industrials,2014-10-21,1.81,2.04,beat,1.0
-RTX,Industrials,2015-01-26,1.62,1.62,meet,1.0
-RTX,Industrials,2015-04-21,1.46,1.58,beat,0.75
-RTX,Industrials,2015-07-21,1.71,1.73,beat,0.75
-RTX,Industrials,2015-10-20,1.56,1.61,beat,0.75
-RTX,Industrials,2016-01-27,1.52,1.53,beat,0.75
-RTX,Industrials,2016-04-27,1.4,1.47,beat,1.0
-RTX,Industrials,2016-07-26,1.68,1.82,beat,1.0
-RTX,Industrials,2016-10-25,1.67,1.76,beat,1.0
-RTX,Industrials,2017-01-25,1.56,1.56,meet,1.0
-RTX,Industrials,2017-04-26,1.39,1.48,beat,0.75
-RTX,Industrials,2017-07-25,1.77,1.85,beat,0.75
-RTX,Industrials,2017-10-24,1.69,1.73,beat,0.75
-RTX,Industrials,2018-01-24,1.56,1.6,beat,0.75
-RTX,Industrials,2018-04-24,1.52,1.77,beat,1.0
-RTX,Industrials,2018-07-24,1.85,1.97,beat,1.0
-RTX,Industrials,2018-10-23,1.82,1.93,beat,1.0
-RTX,Industrials,2019-01-23,1.53,1.95,beat,1.0
-RTX,Industrials,2019-04-23,1.72,1.91,beat,1.0
-RTX,Industrials,2019-07-23,2.05,2.2,beat,1.0
-RTX,Industrials,2019-10-22,2.03,2.21,beat,1.0
-RTX,Industrials,2020-01-28,1.84,1.94,beat,1.0
-RTX,Industrials,2020-05-07,1.33,1.78,beat,1.0
-RTX,Industrials,2020-07-28,0.12,0.4,beat,1.0
-RTX,Industrials,2020-10-27,0.5,0.58,beat,1.0
-RTX,Industrials,2021-01-26,0.69,0.74,beat,1.0
-RTX,Industrials,2021-04-27,0.83,0.9,beat,1.0
-RTX,Industrials,2021-07-27,0.93,1.03,beat,1.0
-RTX,Industrials,2021-10-26,1.09,1.26,beat,1.0
-RTX,Industrials,2022-01-25,1.02,1.08,beat,1.0
-RTX,Industrials,2022-04-26,1.02,1.15,beat,1.0
-RTX,Industrials,2022-07-26,1.11,1.16,beat,1.0
-RTX,Industrials,2022-10-25,1.14,1.21,beat,1.0
-RTX,Industrials,2023-01-24,1.25,1.27,beat,1.0
-RTX,Industrials,2023-04-25,1.13,1.22,beat,1.0
-RTX,Industrials,2023-07-25,1.18,1.29,beat,1.0
-RTX,Industrials,2023-10-24,1.22,1.25,beat,1.0
-RTX,Industrials,2024-01-23,1.25,1.29,beat,1.0
-RTX,Industrials,2024-04-23,1.23,1.34,beat,1.0
-RTX,Industrials,2024-07-25,1.3,1.41,beat,1.0
-RTX,Industrials,2024-10-22,1.34,1.45,beat,1.0
-RTX,Industrials,2025-01-28,1.38,1.54,beat,1.0
-RTX,Industrials,2025-04-22,1.37,1.47,beat,1.0
-RTX,Industrials,2025-07-22,1.43,1.56,beat,1.0
-RTX,Industrials,2025-10-21,1.41,1.7,beat,1.0
-RTX,Industrials,2026-01-27,1.47,1.55,beat,1.0
-RTX,Industrials,2026-04-21,1.52,1.78,beat,1.0
-TMO,Healthcare,2014-10-22,1.69,1.71,beat,1.0
-TMO,Healthcare,2015-01-29,1.94,1.99,beat,1.0
-TMO,Healthcare,2015-04-22,1.61,1.63,beat,1.0
-TMO,Healthcare,2015-07-22,1.78,1.84,beat,1.0
-TMO,Healthcare,2015-10-21,1.79,1.8,beat,1.0
-TMO,Healthcare,2016-01-28,2.11,2.12,beat,1.0
-TMO,Healthcare,2016-04-28,1.74,1.8,beat,1.0
-TMO,Healthcare,2016-07-28,2.01,2.03,beat,1.0
-TMO,Healthcare,2016-10-27,1.97,2.03,beat,1.0
-TMO,Healthcare,2017-01-31,2.38,2.41,beat,1.0
-TMO,Healthcare,2017-04-26,2.02,2.08,beat,1.0
-TMO,Healthcare,2017-07-26,2.27,2.3,beat,1.0
-TMO,Healthcare,2017-10-25,2.25,2.31,beat,1.0
-TMO,Healthcare,2018-01-31,2.67,2.79,beat,1.0
-TMO,Healthcare,2018-04-25,2.41,2.5,beat,1.0
-TMO,Healthcare,2018-07-25,2.63,2.75,beat,1.0
-TMO,Healthcare,2018-10-24,2.56,2.62,beat,1.0
-TMO,Healthcare,2019-01-30,3.18,3.25,beat,1.0
-TMO,Healthcare,2019-04-24,2.74,2.81,beat,1.0
-TMO,Healthcare,2019-07-24,3.0,3.04,beat,1.0
-TMO,Healthcare,2019-10-23,2.89,2.94,beat,1.0
-TMO,Healthcare,2020-01-30,3.54,3.55,beat,1.0
-TMO,Healthcare,2020-04-22,2.82,2.94,beat,1.0
-TMO,Healthcare,2020-07-22,2.89,3.89,beat,1.0
-TMO,Healthcare,2020-10-21,4.3,5.63,beat,1.0
-TMO,Healthcare,2021-02-01,6.57,7.09,beat,1.0
-TMO,Healthcare,2021-04-29,6.68,7.21,beat,1.0
-TMO,Healthcare,2021-07-28,5.47,5.6,beat,1.0
-TMO,Healthcare,2021-10-27,4.7,5.76,beat,1.0
-TMO,Healthcare,2022-02-02,5.27,6.54,beat,1.0
-TMO,Healthcare,2022-04-28,6.21,7.25,beat,1.0
-TMO,Healthcare,2022-07-28,4.98,5.51,beat,1.0
-TMO,Healthcare,2022-10-26,4.82,5.08,beat,1.0
-TMO,Healthcare,2023-02-01,5.2,5.4,beat,1.0
-TMO,Healthcare,2023-04-26,5.03,5.03,meet,1.0
-TMO,Healthcare,2023-07-26,5.43,5.15,miss,0.75
-TMO,Healthcare,2023-10-25,5.61,5.69,beat,0.5
-TMO,Healthcare,2024-01-31,5.65,5.67,beat,0.5
-TMO,Healthcare,2024-04-24,4.71,5.11,beat,0.5
-TMO,Healthcare,2024-07-24,5.13,5.37,beat,0.75
-TMO,Healthcare,2024-10-23,5.25,5.28,beat,1.0
-TMO,Healthcare,2025-01-30,5.94,6.1,beat,1.0
-TMO,Healthcare,2025-04-23,5.1,5.15,beat,1.0
-TMO,Healthcare,2025-07-23,5.23,5.36,beat,1.0
-TMO,Healthcare,2025-10-22,5.5,5.79,beat,1.0
-TMO,Healthcare,2026-01-29,6.45,6.57,beat,1.0
-TMO,Healthcare,2026-04-23,5.24,5.44,beat,1.0
-TSLA,Consumer Cyclical,2015-08-05,-0.04,-0.03,beat,0.5
-TSLA,Consumer Cyclical,2015-11-03,-0.04,-0.04,meet,0.67
-TSLA,Consumer Cyclical,2016-02-10,0.01,-0.06,miss,0.5
-TSLA,Consumer Cyclical,2016-05-04,-0.04,-0.04,meet,0.5
-TSLA,Consumer Cyclical,2016-08-03,-0.04,-0.07,miss,0.25
-TSLA,Consumer Cyclical,2017-02-22,-0.03,-0.05,miss,0.0
-TSLA,Consumer Cyclical,2017-05-03,-0.05,-0.09,miss,0.0
-TSLA,Consumer Cyclical,2017-08-02,-0.13,-0.09,beat,0.0
-TSLA,Consumer Cyclical,2017-11-01,-0.15,-0.19,miss,0.25
-TSLA,Consumer Cyclical,2018-02-07,-0.21,-0.2,beat,0.25
-TSLA,Consumer Cyclical,2018-05-02,-0.24,-0.22,beat,0.5
-TSLA,Consumer Cyclical,2018-08-01,-0.19,-0.2,miss,0.75
-TSLA,Consumer Cyclical,2019-01-30,0.14,0.13,miss,0.5
-TSLA,Consumer Cyclical,2019-04-24,-0.06,-0.19,miss,0.5
-TSLA,Consumer Cyclical,2019-07-24,-0.03,-0.07,miss,0.25
-TSLA,Consumer Cyclical,2019-10-23,-0.02,0.12,beat,0.0
-TSLA,Consumer Cyclical,2020-01-29,0.12,0.14,beat,0.25
-TSLA,Consumer Cyclical,2020-04-29,-0.01,0.08,beat,0.5
-TSLA,Consumer Cyclical,2020-07-22,-0.01,0.15,beat,0.75
-TSLA,Consumer Cyclical,2020-10-21,0.2,0.25,beat,1.0
-TSLA,Consumer Cyclical,2021-01-27,0.35,0.27,miss,1.0
-TSLA,Consumer Cyclical,2021-04-26,0.26,0.31,beat,0.75
-TSLA,Consumer Cyclical,2021-07-26,0.32,0.48,beat,0.75
-TSLA,Consumer Cyclical,2021-10-20,0.54,0.62,beat,0.75
-TSLA,Consumer Cyclical,2022-01-26,0.79,0.85,beat,0.75
-TSLA,Consumer Cyclical,2022-04-20,0.75,1.07,beat,1.0
-TSLA,Consumer Cyclical,2022-07-20,0.6,0.76,beat,1.0
-TSLA,Consumer Cyclical,2022-10-19,1.0,1.05,beat,1.0
-TSLA,Consumer Cyclical,2023-01-25,1.11,1.19,beat,1.0
-TSLA,Consumer Cyclical,2023-04-19,0.85,0.85,meet,1.0
-TSLA,Consumer Cyclical,2023-07-19,0.82,0.91,beat,0.75
-TSLA,Consumer Cyclical,2023-10-18,0.73,0.66,miss,0.75
-TSLA,Consumer Cyclical,2024-01-24,0.74,0.71,miss,0.5
-TSLA,Consumer Cyclical,2024-04-23,0.49,0.45,miss,0.25
-TSLA,Consumer Cyclical,2024-07-23,0.62,0.52,miss,0.25
-TSLA,Consumer Cyclical,2024-10-23,0.6,0.72,beat,0.0
-TSLA,Consumer Cyclical,2025-01-29,0.77,0.73,miss,0.25
-TSLA,Consumer Cyclical,2025-04-22,0.41,0.27,miss,0.25
-TSLA,Consumer Cyclical,2025-07-23,0.4,0.4,meet,0.25
-TSLA,Consumer Cyclical,2025-10-22,0.56,0.5,miss,0.25
-TSLA,Consumer Cyclical,2026-01-28,0.45,0.5,beat,0.0
-TSLA,Consumer Cyclical,2026-04-22,0.35,0.41,beat,0.25
-V,Financial Services,2014-10-29,0.53,0.55,beat,0.5
-V,Financial Services,2015-01-29,0.62,0.63,beat,0.67
-V,Financial Services,2015-04-30,0.62,0.63,beat,0.75
-V,Financial Services,2015-07-23,0.58,0.62,beat,1.0
-V,Financial Services,2015-11-02,0.63,0.62,miss,1.0
-V,Financial Services,2016-01-28,0.68,0.69,beat,0.75
-V,Financial Services,2016-04-21,0.66,0.68,beat,0.75
-V,Financial Services,2016-07-21,0.67,0.69,beat,0.75
-V,Financial Services,2016-10-24,0.73,0.78,beat,0.75
-V,Financial Services,2017-02-02,0.78,0.86,beat,1.0
-V,Financial Services,2017-04-20,0.79,0.86,beat,1.0
-V,Financial Services,2017-07-20,0.81,0.86,beat,1.0
-V,Financial Services,2017-10-25,0.85,0.9,beat,1.0
-V,Financial Services,2018-02-01,0.98,1.08,beat,1.0
-V,Financial Services,2018-04-25,1.01,1.11,beat,1.0
-V,Financial Services,2018-07-25,1.09,1.2,beat,1.0
-V,Financial Services,2018-10-24,1.2,1.21,beat,1.0
-V,Financial Services,2019-01-30,1.25,1.3,beat,1.0
-V,Financial Services,2019-04-24,1.24,1.31,beat,1.0
-V,Financial Services,2019-07-23,1.32,1.37,beat,1.0
-V,Financial Services,2019-10-24,1.43,1.47,beat,1.0
-V,Financial Services,2020-01-30,1.47,1.46,miss,1.0
-V,Financial Services,2020-04-30,1.35,1.39,beat,0.75
-V,Financial Services,2020-07-28,1.04,1.06,beat,0.75
-V,Financial Services,2020-10-28,1.1,1.12,beat,0.75
-V,Financial Services,2021-01-28,1.28,1.42,beat,0.75
-V,Financial Services,2021-04-27,1.27,1.38,beat,1.0
-V,Financial Services,2021-07-27,1.35,1.49,beat,1.0
-V,Financial Services,2021-10-26,1.54,1.62,beat,1.0
-V,Financial Services,2022-01-27,1.7,1.81,beat,1.0
-V,Financial Services,2022-04-26,1.65,1.79,beat,1.0
-V,Financial Services,2022-07-26,1.75,1.98,beat,1.0
-V,Financial Services,2022-10-25,1.87,1.93,beat,1.0
-V,Financial Services,2023-01-26,2.01,2.18,beat,1.0
-V,Financial Services,2023-04-25,1.99,2.09,beat,1.0
-V,Financial Services,2023-07-25,2.12,2.16,beat,1.0
-V,Financial Services,2023-10-24,2.24,2.33,beat,1.0
-V,Financial Services,2024-01-25,2.34,2.41,beat,1.0
-V,Financial Services,2024-04-23,2.43,2.51,beat,1.0
-V,Financial Services,2024-07-23,2.42,2.42,meet,1.0
-V,Financial Services,2024-10-29,2.58,2.71,beat,0.75
-V,Financial Services,2025-01-30,2.66,2.75,beat,0.75
-V,Financial Services,2025-04-29,2.68,2.76,beat,0.75
-V,Financial Services,2025-07-29,2.85,2.98,beat,0.75
-V,Financial Services,2025-10-28,2.97,2.98,beat,1.0
-V,Financial Services,2026-01-29,3.14,3.17,beat,1.0
-V,Financial Services,2026-04-28,3.1,3.31,beat,1.0
-VZ,Communication Services,2014-10-21,0.91,0.89,miss,0.5
-VZ,Communication Services,2015-01-22,0.71,0.71,meet,0.33
-VZ,Communication Services,2015-04-21,0.95,1.02,beat,0.25
-VZ,Communication Services,2015-07-21,1.01,1.04,beat,0.5
-VZ,Communication Services,2015-10-20,1.02,1.04,beat,0.5
-VZ,Communication Services,2016-01-21,0.88,0.89,beat,0.75
-VZ,Communication Services,2016-04-21,1.06,1.06,meet,1.0
-VZ,Communication Services,2016-07-26,0.93,0.94,beat,0.75
-VZ,Communication Services,2016-10-20,0.99,1.01,beat,0.75
-VZ,Communication Services,2017-01-24,0.89,0.86,miss,0.75
-VZ,Communication Services,2017-04-20,0.96,0.95,miss,0.5
-VZ,Communication Services,2017-07-27,0.96,0.96,meet,0.5
-VZ,Communication Services,2017-10-19,0.97,0.98,beat,0.25
-VZ,Communication Services,2018-01-23,0.88,0.86,miss,0.25
-VZ,Communication Services,2018-04-24,1.11,1.17,beat,0.25
-VZ,Communication Services,2018-07-24,1.15,1.2,beat,0.5
-VZ,Communication Services,2018-10-23,1.19,1.22,beat,0.75
-VZ,Communication Services,2019-01-29,1.09,1.12,beat,0.75
-VZ,Communication Services,2019-04-23,1.16,1.2,beat,1.0
-VZ,Communication Services,2019-08-01,1.2,1.23,beat,1.0
-VZ,Communication Services,2019-10-25,1.24,1.25,beat,1.0
-VZ,Communication Services,2020-01-30,1.15,1.13,miss,1.0
-VZ,Communication Services,2020-04-24,1.22,1.26,beat,0.75
-VZ,Communication Services,2020-07-24,1.15,1.18,beat,0.75
-VZ,Communication Services,2020-10-21,1.21,1.25,beat,0.75
-VZ,Communication Services,2021-01-26,1.17,1.21,beat,0.75
-VZ,Communication Services,2021-04-21,1.29,1.31,beat,1.0
-VZ,Communication Services,2021-07-21,1.3,1.37,beat,1.0
-VZ,Communication Services,2021-10-20,1.36,1.41,beat,1.0
-VZ,Communication Services,2022-01-25,1.28,1.31,beat,1.0
-VZ,Communication Services,2022-04-22,1.32,1.35,beat,1.0
-VZ,Communication Services,2022-07-22,1.33,1.31,miss,1.0
-VZ,Communication Services,2022-10-21,1.29,1.32,beat,0.75
-VZ,Communication Services,2023-01-24,1.19,1.19,meet,0.75
-VZ,Communication Services,2023-04-25,1.19,1.2,beat,0.5
-VZ,Communication Services,2023-07-25,1.17,1.21,beat,0.5
-VZ,Communication Services,2023-10-24,1.18,1.22,beat,0.75
-VZ,Communication Services,2024-01-23,1.08,1.08,meet,0.75
-VZ,Communication Services,2024-04-22,1.12,1.15,beat,0.75
-VZ,Communication Services,2024-07-22,1.15,1.15,meet,0.75
-VZ,Communication Services,2024-10-22,1.18,1.19,beat,0.5
-VZ,Communication Services,2025-01-24,1.1,1.1,meet,0.5
-VZ,Communication Services,2025-04-22,1.15,1.19,beat,0.5
-VZ,Communication Services,2025-07-21,1.19,1.22,beat,0.5
-VZ,Communication Services,2025-10-29,1.19,1.21,beat,0.75
-VZ,Communication Services,2026-01-30,1.06,1.09,beat,0.75
-VZ,Communication Services,2026-04-27,1.21,1.28,beat,1.0
-WMT,Consumer Defensive,2014-11-13,0.37,0.38,beat,0.0
-WMT,Consumer Defensive,2015-02-19,0.51,0.54,beat,0.33
-WMT,Consumer Defensive,2015-05-19,0.35,0.34,miss,0.5
-WMT,Consumer Defensive,2015-08-18,0.37,0.36,miss,0.5
-WMT,Consumer Defensive,2015-11-17,0.33,0.33,meet,0.5
-WMT,Consumer Defensive,2016-02-18,0.49,0.5,beat,0.25
-WMT,Consumer Defensive,2016-05-19,0.29,0.33,beat,0.25
-WMT,Consumer Defensive,2016-08-18,0.34,0.36,beat,0.5
-WMT,Consumer Defensive,2016-11-17,0.32,0.33,beat,0.75
-WMT,Consumer Defensive,2017-02-21,0.43,0.43,meet,1.0
-WMT,Consumer Defensive,2017-05-18,0.32,0.33,beat,0.75
-WMT,Consumer Defensive,2017-08-17,0.36,0.36,meet,0.75
-WMT,Consumer Defensive,2017-11-16,0.32,0.33,beat,0.5
-WMT,Consumer Defensive,2018-02-20,0.46,0.44,miss,0.5
-WMT,Consumer Defensive,2018-05-17,0.37,0.38,beat,0.5
-WMT,Consumer Defensive,2018-08-16,0.41,0.43,beat,0.5
-WMT,Consumer Defensive,2018-11-15,0.34,0.36,beat,0.75
-WMT,Consumer Defensive,2019-02-19,0.44,0.47,beat,0.75
-WMT,Consumer Defensive,2019-05-16,0.34,0.38,beat,1.0
-WMT,Consumer Defensive,2019-08-15,0.41,0.42,beat,1.0
-WMT,Consumer Defensive,2019-11-14,0.36,0.39,beat,1.0
-WMT,Consumer Defensive,2020-02-18,0.48,0.46,miss,1.0
-WMT,Consumer Defensive,2020-05-19,0.36,0.39,beat,0.75
-WMT,Consumer Defensive,2020-08-18,0.42,0.52,beat,0.75
-WMT,Consumer Defensive,2020-11-17,0.4,0.45,beat,0.75
-WMT,Consumer Defensive,2021-02-18,0.5,0.46,miss,0.75
-WMT,Consumer Defensive,2021-05-18,0.4,0.56,beat,0.75
-WMT,Consumer Defensive,2021-08-17,0.52,0.59,beat,0.75
-WMT,Consumer Defensive,2021-11-16,0.46,0.48,beat,0.75
-WMT,Consumer Defensive,2022-02-17,0.5,0.51,beat,0.75
-WMT,Consumer Defensive,2022-05-17,0.49,0.43,miss,1.0
-WMT,Consumer Defensive,2022-08-16,0.54,0.59,beat,0.75
-WMT,Consumer Defensive,2022-11-15,0.44,0.5,beat,0.75
-WMT,Consumer Defensive,2023-02-21,0.5,0.57,beat,0.75
-WMT,Consumer Defensive,2023-05-18,0.44,0.49,beat,0.75
-WMT,Consumer Defensive,2023-08-17,0.57,0.61,beat,1.0
-WMT,Consumer Defensive,2023-11-16,0.51,0.51,meet,1.0
-WMT,Consumer Defensive,2024-02-20,0.55,0.6,beat,0.75
-WMT,Consumer Defensive,2024-05-16,0.53,0.6,beat,0.75
-WMT,Consumer Defensive,2024-08-15,0.65,0.67,beat,0.75
-WMT,Consumer Defensive,2024-11-19,0.53,0.58,beat,0.75
-WMT,Consumer Defensive,2025-02-20,0.65,0.66,beat,1.0
-WMT,Consumer Defensive,2025-05-15,0.58,0.61,beat,1.0
-WMT,Consumer Defensive,2025-08-21,0.74,0.68,miss,1.0
-WMT,Consumer Defensive,2025-11-20,0.6,0.62,beat,0.75
-WMT,Consumer Defensive,2026-02-19,0.73,0.74,beat,0.75
-WMT,Consumer Defensive,2026-05-21,0.66,0.66,meet,0.75
-XOM,Energy,2014-10-31,1.72,1.89,beat,1.0
-XOM,Energy,2015-02-02,1.34,1.32,miss,1.0
-XOM,Energy,2015-04-30,0.83,1.17,beat,0.75
-XOM,Energy,2015-07-31,1.11,1.06,miss,0.75
-XOM,Energy,2015-10-30,0.9,1.01,beat,0.5
-XOM,Energy,2016-02-02,0.64,0.67,beat,0.5
-XOM,Energy,2016-04-29,0.31,0.43,beat,0.75
-XOM,Energy,2016-07-29,0.64,0.41,miss,0.75
-XOM,Energy,2016-10-28,0.6,0.63,beat,0.75
-XOM,Energy,2017-01-31,0.7,0.89,beat,0.75
-XOM,Energy,2017-04-28,0.87,0.95,beat,0.75
-XOM,Energy,2017-07-28,0.85,0.78,miss,0.75
-XOM,Energy,2017-10-27,0.87,0.93,beat,0.75
-XOM,Energy,2018-02-02,1.03,0.88,miss,0.75
-XOM,Energy,2018-04-27,1.1,1.09,miss,0.5
-XOM,Energy,2018-07-27,1.27,0.92,miss,0.25
-XOM,Energy,2018-11-02,1.22,1.46,beat,0.25
-XOM,Energy,2019-02-01,1.09,1.5,beat,0.25
-XOM,Energy,2019-04-26,0.73,0.55,miss,0.5
-XOM,Energy,2019-08-02,0.71,0.61,miss,0.5
-XOM,Energy,2019-11-01,0.66,0.68,beat,0.5
-XOM,Energy,2020-01-31,0.45,0.41,miss,0.5
-XOM,Energy,2020-05-01,0.05,0.53,beat,0.25
-XOM,Energy,2020-07-31,-0.6,-0.7,miss,0.5
-XOM,Energy,2020-10-30,-0.25,-0.18,beat,0.5
-XOM,Energy,2021-02-02,0.02,0.03,beat,0.5
-XOM,Energy,2021-04-30,0.6,0.65,beat,0.75
-XOM,Energy,2021-07-30,0.99,1.1,beat,0.75
-XOM,Energy,2021-10-29,1.52,1.58,beat,1.0
-XOM,Energy,2022-02-01,1.93,2.05,beat,1.0
-XOM,Energy,2022-04-29,2.22,2.07,miss,1.0
-XOM,Energy,2022-07-29,3.89,4.14,beat,0.75
-XOM,Energy,2022-10-28,3.82,4.45,beat,0.75
-XOM,Energy,2023-01-31,3.28,3.4,beat,0.75
-XOM,Energy,2023-04-28,2.59,2.83,beat,0.75
-XOM,Energy,2023-07-28,2.02,1.94,miss,1.0
-XOM,Energy,2023-10-27,2.36,2.27,miss,0.75
-XOM,Energy,2024-02-02,2.19,2.48,beat,0.5
-XOM,Energy,2024-04-26,2.16,2.06,miss,0.5
-XOM,Energy,2024-08-02,2.01,2.14,beat,0.25
-XOM,Energy,2024-11-01,1.87,1.92,beat,0.5
-XOM,Energy,2025-01-31,1.55,1.67,beat,0.75
-XOM,Energy,2025-05-02,1.74,1.76,beat,0.75
-XOM,Energy,2025-08-01,1.56,1.64,beat,1.0
-XOM,Energy,2025-10-31,1.82,1.88,beat,1.0
-XOM,Energy,2026-01-30,1.69,1.71,beat,1.0
-XOM,Energy,2026-05-01,1.01,1.16,beat,1.0
+ticker,sector,earnings_date,eps_estimate,eps_actual,beat_miss_meet,trailing_4q_beat_rate,pre_earnings_30d_momentum
+ABBV,Healthcare,2014-10-31,0.77,0.89,beat,1.0,7.7
+ABBV,Healthcare,2015-01-30,0.86,0.89,beat,1.0,-2.82
+ABBV,Healthcare,2015-04-23,0.85,0.94,beat,1.0,9.1
+ABBV,Healthcare,2015-07-24,1.06,1.08,beat,1.0,2.63
+ABBV,Healthcare,2015-10-30,1.08,1.13,beat,1.0,0.35
+ABBV,Healthcare,2016-01-29,1.12,1.13,beat,1.0,-5.62
+ABBV,Healthcare,2016-04-28,1.14,1.15,beat,1.0,7.42
+ABBV,Healthcare,2016-07-29,1.2,1.26,beat,1.0,5.63
+ABBV,Healthcare,2016-10-28,1.2,1.21,beat,1.0,-3.42
+ABBV,Healthcare,2017-01-27,1.2,1.2,meet,1.0,-0.61
+ABBV,Healthcare,2017-04-27,1.26,1.28,beat,0.75,-0.44
+ABBV,Healthcare,2017-07-28,1.4,1.42,beat,0.75,-0.75
+ABBV,Healthcare,2017-10-27,1.39,1.41,beat,0.75,6.41
+ABBV,Healthcare,2018-01-26,1.43,1.48,beat,0.75,11.2
+ABBV,Healthcare,2018-04-26,1.79,1.87,beat,1.0,0.88
+ABBV,Healthcare,2018-07-27,1.97,2.0,beat,1.0,3.7
+ABBV,Healthcare,2018-11-02,2.0,2.14,beat,1.0,-15.56
+ABBV,Healthcare,2019-01-25,1.93,1.9,miss,1.0,-2.37
+ABBV,Healthcare,2019-04-25,2.07,2.14,beat,0.75,-1.3
+ABBV,Healthcare,2019-07-26,2.21,2.26,beat,0.75,-0.48
+ABBV,Healthcare,2019-11-01,2.3,2.33,beat,0.75,11.9
+ABBV,Healthcare,2020-02-07,2.19,2.21,beat,0.75,-1.3
+ABBV,Healthcare,2020-05-01,2.25,2.42,beat,1.0,13.63
+ABBV,Healthcare,2020-07-31,2.2,2.34,beat,1.0,-1.94
+ABBV,Healthcare,2020-10-30,2.77,2.83,beat,1.0,-6.65
+ABBV,Healthcare,2021-02-03,2.85,2.92,beat,1.0,-0.69
+ABBV,Healthcare,2021-04-30,2.83,2.95,beat,1.0,3.71
+ABBV,Healthcare,2021-07-30,3.03,3.11,beat,1.0,6.71
+ABBV,Healthcare,2021-10-29,3.22,3.33,beat,1.0,1.98
+ABBV,Healthcare,2022-02-02,3.28,3.31,beat,1.0,2.22
+ABBV,Healthcare,2022-04-29,3.14,3.16,beat,1.0,-3.73
+ABBV,Healthcare,2022-07-29,3.31,3.37,beat,1.0,-1.94
+ABBV,Healthcare,2022-10-28,3.57,3.66,beat,1.0,7.24
+ABBV,Healthcare,2023-02-09,3.58,3.6,beat,1.0,-8.55
+ABBV,Healthcare,2023-04-27,2.49,2.46,miss,1.0,3.18
+ABBV,Healthcare,2023-07-27,2.81,2.91,beat,0.75,8.2
+ABBV,Healthcare,2023-10-27,2.87,2.95,beat,0.75,-4.23
+ABBV,Healthcare,2024-02-02,2.8,2.79,miss,0.75,5.44
+ABBV,Healthcare,2024-04-26,2.26,2.31,beat,0.5,-6.38
+ABBV,Healthcare,2024-07-25,2.66,2.65,miss,0.75,4.15
+ABBV,Healthcare,2024-10-30,2.92,3.0,beat,0.5,-3.3
+ABBV,Healthcare,2025-01-31,2.12,2.16,beat,0.5,-0.22
+ABBV,Healthcare,2025-04-25,2.4,2.46,beat,0.75,-9.57
+ABBV,Healthcare,2025-07-31,2.91,2.97,beat,0.75,0.5
+ABBV,Healthcare,2025-10-31,1.78,1.86,beat,1.0,-5.95
+ABBV,Healthcare,2026-02-04,2.65,2.71,beat,1.0,3.31
+ABBV,Healthcare,2026-04-29,2.67,2.65,miss,1.0,-6.47
+AMGN,Healthcare,2014-10-27,2.12,2.3,beat,0.5,4.4
+AMGN,Healthcare,2015-01-27,2.05,2.16,beat,0.67,-2.28
+AMGN,Healthcare,2015-04-21,2.11,2.48,beat,0.75,-2.43
+AMGN,Healthcare,2015-07-30,2.42,2.57,beat,1.0,11.69
+AMGN,Healthcare,2015-10-28,2.37,2.72,beat,1.0,22.49
+AMGN,Healthcare,2016-01-28,2.28,2.61,beat,1.0,-8.5
+AMGN,Healthcare,2016-04-28,2.61,2.9,beat,1.0,7.7
+AMGN,Healthcare,2016-07-27,2.74,2.84,beat,1.0,15.97
+AMGN,Healthcare,2016-10-27,2.8,3.02,beat,1.0,-7.36
+AMGN,Healthcare,2017-02-02,2.79,2.89,beat,1.0,5.93
+AMGN,Healthcare,2017-04-26,3.01,3.15,beat,1.0,-0.13
+AMGN,Healthcare,2017-07-25,3.11,3.27,beat,1.0,4.96
+AMGN,Healthcare,2017-10-25,3.1,3.27,beat,1.0,-3.18
+AMGN,Healthcare,2018-02-01,3.03,2.89,miss,1.0,5.11
+AMGN,Healthcare,2018-04-24,3.25,3.47,beat,0.75,3.09
+AMGN,Healthcare,2018-07-26,3.56,3.83,beat,0.75,4.58
+AMGN,Healthcare,2018-10-30,3.45,3.69,beat,0.75,-9.21
+AMGN,Healthcare,2019-01-29,3.27,3.42,beat,0.75,0.64
+AMGN,Healthcare,2019-04-30,3.48,3.56,beat,1.0,-4.64
+AMGN,Healthcare,2019-07-30,3.58,3.97,beat,1.0,-4.45
+AMGN,Healthcare,2019-10-29,3.53,3.66,beat,1.0,5.17
+AMGN,Healthcare,2020-01-30,3.42,3.64,beat,1.0,-5.77
+AMGN,Healthcare,2020-04-30,3.75,4.17,beat,1.0,16.26
+AMGN,Healthcare,2020-07-28,3.77,4.25,beat,1.0,8.94
+AMGN,Healthcare,2020-10-28,3.75,4.37,beat,1.0,-9.54
+AMGN,Healthcare,2021-02-02,3.35,3.81,beat,1.0,4.57
+AMGN,Healthcare,2021-04-27,4.04,3.7,miss,1.0,1.05
+AMGN,Healthcare,2021-08-03,4.01,4.38,beat,0.75,-3.58
+AMGN,Healthcare,2021-11-02,4.22,4.67,beat,0.75,-1.93
+AMGN,Healthcare,2022-02-07,4.04,4.36,beat,0.75,-2.28
+AMGN,Healthcare,2022-04-27,4.12,4.25,beat,0.75,3.91
+AMGN,Healthcare,2022-08-04,4.33,4.65,beat,1.0,0.17
+AMGN,Healthcare,2022-11-03,4.45,4.7,beat,1.0,15.45
+AMGN,Healthcare,2023-01-31,4.09,4.09,meet,1.0,-4.21
+AMGN,Healthcare,2023-04-27,3.85,3.98,beat,0.75,0.13
+AMGN,Healthcare,2023-08-03,4.49,5.0,beat,0.75,2.4
+AMGN,Healthcare,2023-10-31,4.68,4.96,beat,0.75,-2.07
+AMGN,Healthcare,2024-02-06,4.59,4.71,beat,0.75,6.26
+AMGN,Healthcare,2024-05-02,3.89,3.96,beat,1.0,0.42
+AMGN,Healthcare,2024-08-06,5.0,4.97,miss,1.0,4.61
+AMGN,Healthcare,2024-10-30,5.11,5.58,beat,0.75,-1.93
+AMGN,Healthcare,2025-02-04,5.08,5.31,beat,0.75,10.58
+AMGN,Healthcare,2025-05-01,4.26,4.9,beat,0.75,-5.21
+AMGN,Healthcare,2025-08-05,5.28,6.02,beat,0.75,1.24
+AMGN,Healthcare,2025-11-04,5.01,5.64,beat,1.0,-0.53
+AMGN,Healthcare,2026-02-03,4.73,5.29,beat,1.0,5.2
+AMGN,Healthcare,2026-04-30,4.77,5.15,beat,1.0,-3.93
+AMZN,Consumer Cyclical,2014-10-23,-0.04,-0.05,miss,0.0,-3.29
+AMZN,Consumer Cyclical,2015-01-29,0.01,0.02,beat,0.0,-2.06
+AMZN,Consumer Cyclical,2015-07-23,-0.01,0.01,beat,0.25,9.48
+AMZN,Consumer Cyclical,2015-10-22,-0.01,0.01,beat,0.5,3.23
+AMZN,Consumer Cyclical,2016-01-28,0.08,0.05,miss,0.75,-15.94
+AMZN,Consumer Cyclical,2016-04-28,0.03,0.05,beat,0.75,2.14
+AMZN,Consumer Cyclical,2016-07-28,0.05,0.09,beat,0.75,4.06
+AMZN,Consumer Cyclical,2016-10-27,0.04,0.03,miss,0.75,0.79
+AMZN,Consumer Cyclical,2017-02-02,0.07,0.08,beat,0.5,10.44
+AMZN,Consumer Cyclical,2017-04-27,0.06,0.07,beat,0.75,6.23
+AMZN,Consumer Cyclical,2017-07-27,0.07,0.02,miss,0.75,7.78
+AMZN,Consumer Cyclical,2018-02-01,0.09,0.19,beat,0.5,22.03
+AMZN,Consumer Cyclical,2018-04-26,0.06,0.16,beat,0.75,-2.46
+AMZN,Consumer Cyclical,2018-07-26,0.13,0.25,beat,0.75,10.2
+AMZN,Consumer Cyclical,2018-10-25,0.16,0.29,beat,0.75,-15.72
+AMZN,Consumer Cyclical,2019-01-31,0.28,0.3,beat,1.0,11.22
+AMZN,Consumer Cyclical,2019-04-25,0.23,0.35,beat,1.0,6.61
+AMZN,Consumer Cyclical,2019-07-25,0.28,0.26,miss,1.0,6.52
+AMZN,Consumer Cyclical,2019-10-24,0.23,0.21,miss,0.75,1.18
+AMZN,Consumer Cyclical,2020-01-30,0.2,0.32,beat,0.5,0.55
+AMZN,Consumer Cyclical,2020-04-30,0.31,0.25,miss,0.5,21.69
+AMZN,Consumer Cyclical,2020-07-30,0.08,0.52,beat,0.25,9.96
+AMZN,Consumer Cyclical,2020-10-29,0.37,0.62,beat,0.5,0.57
+AMZN,Consumer Cyclical,2021-02-02,0.36,0.7,beat,0.75,2.64
+AMZN,Consumer Cyclical,2021-04-29,0.48,0.79,beat,0.75,13.2
+AMZN,Consumer Cyclical,2021-07-29,0.62,0.76,beat,1.0,5.28
+AMZN,Consumer Cyclical,2021-10-28,0.44,0.31,miss,1.0,2.31
+AMZN,Consumer Cyclical,2022-02-03,0.19,1.39,beat,0.75,-10.09
+AMZN,Consumer Cyclical,2022-04-28,0.41,-0.38,miss,0.75,-18.4
+AMZN,Consumer Cyclical,2022-07-28,0.12,-0.2,miss,0.5,12.64
+AMZN,Consumer Cyclical,2022-10-27,0.21,0.28,beat,0.25,1.09
+AMZN,Consumer Cyclical,2023-02-02,0.16,0.03,miss,0.5,22.52
+AMZN,Consumer Cyclical,2023-04-27,0.21,0.31,beat,0.25,7.96
+AMZN,Consumer Cyclical,2023-08-03,0.34,0.65,beat,0.5,-1.54
+AMZN,Consumer Cyclical,2023-10-26,0.58,0.94,beat,0.75,-3.64
+AMZN,Consumer Cyclical,2024-02-01,0.8,1.0,beat,0.75,3.51
+AMZN,Consumer Cyclical,2024-04-30,0.83,0.98,beat,1.0,0.32
+AMZN,Consumer Cyclical,2024-08-01,1.02,1.26,beat,1.0,-6.51
+AMZN,Consumer Cyclical,2024-10-31,1.14,1.43,beat,1.0,4.11
+AMZN,Consumer Cyclical,2025-02-06,1.48,1.86,beat,1.0,6.33
+AMZN,Consumer Cyclical,2025-05-01,1.36,1.59,beat,1.0,-4.03
+AMZN,Consumer Cyclical,2025-07-31,1.33,1.68,beat,1.0,4.41
+AMZN,Consumer Cyclical,2025-10-30,1.56,1.95,beat,1.0,4.89
+AMZN,Consumer Cyclical,2026-02-05,1.95,1.95,meet,1.0,-3.3
+AMZN,Consumer Cyclical,2026-04-29,1.65,2.78,beat,0.75,29.24
+AXP,Financial Services,2014-10-15,1.36,1.4,beat,1.0,-5.03
+AXP,Financial Services,2015-01-21,1.38,1.39,beat,1.0,-6.52
+AXP,Financial Services,2015-04-16,1.36,1.48,beat,1.0,-1.29
+AXP,Financial Services,2015-07-22,1.33,1.42,beat,1.0,-2.47
+AXP,Financial Services,2015-10-21,1.31,1.24,miss,1.0,0.65
+AXP,Financial Services,2016-01-21,1.12,1.23,beat,0.75,-8.05
+AXP,Financial Services,2016-04-20,1.35,1.5,beat,0.75,4.36
+AXP,Financial Services,2016-07-20,1.71,2.26,beat,0.75,3.5
+AXP,Financial Services,2016-10-19,0.96,1.24,beat,0.75,-5.74
+AXP,Financial Services,2017-01-19,0.99,0.91,miss,1.0,3.68
+AXP,Financial Services,2017-04-19,1.26,1.34,beat,0.75,-3.49
+AXP,Financial Services,2017-07-19,1.44,1.47,beat,0.75,4.84
+AXP,Financial Services,2017-10-18,1.48,1.63,beat,0.75,4.75
+AXP,Financial Services,2018-01-18,1.54,1.58,beat,0.75,1.98
+AXP,Financial Services,2018-04-18,1.71,1.86,beat,1.0,-0.66
+AXP,Financial Services,2018-07-18,1.82,1.84,beat,1.0,3.09
+AXP,Financial Services,2018-10-18,1.77,1.88,beat,1.0,-4.49
+AXP,Financial Services,2019-01-17,1.8,1.74,miss,1.0,-1.19
+AXP,Financial Services,2019-04-18,1.97,2.01,beat,0.75,-0.46
+AXP,Financial Services,2019-07-19,2.02,2.07,beat,0.75,3.31
+AXP,Financial Services,2019-10-18,2.02,2.08,beat,0.75,0.69
+AXP,Financial Services,2020-01-24,2.01,2.03,beat,0.75,5.68
+AXP,Financial Services,2020-04-24,1.67,0.41,miss,1.0,-8.04
+AXP,Financial Services,2020-07-24,0.02,0.29,beat,0.75,1.71
+AXP,Financial Services,2020-10-23,1.35,1.3,miss,0.75,10.12
+AXP,Financial Services,2021-01-26,1.3,1.76,beat,0.5,3.6
+AXP,Financial Services,2021-04-23,1.62,2.74,beat,0.5,6.63
+AXP,Financial Services,2021-07-23,1.62,2.8,beat,0.75,3.21
+AXP,Financial Services,2021-10-22,1.75,2.27,beat,0.75,6.22
+AXP,Financial Services,2022-01-25,1.84,2.18,beat,1.0,-2.96
+AXP,Financial Services,2022-04-22,2.47,2.73,beat,1.0,0.13
+AXP,Financial Services,2022-07-22,2.41,2.57,beat,1.0,4.4
+AXP,Financial Services,2022-10-21,2.41,2.47,beat,1.0,-3.86
+AXP,Financial Services,2023-01-27,2.24,2.07,miss,1.0,8.62
+AXP,Financial Services,2023-04-20,2.67,2.4,miss,0.75,0.61
+AXP,Financial Services,2023-07-21,2.82,2.89,beat,0.5,5.83
+AXP,Financial Services,2023-10-20,2.95,3.3,beat,0.5,-4.45
+AXP,Financial Services,2024-01-26,2.65,2.62,miss,0.5,0.86
+AXP,Financial Services,2024-04-19,2.98,3.33,beat,0.5,-4.27
+AXP,Financial Services,2024-07-19,3.26,4.15,beat,0.75,9.0
+AXP,Financial Services,2024-10-18,3.29,3.49,beat,0.75,9.29
+AXP,Financial Services,2025-01-24,3.03,3.04,beat,0.75,7.64
+AXP,Financial Services,2025-04-17,3.47,3.64,beat,1.0,-3.41
+AXP,Financial Services,2025-07-18,3.88,4.08,beat,1.0,6.65
+AXP,Financial Services,2025-10-17,3.98,4.14,beat,1.0,-3.59
+AXP,Financial Services,2026-01-30,3.55,3.53,miss,1.0,-2.88
+AXP,Financial Services,2026-04-23,3.99,4.28,beat,0.75,10.58
+BA,Industrials,2014-10-22,1.96,2.14,beat,1.0,-1.16
+BA,Industrials,2015-01-28,2.12,2.31,beat,1.0,0.14
+BA,Industrials,2015-04-22,1.81,1.97,beat,1.0,0.34
+BA,Industrials,2015-07-22,1.38,1.62,beat,1.0,-0.48
+BA,Industrials,2015-10-21,2.19,2.52,beat,1.0,2.1
+BA,Industrials,2016-01-27,1.28,1.6,beat,1.0,-11.44
+BA,Industrials,2016-04-27,1.85,1.74,miss,1.0,1.49
+BA,Industrials,2016-07-27,2.24,2.79,beat,0.75,9.9
+BA,Industrials,2016-10-26,2.62,3.51,beat,0.75,6.47
+BA,Industrials,2017-01-25,2.33,2.47,beat,0.75,1.74
+BA,Industrials,2017-04-26,1.91,2.01,beat,0.75,4.21
+BA,Industrials,2017-07-26,2.29,2.55,beat,1.0,6.24
+BA,Industrials,2017-10-25,2.66,2.72,beat,1.0,4.59
+BA,Industrials,2018-01-31,2.88,3.06,beat,1.0,14.51
+BA,Industrials,2018-04-25,2.61,3.64,beat,1.0,0.03
+BA,Industrials,2018-07-25,3.27,3.33,beat,1.0,8.17
+BA,Industrials,2018-10-24,3.46,3.58,beat,1.0,-4.88
+BA,Industrials,2019-01-30,4.55,5.48,beat,1.0,13.15
+BA,Industrials,2019-04-24,3.19,3.16,miss,1.0,0.96
+BA,Industrials,2019-07-24,-6.66,-5.82,beat,0.75,-0.25
+BA,Industrials,2019-10-23,2.11,1.45,miss,0.75,-10.62
+BA,Industrials,2020-01-29,-1.18,-2.33,miss,0.5,-3.01
+BA,Industrials,2020-04-29,-1.49,-1.7,miss,0.25,-13.78
+BA,Industrials,2020-07-29,-2.53,-4.79,miss,0.25,-12.16
+BA,Industrials,2020-10-28,-2.21,-1.39,beat,0.0,-6.53
+BA,Industrials,2021-01-27,-1.65,-15.25,miss,0.25,-6.49
+BA,Industrials,2021-04-28,-1.09,-1.53,miss,0.25,-3.21
+BA,Industrials,2021-07-28,-0.73,0.4,beat,0.25,-7.37
+BA,Industrials,2021-10-27,-0.15,-0.6,miss,0.5,-6.4
+BA,Industrials,2022-01-26,-0.16,-7.69,miss,0.25,0.46
+BA,Industrials,2022-04-27,-0.25,-2.75,miss,0.25,-11.22
+BA,Industrials,2022-07-27,-0.11,-0.37,miss,0.25,12.4
+BA,Industrials,2022-10-26,0.09,-6.18,miss,0.0,15.16
+BA,Industrials,2023-01-25,0.2,-1.75,miss,0.0,12.12
+BA,Industrials,2023-04-26,-1.05,-1.27,miss,0.0,0.81
+BA,Industrials,2023-07-26,-0.89,-0.82,beat,0.0,4.15
+BA,Industrials,2023-10-25,-2.61,-3.26,miss,0.25,-8.26
+BA,Industrials,2024-01-31,-0.79,-0.47,beat,0.25,-23.1
+BA,Industrials,2024-04-24,-1.52,-1.13,beat,0.5,-11.61
+BA,Industrials,2024-07-31,-2.01,-2.9,miss,0.75,0.09
+BA,Industrials,2024-10-23,-8.72,-10.44,miss,0.5,2.29
+BA,Industrials,2025-01-28,-3.78,-5.9,miss,0.5,-3.08
+BA,Industrials,2025-04-23,-1.3,-0.49,beat,0.25,-10.16
+BA,Industrials,2025-07-29,-1.27,-1.24,beat,0.25,10.19
+BA,Industrials,2025-10-29,-2.38,-7.47,miss,0.5,2.88
+BA,Industrials,2026-01-27,-0.41,9.92,beat,0.5,14.78
+BA,Industrials,2026-04-22,-0.67,-0.2,beat,0.75,10.46
+BRK-B,Financial Services,2014-11-07,1.7,1.92,beat,0.5,2.39
+BRK-B,Financial Services,2015-02-28,1.85,1.61,miss,0.67,0.77
+BRK-B,Financial Services,2015-05-01,1.62,1.72,beat,0.5,-1.56
+BRK-B,Financial Services,2015-08-07,2.13,1.58,miss,0.75,4.71
+BRK-B,Financial Services,2015-11-06,1.9,1.85,miss,0.5,2.93
+BRK-B,Financial Services,2016-02-27,1.75,1.9,beat,0.25,4.69
+BRK-B,Financial Services,2016-05-06,1.89,1.52,miss,0.5,1.54
+BRK-B,Financial Services,2016-08-05,1.89,1.87,miss,0.25,0.43
+BRK-B,Financial Services,2016-11-04,2.01,1.97,miss,0.25,-0.35
+BRK-B,Financial Services,2017-02-25,1.82,1.78,miss,0.25,3.21
+BRK-B,Financial Services,2017-05-05,1.74,1.44,miss,0.0,0.31
+BRK-B,Financial Services,2017-08-04,1.8,1.67,miss,0.0,4.15
+BRK-B,Financial Services,2017-11-03,1.59,1.4,miss,0.0,1.5
+BRK-B,Financial Services,2018-02-24,1.76,1.35,miss,0.0,-5.74
+BRK-B,Financial Services,2018-05-05,2.06,2.14,beat,0.0,-2.59
+BRK-B,Financial Services,2018-08-04,2.22,2.79,beat,0.25,6.79
+BRK-B,Financial Services,2018-11-03,2.48,2.79,beat,0.5,-5.66
+BRK-B,Financial Services,2019-02-23,2.24,2.32,beat,0.75,0.44
+BRK-B,Financial Services,2019-05-04,2.26,2.26,meet,1.0,7.1
+BRK-B,Financial Services,2019-08-03,2.59,2.5,miss,0.75,-5.8
+BRK-B,Financial Services,2019-11-02,2.81,3.21,beat,0.5,5.29
+BRK-B,Financial Services,2020-02-22,2.48,1.81,miss,0.5,-0.02
+BRK-B,Financial Services,2020-05-02,2.51,2.41,miss,0.25,1.64
+BRK-B,Financial Services,2020-08-08,2.3,2.28,miss,0.25,17.16
+BRK-B,Financial Services,2020-11-07,2.41,2.3,miss,0.25,-2.93
+BRK-B,Financial Services,2021-02-27,2.28,2.15,miss,0.0,4.14
+BRK-B,Financial Services,2021-05-01,2.57,3.05,beat,0.0,6.49
+BRK-B,Financial Services,2021-08-07,2.65,2.93,beat,0.25,4.21
+BRK-B,Financial Services,2021-11-06,2.93,2.87,miss,0.5,1.74
+BRK-B,Financial Services,2022-02-26,2.95,3.27,beat,0.5,3.76
+BRK-B,Financial Services,2022-04-30,2.88,3.18,beat,0.75,-8.52
+BRK-B,Financial Services,2022-08-06,3.34,4.21,beat,0.75,4.58
+BRK-B,Financial Services,2022-11-05,2.92,3.53,beat,0.75,4.04
+BRK-B,Financial Services,2023-02-25,4.17,3.06,miss,1.0,-2.23
+BRK-B,Financial Services,2023-05-06,3.5,3.69,beat,0.75,3.64
+BRK-B,Financial Services,2023-08-05,3.99,4.62,beat,0.75,2.5
+BRK-B,Financial Services,2023-11-04,4.93,4.96,beat,0.75,1.96
+BRK-B,Financial Services,2024-02-24,3.79,3.92,beat,0.75,9.55
+BRK-B,Financial Services,2024-05-04,4.9,5.2,beat,1.0,-3.48
+BRK-B,Financial Services,2024-08-03,4.77,5.38,beat,1.0,5.57
+BRK-B,Financial Services,2024-11-02,5.28,4.68,miss,1.0,-0.18
+BRK-B,Financial Services,2025-02-22,4.19,6.73,beat,0.75,4.11
+BRK-B,Financial Services,2025-05-03,4.72,4.47,miss,0.75,1.82
+BRK-B,Financial Services,2025-08-02,5.04,5.17,beat,0.5,-2.51
+BRK-B,Financial Services,2025-11-01,5.73,6.25,beat,0.5,-3.71
+BRK-B,Financial Services,2026-02-28,5.17,4.73,miss,0.75,5.91
+BRK-B,Financial Services,2026-05-02,5.05,5.26,beat,0.5,-0.91
+COST,Consumer Defensive,2014-12-10,1.09,1.12,beat,0.5,4.16
+COST,Consumer Defensive,2015-03-05,1.18,1.35,beat,0.67,-0.87
+COST,Consumer Defensive,2015-05-27,1.15,1.17,beat,0.75,-2.26
+COST,Consumer Defensive,2015-09-29,1.66,1.73,beat,1.0,2.57
+COST,Consumer Defensive,2015-12-08,1.17,1.09,miss,1.0,6.35
+COST,Consumer Defensive,2016-03-02,1.27,1.24,miss,0.75,-0.21
+COST,Consumer Defensive,2016-05-25,1.22,1.24,beat,0.5,-5.62
+COST,Consumer Defensive,2016-09-29,1.73,1.77,beat,0.5,-7.75
+COST,Consumer Defensive,2016-12-07,1.19,1.24,beat,0.5,5.2
+COST,Consumer Defensive,2017-03-02,1.36,1.17,miss,0.75,8.78
+COST,Consumer Defensive,2017-05-25,1.3,1.59,beat,0.75,4.54
+COST,Consumer Defensive,2017-10-05,2.02,2.08,beat,0.75,3.81
+COST,Consumer Defensive,2017-12-14,1.34,1.45,beat,0.75,10.15
+COST,Consumer Defensive,2018-03-07,1.51,1.59,beat,0.75,5.03
+COST,Consumer Defensive,2018-05-31,1.7,1.7,meet,1.0,1.87
+COST,Consumer Defensive,2018-10-04,2.37,2.36,miss,0.75,-0.63
+COST,Consumer Defensive,2018-12-13,1.62,1.73,beat,0.5,-2.71
+COST,Consumer Defensive,2019-03-07,1.69,2.01,beat,0.5,3.88
+COST,Consumer Defensive,2019-05-30,1.81,2.05,beat,0.5,-1.71
+COST,Consumer Defensive,2019-10-03,2.55,2.47,miss,0.75,-2.38
+COST,Consumer Defensive,2019-12-12,1.71,1.9,beat,0.75,-1.73
+COST,Consumer Defensive,2020-03-05,2.06,2.1,beat,0.75,5.42
+COST,Consumer Defensive,2020-05-28,1.89,1.89,meet,0.75,0.58
+COST,Consumer Defensive,2020-09-24,2.81,3.13,beat,0.5,-0.02
+COST,Consumer Defensive,2020-12-10,2.07,2.62,beat,0.75,4.77
+COST,Consumer Defensive,2021-03-04,2.44,2.14,miss,0.75,-8.72
+COST,Consumer Defensive,2021-05-27,2.34,2.75,beat,0.5,4.39
+COST,Consumer Defensive,2021-09-23,3.58,3.76,beat,0.75,0.12
+COST,Consumer Defensive,2021-12-09,2.65,2.98,beat,0.75,4.21
+COST,Consumer Defensive,2022-03-03,2.79,2.92,beat,0.75,4.01
+COST,Consumer Defensive,2022-05-26,3.04,3.04,meet,1.0,-20.39
+COST,Consumer Defensive,2022-09-22,4.2,4.2,meet,0.75,-9.04
+COST,Consumer Defensive,2022-12-08,3.13,3.07,miss,0.5,-2.19
+COST,Consumer Defensive,2023-03-02,3.23,3.3,beat,0.25,-6.19
+COST,Consumer Defensive,2023-06-01,3.19,2.93,miss,0.25,3.6
+COST,Consumer Defensive,2023-09-26,4.78,4.86,beat,0.25,4.61
+COST,Consumer Defensive,2023-12-14,3.42,3.58,beat,0.5,8.67
+COST,Consumer Defensive,2024-03-07,3.61,3.92,beat,0.75,8.79
+COST,Consumer Defensive,2024-06-06,3.77,3.78,beat,0.75,8.17
+COST,Consumer Defensive,2024-09-26,5.06,5.29,beat,1.0,-0.05
+COST,Consumer Defensive,2024-12-12,3.8,4.04,beat,1.0,6.68
+COST,Consumer Defensive,2025-03-06,4.1,4.02,miss,1.0,2.65
+COST,Consumer Defensive,2025-05-29,4.23,4.28,beat,0.75,2.3
+COST,Consumer Defensive,2025-09-25,5.8,5.87,beat,0.75,0.42
+COST,Consumer Defensive,2025-12-11,4.28,4.5,beat,0.75,-4.32
+COST,Consumer Defensive,2026-03-05,4.54,4.58,beat,0.75,2.95
+COST,Consumer Defensive,2026-05-28,4.92,4.93,beat,1.0,1.12
+CVX,Energy,2014-10-31,2.53,2.95,beat,0.5,-0.38
+CVX,Energy,2015-01-30,1.65,1.85,beat,0.67,-8.18
+CVX,Energy,2015-05-01,0.81,1.37,beat,0.75,5.98
+CVX,Energy,2015-07-31,1.16,0.97,miss,1.0,-3.18
+CVX,Energy,2015-10-30,0.74,1.09,beat,0.75,13.96
+CVX,Energy,2016-01-29,0.51,0.27,miss,0.75,-4.63
+CVX,Energy,2016-04-29,-0.16,-0.11,beat,0.5,7.51
+CVX,Energy,2016-07-29,0.32,0.35,beat,0.5,-1.58
+CVX,Energy,2016-10-28,0.39,0.49,beat,0.75,-2.18
+CVX,Energy,2017-01-27,0.64,0.21,miss,0.75,-1.15
+CVX,Energy,2017-04-28,0.87,1.23,beat,0.75,-2.41
+CVX,Energy,2017-07-28,0.87,0.91,beat,0.75,1.75
+CVX,Energy,2017-10-27,0.97,0.85,miss,0.75,0.84
+CVX,Energy,2018-02-02,1.24,0.72,miss,0.5,-2.29
+CVX,Energy,2018-04-27,1.49,1.9,beat,0.5,10.81
+CVX,Energy,2018-07-27,2.09,1.78,miss,0.5,-1.63
+CVX,Energy,2018-11-02,2.06,2.44,beat,0.25,-11.28
+CVX,Energy,2019-02-01,1.89,1.95,beat,0.5,3.58
+CVX,Energy,2019-04-26,1.33,1.47,beat,0.75,-3.98
+CVX,Energy,2019-08-02,1.82,1.77,miss,0.75,-2.12
+CVX,Energy,2019-11-01,1.46,1.55,beat,0.75,3.43
+CVX,Energy,2020-01-31,1.46,1.49,beat,0.75,-7.56
+CVX,Energy,2020-05-01,0.67,1.29,beat,0.75,34.19
+CVX,Energy,2020-07-31,-0.92,-1.59,miss,0.75,-1.54
+CVX,Energy,2020-10-30,-0.27,0.11,beat,0.75,-4.44
+CVX,Energy,2021-01-29,0.09,-0.01,miss,0.75,4.32
+CVX,Energy,2021-04-30,0.94,0.9,miss,0.5,2.01
+CVX,Energy,2021-07-30,1.6,1.71,beat,0.25,-2.07
+CVX,Energy,2021-10-29,2.19,2.96,beat,0.5,9.47
+CVX,Energy,2022-01-28,3.12,2.56,miss,0.5,14.77
+CVX,Energy,2022-04-29,3.45,3.36,miss,0.5,-2.23
+CVX,Energy,2022-07-29,5.03,5.82,beat,0.5,2.32
+CVX,Energy,2022-10-28,4.92,5.56,beat,0.5,22.03
+CVX,Energy,2023-01-27,4.3,4.09,miss,0.5,6.11
+CVX,Energy,2023-04-28,3.38,3.55,beat,0.5,3.79
+CVX,Energy,2023-07-23,2.98,3.08,beat,0.75,4.85
+CVX,Energy,2023-10-27,3.68,3.05,miss,0.75,-9.52
+CVX,Energy,2024-02-02,3.22,3.45,beat,0.5,-2.91
+CVX,Energy,2024-04-26,2.91,2.93,beat,0.75,5.71
+CVX,Energy,2024-08-02,3.0,2.55,miss,0.75,-2.61
+CVX,Energy,2024-11-01,2.42,2.51,beat,0.5,-1.41
+CVX,Energy,2025-01-31,2.11,2.06,miss,0.75,7.93
+CVX,Energy,2025-05-02,2.15,2.18,beat,0.5,-18.15
+CVX,Energy,2025-08-01,1.74,1.77,beat,0.5,2.47
+CVX,Energy,2025-10-31,1.71,1.85,beat,0.75,-0.69
+CVX,Energy,2026-01-30,1.44,1.52,beat,0.75,12.32
+CVX,Energy,2026-05-01,0.97,1.41,beat,1.0,-2.08
+DE,Industrials,2014-11-26,1.62,1.83,beat,1.0,3.8
+DE,Industrials,2015-02-20,0.82,1.12,beat,1.0,4.66
+DE,Industrials,2015-05-22,1.56,2.03,beat,1.0,1.54
+DE,Industrials,2015-08-21,1.44,1.53,beat,1.0,-4.4
+DE,Industrials,2015-11-25,0.75,1.08,beat,1.0,-1.51
+DE,Industrials,2016-02-19,0.72,0.8,beat,1.0,11.57
+DE,Industrials,2016-05-20,1.5,1.56,beat,1.0,-2.39
+DE,Industrials,2016-08-19,0.93,1.55,beat,1.0,-7.09
+DE,Industrials,2016-11-23,0.4,0.9,beat,1.0,6.12
+DE,Industrials,2017-02-17,0.52,0.61,beat,1.0,3.73
+DE,Industrials,2017-05-19,1.66,2.49,beat,1.0,4.11
+DE,Industrials,2017-08-18,1.95,1.97,beat,1.0,-1.84
+DE,Industrials,2017-11-22,1.47,1.57,beat,1.0,7.44
+DE,Industrials,2018-02-16,1.21,-1.66,miss,1.0,-0.37
+DE,Industrials,2018-05-18,3.4,3.67,beat,0.75,-1.98
+DE,Industrials,2018-08-17,2.75,2.78,beat,0.75,-1.34
+DE,Industrials,2018-11-21,2.4,2.42,beat,0.75,-4.76
+DE,Industrials,2019-02-15,1.74,1.54,miss,0.75,3.18
+DE,Industrials,2019-05-17,3.59,3.52,miss,0.75,-11.76
+DE,Industrials,2019-08-16,2.82,2.81,miss,0.5,-11.88
+DE,Industrials,2019-11-27,2.14,2.27,beat,0.25,1.9
+DE,Industrials,2020-02-21,1.26,1.63,beat,0.25,-3.11
+DE,Industrials,2020-05-22,1.62,2.11,beat,0.5,4.85
+DE,Industrials,2020-08-21,1.25,2.57,beat,0.75,8.9
+DE,Industrials,2020-11-25,1.34,2.39,beat,1.0,11.64
+DE,Industrials,2021-02-19,2.21,3.87,beat,1.0,-0.23
+DE,Industrials,2021-05-21,4.59,5.68,beat,1.0,-5.43
+DE,Industrials,2021-08-20,4.57,5.32,beat,1.0,1.69
+DE,Industrials,2021-11-24,3.89,4.12,beat,1.0,-0.98
+DE,Industrials,2022-02-18,2.26,2.92,beat,1.0,1.23
+DE,Industrials,2022-05-20,6.69,6.81,beat,1.0,-16.64
+DE,Industrials,2022-08-19,6.69,6.16,miss,1.0,16.69
+DE,Industrials,2022-11-23,7.1,7.44,beat,0.75,7.95
+DE,Industrials,2023-02-17,5.45,6.55,beat,0.75,-5.41
+DE,Industrials,2023-05-19,8.64,9.65,beat,0.75,-5.66
+DE,Industrials,2023-08-18,8.18,10.2,beat,0.75,-3.9
+DE,Industrials,2023-11-22,7.41,8.26,beat,1.0,2.51
+DE,Industrials,2024-02-15,5.21,6.23,beat,1.0,-0.15
+DE,Industrials,2024-05-16,7.92,8.53,beat,1.0,5.35
+DE,Industrials,2024-08-15,5.64,6.29,beat,1.0,-6.95
+DE,Industrials,2024-11-21,3.93,4.55,beat,1.0,-0.42
+DE,Industrials,2025-02-13,3.25,3.19,miss,1.0,10.24
+DE,Industrials,2025-05-15,5.64,6.64,beat,0.75,7.86
+DE,Industrials,2025-08-14,4.66,4.75,beat,0.75,2.0
+DE,Industrials,2025-11-26,3.83,3.93,beat,0.75,4.19
+DE,Industrials,2026-02-19,2.1,2.42,beat,0.75,16.63
+DE,Industrials,2026-05-21,5.74,6.55,beat,1.0,-4.57
+ETN,Industrials,2014-10-29,1.23,1.29,beat,0.5,0.14
+ETN,Industrials,2015-02-03,1.2,1.27,beat,0.67,-5.2
+ETN,Industrials,2015-04-29,0.98,1.01,beat,0.75,1.16
+ETN,Industrials,2015-07-29,1.13,1.16,beat,0.75,-8.13
+ETN,Industrials,2015-10-30,0.98,0.97,miss,1.0,5.87
+ETN,Industrials,2016-02-03,1.1,1.17,beat,0.75,-6.17
+ETN,Industrials,2016-04-29,0.85,0.88,beat,0.75,0.7
+ETN,Industrials,2016-08-02,1.07,1.07,meet,0.75,6.09
+ETN,Industrials,2016-11-01,1.15,1.15,meet,0.5,-2.95
+ETN,Industrials,2017-02-02,1.1,1.12,beat,0.5,4.06
+ETN,Industrials,2017-05-02,0.88,0.96,beat,0.5,2.67
+ETN,Industrials,2017-08-01,1.16,1.15,miss,0.5,0.54
+ETN,Industrials,2017-10-31,1.25,1.25,meet,0.5,3.18
+ETN,Industrials,2018-02-01,1.24,1.29,beat,0.5,6.48
+ETN,Industrials,2018-05-01,1.07,1.1,beat,0.5,-6.11
+ETN,Industrials,2018-07-31,1.32,1.39,beat,0.5,6.85
+ETN,Industrials,2018-10-30,1.43,1.43,meet,0.75,-18.1
+ETN,Industrials,2019-01-31,1.43,1.46,beat,0.75,6.15
+ETN,Industrials,2019-04-30,1.25,1.26,beat,0.75,4.26
+ETN,Industrials,2019-07-30,1.51,1.53,beat,0.75,-2.65
+ETN,Industrials,2019-10-29,1.51,1.52,beat,0.75,5.07
+ETN,Industrials,2020-02-04,1.4,1.37,miss,1.0,0.35
+ETN,Industrials,2020-04-30,1.07,1.09,beat,0.75,10.41
+ETN,Industrials,2020-07-29,0.53,0.7,beat,0.75,7.4
+ETN,Industrials,2020-11-03,1.05,1.18,beat,0.75,4.57
+ETN,Industrials,2021-02-02,1.24,1.28,beat,0.75,1.17
+ETN,Industrials,2021-05-04,1.24,1.44,beat,1.0,3.49
+ETN,Industrials,2021-08-03,1.57,1.72,beat,1.0,3.36
+ETN,Industrials,2021-11-02,1.73,1.75,beat,1.0,9.09
+ETN,Industrials,2022-02-04,1.71,1.72,beat,1.0,-7.21
+ETN,Industrials,2022-05-03,1.6,1.62,beat,1.0,-3.5
+ETN,Industrials,2022-08-02,1.82,1.87,beat,1.0,15.8
+ETN,Industrials,2022-11-01,2.01,2.02,beat,1.0,12.53
+ETN,Industrials,2023-02-08,2.05,2.06,beat,1.0,2.24
+ETN,Industrials,2023-05-02,1.78,1.88,beat,1.0,-1.49
+ETN,Industrials,2023-08-01,2.11,2.21,beat,1.0,2.1
+ETN,Industrials,2023-10-31,2.34,2.47,beat,1.0,-7.27
+ETN,Industrials,2024-02-01,2.47,2.55,beat,1.0,3.01
+ETN,Industrials,2024-04-30,2.29,2.4,beat,1.0,4.42
+ETN,Industrials,2024-08-01,2.61,2.73,beat,1.0,-2.71
+ETN,Industrials,2024-10-31,2.81,2.84,beat,1.0,4.65
+ETN,Industrials,2025-01-31,2.81,2.83,beat,1.0,-1.44
+ETN,Industrials,2025-05-02,2.71,2.72,beat,1.0,6.28
+ETN,Industrials,2025-08-05,2.92,2.95,beat,1.0,6.22
+ETN,Industrials,2025-11-04,3.05,3.07,beat,1.0,3.51
+ETN,Industrials,2026-02-03,3.32,3.33,beat,1.0,9.82
+ETN,Industrials,2026-05-05,2.73,2.81,beat,1.0,16.99
+GILD,Healthcare,2014-10-28,1.9,1.84,miss,1.0,3.88
+GILD,Healthcare,2015-02-03,2.18,2.43,beat,0.67,11.88
+GILD,Healthcare,2015-04-30,2.29,2.94,beat,0.75,4.27
+GILD,Healthcare,2015-07-28,2.71,3.15,beat,0.75,-7.5
+GILD,Healthcare,2015-10-27,2.87,3.22,beat,0.75,8.48
+GILD,Healthcare,2016-02-02,2.97,3.32,beat,1.0,-16.94
+GILD,Healthcare,2016-04-28,3.13,3.03,miss,1.0,9.24
+GILD,Healthcare,2016-07-25,3.01,3.08,beat,0.75,7.56
+GILD,Healthcare,2016-11-01,2.83,2.75,miss,0.75,-6.94
+GILD,Healthcare,2017-02-07,2.6,2.7,beat,0.5,-4.11
+GILD,Healthcare,2017-05-02,2.28,2.23,miss,0.5,0.28
+GILD,Healthcare,2017-07-26,2.17,2.56,beat,0.5,3.51
+GILD,Healthcare,2017-10-26,2.13,2.27,beat,0.5,-4.62
+GILD,Healthcare,2018-02-06,1.67,1.78,beat,0.75,5.17
+GILD,Healthcare,2018-05-01,1.67,1.48,miss,0.75,-4.19
+GILD,Healthcare,2018-07-25,1.56,1.91,beat,0.75,9.15
+GILD,Healthcare,2018-10-25,1.63,1.84,beat,0.75,-9.31
+GILD,Healthcare,2019-02-04,1.69,1.44,miss,0.75,2.64
+GILD,Healthcare,2019-05-02,1.6,1.76,beat,0.5,-2.07
+GILD,Healthcare,2019-07-30,1.71,1.82,beat,0.75,0.46
+GILD,Healthcare,2019-10-24,1.73,1.75,beat,0.75,3.13
+GILD,Healthcare,2020-02-04,1.67,1.3,miss,0.75,1.98
+GILD,Healthcare,2020-04-30,1.56,1.68,beat,0.75,11.21
+GILD,Healthcare,2020-07-30,1.45,1.11,miss,0.75,-5.11
+GILD,Healthcare,2020-10-28,1.89,2.11,beat,0.5,-4.52
+GILD,Healthcare,2021-02-04,2.15,2.19,beat,0.5,7.53
+GILD,Healthcare,2021-04-29,2.11,2.08,miss,0.75,-1.62
+GILD,Healthcare,2021-07-29,1.75,1.87,beat,0.5,3.14
+GILD,Healthcare,2021-10-28,1.78,2.65,beat,0.75,-4.57
+GILD,Healthcare,2022-02-01,1.59,0.69,miss,0.75,-5.41
+GILD,Healthcare,2022-04-28,1.81,2.12,beat,0.5,1.75
+GILD,Healthcare,2022-08-02,1.52,1.58,beat,0.75,-4.43
+GILD,Healthcare,2022-10-27,1.43,1.9,beat,0.75,13.08
+GILD,Healthcare,2023-02-02,1.51,1.67,beat,0.75,-1.63
+GILD,Healthcare,2023-04-27,1.54,1.37,miss,1.0,3.42
+GILD,Healthcare,2023-08-03,1.64,1.34,miss,0.75,-1.36
+GILD,Healthcare,2023-11-07,1.92,2.29,beat,0.5,8.56
+GILD,Healthcare,2024-02-06,1.76,1.72,miss,0.5,-7.92
+GILD,Healthcare,2024-04-25,-1.52,-1.32,beat,0.25,-7.36
+GILD,Healthcare,2024-08-08,1.6,2.01,beat,0.5,9.21
+GILD,Healthcare,2024-11-06,1.55,2.02,beat,0.75,6.86
+GILD,Healthcare,2025-02-11,1.7,1.9,beat,0.75,6.23
+GILD,Healthcare,2025-04-24,1.78,1.81,beat,1.0,-1.4
+GILD,Healthcare,2025-08-07,1.96,2.01,beat,1.0,-0.7
+GILD,Healthcare,2025-10-30,2.14,2.47,beat,1.0,6.76
+GILD,Healthcare,2026-02-10,1.81,1.86,beat,1.0,25.25
+GILD,Healthcare,2026-05-07,1.91,2.03,beat,1.0,-1.8
+HD,Consumer Cyclical,2014-11-18,1.14,1.12,miss,0.5,8.63
+HD,Consumer Cyclical,2015-02-24,0.89,1.0,beat,0.33,6.56
+HD,Consumer Cyclical,2015-05-19,1.15,1.16,beat,0.5,1.99
+HD,Consumer Cyclical,2015-08-18,1.69,1.71,beat,0.75,4.57
+HD,Consumer Cyclical,2015-11-17,1.32,1.36,beat,0.75,-1.55
+HD,Consumer Cyclical,2016-02-23,1.1,1.17,beat,1.0,0.07
+HD,Consumer Cyclical,2016-05-17,1.35,1.44,beat,1.0,0.24
+HD,Consumer Cyclical,2016-08-16,1.97,1.97,meet,1.0,1.69
+HD,Consumer Cyclical,2016-11-15,1.58,1.6,beat,0.75,0.99
+HD,Consumer Cyclical,2017-02-21,1.34,1.44,beat,0.75,5.46
+HD,Consumer Cyclical,2017-05-16,1.61,1.67,beat,0.75,7.83
+HD,Consumer Cyclical,2017-08-15,2.22,2.25,beat,0.75,0.9
+HD,Consumer Cyclical,2017-11-14,1.82,1.84,beat,1.0,0.54
+HD,Consumer Cyclical,2018-02-20,1.64,1.69,beat,1.0,-7.13
+HD,Consumer Cyclical,2018-05-15,2.05,2.08,beat,1.0,10.58
+HD,Consumer Cyclical,2018-08-14,2.85,3.05,beat,1.0,-2.29
+HD,Consumer Cyclical,2018-11-13,2.27,2.51,beat,1.0,-6.78
+HD,Consumer Cyclical,2019-02-26,2.16,2.25,beat,1.0,5.31
+HD,Consumer Cyclical,2019-05-21,2.19,2.27,beat,1.0,-7.15
+HD,Consumer Cyclical,2019-08-20,3.08,3.17,beat,1.0,-2.39
+HD,Consumer Cyclical,2019-11-19,2.53,2.53,meet,1.0,0.39
+HD,Consumer Cyclical,2020-02-25,2.11,2.28,beat,0.75,3.32
+HD,Consumer Cyclical,2020-05-19,2.26,2.08,miss,0.75,17.16
+HD,Consumer Cyclical,2020-08-18,3.72,4.02,beat,0.5,10.7
+HD,Consumer Cyclical,2020-11-17,3.04,3.18,beat,0.5,-2.81
+HD,Consumer Cyclical,2021-02-23,2.62,2.74,beat,0.75,-2.87
+HD,Consumer Cyclical,2021-05-18,3.05,3.86,beat,0.75,-2.46
+HD,Consumer Cyclical,2021-08-17,4.43,4.53,beat,1.0,4.2
+HD,Consumer Cyclical,2021-11-16,3.4,3.92,beat,1.0,5.9
+HD,Consumer Cyclical,2022-02-22,3.18,3.21,beat,1.0,-0.64
+HD,Consumer Cyclical,2022-05-17,3.69,4.09,beat,1.0,-2.8
+HD,Consumer Cyclical,2022-08-16,4.93,5.05,beat,1.0,7.59
+HD,Consumer Cyclical,2022-11-15,4.12,4.24,beat,1.0,11.03
+HD,Consumer Cyclical,2023-02-21,3.29,3.3,beat,1.0,0.94
+HD,Consumer Cyclical,2023-05-16,3.8,3.82,beat,1.0,-1.25
+HD,Consumer Cyclical,2023-08-15,4.44,4.65,beat,1.0,4.25
+HD,Consumer Cyclical,2023-11-14,3.76,3.81,beat,1.0,-1.32
+HD,Consumer Cyclical,2024-02-20,2.77,2.82,beat,1.0,-0.02
+HD,Consumer Cyclical,2024-05-14,3.61,3.63,beat,1.0,-0.56
+HD,Consumer Cyclical,2024-08-13,4.55,4.6,beat,1.0,-3.88
+HD,Consumer Cyclical,2024-11-12,3.66,3.67,beat,1.0,-0.88
+HD,Consumer Cyclical,2025-02-25,3.04,3.02,miss,1.0,-7.74
+HD,Consumer Cyclical,2025-05-20,3.59,3.56,miss,0.75,6.85
+HD,Consumer Cyclical,2025-08-19,4.69,4.68,miss,0.5,9.82
+HD,Consumer Cyclical,2025-11-18,3.83,3.74,miss,0.25,-8.64
+HD,Consumer Cyclical,2026-02-24,2.52,2.72,beat,0.0,-1.77
+HD,Consumer Cyclical,2026-05-19,3.41,3.43,beat,0.25,-14.19
+IBM,Technology,2014-10-20,4.32,3.54,miss,0.5,-6.16
+IBM,Technology,2015-01-20,5.41,5.81,beat,0.33,-0.86
+IBM,Technology,2015-04-20,2.84,2.91,beat,0.5,-1.36
+IBM,Technology,2015-07-20,3.79,3.84,beat,0.75,3.31
+IBM,Technology,2015-10-19,3.3,3.34,beat,0.75,4.07
+IBM,Technology,2016-01-19,4.81,4.84,beat,1.0,-3.61
+IBM,Technology,2016-04-18,2.17,2.35,beat,1.0,3.15
+IBM,Technology,2016-07-18,2.88,2.95,beat,1.0,5.13
+IBM,Technology,2016-10-17,3.23,3.29,beat,1.0,0.4
+IBM,Technology,2017-01-19,4.88,5.01,beat,1.0,-0.48
+IBM,Technology,2017-04-18,2.35,2.38,beat,1.0,-2.59
+IBM,Technology,2017-07-18,2.74,2.97,beat,1.0,-1.53
+IBM,Technology,2017-10-17,3.28,3.3,beat,1.0,1.39
+IBM,Technology,2018-01-18,5.17,5.18,beat,1.0,10.06
+IBM,Technology,2018-04-17,2.42,2.45,beat,1.0,-1.48
+IBM,Technology,2018-07-18,3.04,3.08,beat,1.0,-0.69
+IBM,Technology,2018-10-16,3.4,3.42,beat,1.0,-4.85
+IBM,Technology,2019-01-22,4.82,4.87,beat,1.0,11.61
+IBM,Technology,2019-04-16,2.24,2.25,beat,1.0,3.21
+IBM,Technology,2019-07-17,3.07,3.17,beat,1.0,6.36
+IBM,Technology,2019-10-16,2.66,2.68,beat,1.0,0.36
+IBM,Technology,2020-01-21,4.69,4.71,beat,1.0,2.01
+IBM,Technology,2020-04-20,1.8,1.84,beat,1.0,25.93
+IBM,Technology,2020-07-20,2.09,2.18,beat,1.0,2.16
+IBM,Technology,2020-10-19,2.58,2.58,meet,1.0,2.58
+IBM,Technology,2021-01-21,1.88,2.07,beat,0.75,5.23
+IBM,Technology,2021-04-19,1.65,1.77,beat,0.75,3.64
+IBM,Technology,2021-07-19,2.29,2.33,beat,0.75,-2.95
+IBM,Technology,2021-10-20,2.51,2.52,beat,0.75,5.71
+IBM,Technology,2022-01-24,3.29,3.35,beat,1.0,-0.98
+IBM,Technology,2022-04-19,1.42,1.4,miss,1.0,-2.01
+IBM,Technology,2022-07-18,2.29,2.31,beat,0.75,3.63
+IBM,Technology,2022-10-19,1.8,1.81,beat,0.75,-3.75
+IBM,Technology,2023-01-25,3.61,3.6,miss,0.75,-0.11
+IBM,Technology,2023-04-19,1.24,1.36,beat,0.5,1.46
+IBM,Technology,2023-07-19,2.0,2.18,beat,0.75,-1.54
+IBM,Technology,2023-10-25,2.13,2.2,beat,0.75,-5.93
+IBM,Technology,2024-01-24,3.8,3.87,beat,0.75,7.28
+IBM,Technology,2024-04-24,1.6,1.68,beat,1.0,-3.5
+IBM,Technology,2024-07-24,2.17,2.43,beat,1.0,5.19
+IBM,Technology,2024-10-23,2.23,2.3,beat,1.0,5.33
+IBM,Technology,2025-01-29,3.78,3.92,beat,1.0,2.46
+IBM,Technology,2025-04-23,1.43,1.6,beat,1.0,-3.04
+IBM,Technology,2025-07-23,2.65,2.8,beat,1.0,-2.5
+IBM,Technology,2025-10-22,2.45,2.65,beat,1.0,3.94
+IBM,Technology,2026-01-28,4.29,4.52,beat,1.0,-3.89
+IBM,Technology,2026-04-22,1.81,1.91,beat,1.0,2.91
+KO,Consumer Defensive,2014-10-21,0.53,0.53,meet,0.5,2.95
+KO,Consumer Defensive,2015-02-10,0.42,0.44,beat,0.33,-4.18
+KO,Consumer Defensive,2015-04-22,0.42,0.48,beat,0.5,0.39
+KO,Consumer Defensive,2015-07-22,0.6,0.63,beat,0.75,1.75
+KO,Consumer Defensive,2015-10-21,0.5,0.51,beat,0.75,7.91
+KO,Consumer Defensive,2016-02-09,0.37,0.38,beat,1.0,2.75
+KO,Consumer Defensive,2016-04-20,0.44,0.45,beat,1.0,2.04
+KO,Consumer Defensive,2016-07-27,0.58,0.6,beat,1.0,2.51
+KO,Consumer Defensive,2016-10-26,0.48,0.49,beat,1.0,1.17
+KO,Consumer Defensive,2017-02-09,0.37,0.37,meet,1.0,2.39
+KO,Consumer Defensive,2017-04-25,0.44,0.43,miss,0.75,2.75
+KO,Consumer Defensive,2017-07-26,0.57,0.59,beat,0.5,-0.42
+KO,Consumer Defensive,2017-10-25,0.49,0.5,beat,0.5,1.07
+KO,Consumer Defensive,2018-02-16,0.38,0.39,beat,0.5,-4.36
+KO,Consumer Defensive,2018-04-24,0.46,0.47,beat,0.75,3.9
+KO,Consumer Defensive,2018-07-25,0.6,0.61,beat,1.0,3.85
+KO,Consumer Defensive,2018-10-30,0.55,0.58,beat,1.0,0.58
+KO,Consumer Defensive,2019-02-14,0.43,0.43,meet,1.0,4.67
+KO,Consumer Defensive,2019-04-23,0.46,0.48,beat,0.75,3.2
+KO,Consumer Defensive,2019-07-23,0.61,0.63,beat,0.75,-0.64
+KO,Consumer Defensive,2019-10-18,0.56,0.56,meet,0.75,-0.81
+KO,Consumer Defensive,2020-01-30,0.44,0.44,meet,0.5,3.0
+KO,Consumer Defensive,2020-04-21,0.44,0.51,beat,0.5,21.49
+KO,Consumer Defensive,2020-07-21,0.41,0.42,beat,0.5,0.22
+KO,Consumer Defensive,2020-10-22,0.46,0.55,beat,0.5,0.66
+KO,Consumer Defensive,2021-02-10,0.42,0.47,beat,0.75,-1.0
+KO,Consumer Defensive,2021-04-19,0.5,0.55,beat,1.0,5.65
+KO,Consumer Defensive,2021-07-21,0.56,0.68,beat,1.0,2.7
+KO,Consumer Defensive,2021-10-27,0.58,0.65,beat,1.0,1.6
+KO,Consumer Defensive,2022-02-10,0.41,0.45,beat,1.0,0.98
+KO,Consumer Defensive,2022-04-25,0.58,0.64,beat,1.0,6.05
+KO,Consumer Defensive,2022-07-26,0.67,0.7,beat,1.0,-1.35
+KO,Consumer Defensive,2022-10-25,0.64,0.69,beat,1.0,-1.76
+KO,Consumer Defensive,2023-02-14,0.45,0.45,meet,1.0,-1.35
+KO,Consumer Defensive,2023-04-24,0.65,0.68,beat,0.75,5.17
+KO,Consumer Defensive,2023-07-26,0.72,0.78,beat,0.75,1.68
+KO,Consumer Defensive,2023-10-24,0.69,0.74,beat,0.75,-6.11
+KO,Consumer Defensive,2024-02-13,0.49,0.49,meet,0.75,-1.14
+KO,Consumer Defensive,2024-04-30,0.7,0.72,beat,0.75,1.41
+KO,Consumer Defensive,2024-07-23,0.81,0.84,beat,0.75,3.19
+KO,Consumer Defensive,2024-10-23,0.75,0.77,beat,0.75,-3.18
+KO,Consumer Defensive,2025-02-11,0.52,0.55,beat,0.75,5.7
+KO,Consumer Defensive,2025-04-29,0.72,0.73,beat,1.0,2.02
+KO,Consumer Defensive,2025-07-22,0.84,0.87,beat,1.0,1.79
+KO,Consumer Defensive,2025-10-21,0.78,0.82,beat,1.0,3.03
+KO,Consumer Defensive,2026-02-10,0.56,0.58,beat,1.0,10.58
+KO,Consumer Defensive,2026-04-28,0.81,0.86,beat,1.0,-0.36
+LIN,Basic Materials,2014-10-29,1.62,1.62,meet,0.0,-3.96
+LIN,Basic Materials,2015-01-28,1.56,1.57,beat,0.0,-6.89
+LIN,Basic Materials,2015-04-29,1.44,1.43,miss,0.25,1.05
+LIN,Basic Materials,2015-07-29,1.45,1.45,meet,0.25,-3.29
+LIN,Basic Materials,2015-10-29,1.45,1.46,beat,0.25,9.31
+LIN,Basic Materials,2016-01-29,1.47,1.47,meet,0.5,-4.83
+LIN,Basic Materials,2016-04-29,1.27,1.28,beat,0.25,2.83
+LIN,Basic Materials,2016-07-28,1.36,1.39,beat,0.5,9.09
+LIN,Basic Materials,2016-10-27,1.4,1.41,beat,0.75,1.34
+LIN,Basic Materials,2017-01-26,1.41,1.41,meet,0.75,0.86
+LIN,Basic Materials,2017-04-27,1.33,1.37,beat,0.75,5.33
+LIN,Basic Materials,2017-07-27,1.42,1.46,beat,0.75,2.12
+LIN,Basic Materials,2017-10-26,1.44,1.5,beat,0.75,3.75
+LIN,Basic Materials,2018-01-25,1.48,1.52,beat,0.75,5.41
+LIN,Basic Materials,2018-04-26,1.56,1.65,beat,1.0,3.91
+LIN,Basic Materials,2018-07-26,1.7,1.72,beat,1.0,7.54
+LIN,Basic Materials,2018-11-09,1.69,1.69,meet,1.0,4.61
+LIN,Basic Materials,2019-05-10,1.57,1.69,beat,0.75,-4.24
+LIN,Basic Materials,2019-08-05,1.71,1.83,beat,0.75,-7.27
+LIN,Basic Materials,2019-11-12,1.77,1.94,beat,0.75,4.14
+LIN,Basic Materials,2020-02-13,1.84,1.89,beat,0.75,3.45
+LIN,Basic Materials,2020-03-01,1.51,-0.48,miss,1.0,-5.97
+LIN,Basic Materials,2020-05-07,1.84,1.89,beat,0.75,-0.55
+LIN,Basic Materials,2020-07-31,1.65,1.9,beat,0.75,12.69
+LIN,Basic Materials,2020-11-05,1.95,2.15,beat,0.75,1.38
+LIN,Basic Materials,2021-02-05,2.15,2.3,beat,0.75,-8.22
+LIN,Basic Materials,2021-05-06,2.26,2.49,beat,1.0,2.64
+LIN,Basic Materials,2021-07-30,2.53,2.7,beat,1.0,3.58
+LIN,Basic Materials,2021-10-29,2.66,2.73,beat,1.0,6.29
+LIN,Basic Materials,2022-02-10,2.67,2.77,beat,1.0,-9.59
+LIN,Basic Materials,2022-04-28,2.77,2.93,beat,1.0,-5.91
+LIN,Basic Materials,2022-07-28,2.96,3.1,beat,1.0,-1.01
+LIN,Basic Materials,2022-10-27,2.93,3.1,beat,1.0,11.18
+LIN,Basic Materials,2023-02-07,2.89,3.16,beat,1.0,2.12
+LIN,Basic Materials,2023-04-27,3.14,3.42,beat,1.0,5.08
+LIN,Basic Materials,2023-07-27,3.49,3.57,beat,1.0,3.32
+LIN,Basic Materials,2023-10-26,3.57,3.63,beat,1.0,-1.84
+LIN,Basic Materials,2024-02-06,3.5,3.59,beat,1.0,-2.08
+LIN,Basic Materials,2024-05-02,3.67,3.75,beat,1.0,-4.06
+LIN,Basic Materials,2024-08-02,3.79,3.85,beat,1.0,4.71
+LIN,Basic Materials,2024-10-31,3.91,3.94,beat,1.0,-0.34
+LIN,Basic Materials,2025-02-06,3.92,3.97,beat,1.0,9.34
+LIN,Basic Materials,2025-05-01,3.92,3.95,beat,1.0,-2.97
+LIN,Basic Materials,2025-08-01,4.04,4.09,beat,1.0,-3.54
+LIN,Basic Materials,2025-10-31,4.18,4.21,beat,1.0,-7.9
+LIN,Basic Materials,2026-02-05,4.18,4.2,beat,1.0,8.27
+LIN,Basic Materials,2026-05-01,4.27,4.33,beat,1.0,1.48
+MA,Financial Services,2014-10-30,0.78,0.87,beat,1.0,2.95
+MA,Financial Services,2015-01-30,0.67,0.69,beat,1.0,-5.37
+MA,Financial Services,2015-04-29,0.8,0.89,beat,1.0,3.11
+MA,Financial Services,2015-07-29,0.85,0.85,meet,1.0,3.03
+MA,Financial Services,2015-10-29,0.87,0.91,beat,0.75,12.96
+MA,Financial Services,2016-01-29,0.68,0.79,beat,0.75,-15.45
+MA,Financial Services,2016-04-28,0.85,0.86,beat,0.75,6.25
+MA,Financial Services,2016-07-28,0.9,0.96,beat,0.75,3.91
+MA,Financial Services,2016-10-28,0.98,1.08,beat,1.0,2.25
+MA,Financial Services,2017-01-31,0.86,0.86,meet,1.0,6.08
+MA,Financial Services,2017-05-02,0.95,1.01,beat,0.75,3.67
+MA,Financial Services,2017-07-27,1.04,1.1,beat,0.75,6.92
+MA,Financial Services,2017-10-31,1.23,1.34,beat,0.75,5.65
+MA,Financial Services,2018-02-01,1.12,1.14,beat,0.75,11.43
+MA,Financial Services,2018-05-02,1.24,1.5,beat,1.0,5.19
+MA,Financial Services,2018-07-26,1.53,1.66,beat,1.0,9.15
+MA,Financial Services,2018-10-30,1.68,1.78,beat,1.0,-14.08
+MA,Financial Services,2019-01-31,1.52,1.55,beat,1.0,8.33
+MA,Financial Services,2019-04-30,1.66,1.78,beat,1.0,5.11
+MA,Financial Services,2019-07-30,1.83,1.89,beat,1.0,6.52
+MA,Financial Services,2019-10-29,2.01,2.15,beat,1.0,2.65
+MA,Financial Services,2020-01-29,1.87,1.96,beat,1.0,7.72
+MA,Financial Services,2020-04-29,1.74,1.83,beat,1.0,4.64
+MA,Financial Services,2020-07-30,1.18,1.36,beat,1.0,4.74
+MA,Financial Services,2020-10-28,1.66,1.6,miss,1.0,-6.18
+MA,Financial Services,2021-01-28,1.52,1.64,beat,0.75,-8.88
+MA,Financial Services,2021-04-29,1.56,1.74,beat,0.75,10.59
+MA,Financial Services,2021-07-29,1.75,1.95,beat,0.75,4.32
+MA,Financial Services,2021-10-28,2.19,2.37,beat,0.75,-4.28
+MA,Financial Services,2022-01-27,2.21,2.35,beat,1.0,-4.34
+MA,Financial Services,2022-04-28,2.16,2.76,beat,1.0,-1.49
+MA,Financial Services,2022-07-28,2.36,2.56,beat,1.0,8.01
+MA,Financial Services,2022-10-27,2.57,2.68,beat,1.0,11.71
+MA,Financial Services,2023-01-26,2.58,2.65,beat,1.0,10.65
+MA,Financial Services,2023-04-27,2.71,2.8,beat,1.0,3.67
+MA,Financial Services,2023-07-27,2.83,2.89,beat,1.0,5.55
+MA,Financial Services,2023-10-26,3.21,3.39,beat,1.0,-2.15
+MA,Financial Services,2024-01-31,3.08,3.18,beat,1.0,4.54
+MA,Financial Services,2024-05-01,3.24,3.31,beat,1.0,-5.55
+MA,Financial Services,2024-07-31,3.51,3.59,beat,1.0,2.4
+MA,Financial Services,2024-10-31,3.75,3.89,beat,1.0,3.62
+MA,Financial Services,2025-01-30,3.69,3.82,beat,1.0,4.38
+MA,Financial Services,2025-05-01,3.56,3.73,beat,1.0,0.08
+MA,Financial Services,2025-07-31,4.02,4.15,beat,1.0,-0.84
+MA,Financial Services,2025-10-30,4.31,4.38,beat,1.0,-2.37
+MA,Financial Services,2026-01-29,4.24,4.76,beat,1.0,-9.57
+MA,Financial Services,2026-04-30,4.41,4.6,beat,1.0,5.3
+MCD,Consumer Cyclical,2014-10-21,1.37,1.35,miss,0.0,-2.94
+MCD,Consumer Cyclical,2015-01-23,1.22,1.17,miss,0.0,-3.13
+MCD,Consumer Cyclical,2015-04-22,1.06,1.01,miss,0.0,-3.8
+MCD,Consumer Cyclical,2015-07-23,1.23,1.29,beat,0.0,0.41
+MCD,Consumer Cyclical,2015-10-22,1.28,1.4,beat,0.25,5.49
+MCD,Consumer Cyclical,2016-01-25,1.23,1.28,beat,0.5,-0.14
+MCD,Consumer Cyclical,2016-04-22,1.16,1.23,beat,0.75,1.29
+MCD,Consumer Cyclical,2016-07-26,1.38,1.45,beat,1.0,6.66
+MCD,Consumer Cyclical,2016-10-21,1.48,1.62,beat,1.0,-5.44
+MCD,Consumer Cyclical,2017-01-23,1.41,1.43,beat,1.0,-0.71
+MCD,Consumer Cyclical,2017-04-25,1.33,1.47,beat,1.0,3.78
+MCD,Consumer Cyclical,2017-07-25,1.62,1.73,beat,1.0,-1.8
+MCD,Consumer Cyclical,2017-10-24,1.77,1.76,miss,1.0,2.79
+MCD,Consumer Cyclical,2018-01-30,1.59,1.71,beat,0.75,3.28
+MCD,Consumer Cyclical,2018-04-30,1.67,1.79,beat,0.75,1.23
+MCD,Consumer Cyclical,2018-07-26,1.93,1.99,beat,0.75,-1.26
+MCD,Consumer Cyclical,2018-10-23,1.99,2.1,beat,0.75,0.8
+MCD,Consumer Cyclical,2019-01-30,1.89,1.97,beat,1.0,2.59
+MCD,Consumer Cyclical,2019-04-30,1.76,1.72,miss,1.0,3.8
+MCD,Consumer Cyclical,2019-07-26,2.05,2.05,meet,0.75,4.83
+MCD,Consumer Cyclical,2019-10-22,2.21,2.11,miss,0.5,0.22
+MCD,Consumer Cyclical,2020-01-29,1.97,1.97,meet,0.25,6.85
+MCD,Consumer Cyclical,2020-04-30,1.54,1.47,miss,0.0,13.59
+MCD,Consumer Cyclical,2020-07-28,0.75,0.66,miss,0.0,11.97
+MCD,Consumer Cyclical,2020-11-09,1.9,2.22,beat,0.0,-3.68
+MCD,Consumer Cyclical,2021-01-28,1.78,1.7,miss,0.25,-2.68
+MCD,Consumer Cyclical,2021-04-29,1.82,1.92,beat,0.25,3.3
+MCD,Consumer Cyclical,2021-07-28,2.12,2.37,beat,0.5,6.6
+MCD,Consumer Cyclical,2021-10-27,2.47,2.76,beat,0.75,-4.71
+MCD,Consumer Cyclical,2022-01-27,2.34,2.23,miss,0.75,-6.73
+MCD,Consumer Cyclical,2022-04-28,2.18,2.28,beat,0.75,-0.42
+MCD,Consumer Cyclical,2022-07-26,2.47,2.55,beat,0.75,1.0
+MCD,Consumer Cyclical,2022-10-27,2.58,2.68,beat,0.75,8.41
+MCD,Consumer Cyclical,2023-01-31,2.46,2.59,beat,0.75,2.79
+MCD,Consumer Cyclical,2023-04-25,2.34,2.63,beat,1.0,8.06
+MCD,Consumer Cyclical,2023-07-27,2.79,3.17,beat,1.0,0.15
+MCD,Consumer Cyclical,2023-10-30,2.99,3.19,beat,1.0,-2.92
+MCD,Consumer Cyclical,2024-02-05,2.83,2.95,beat,1.0,2.79
+MCD,Consumer Cyclical,2024-04-30,2.73,2.7,miss,1.0,-2.98
+MCD,Consumer Cyclical,2024-07-29,3.07,2.97,miss,0.75,-1.11
+MCD,Consumer Cyclical,2024-10-29,3.2,3.23,beat,0.5,-2.27
+MCD,Consumer Cyclical,2025-02-10,2.86,2.83,miss,0.5,4.25
+MCD,Consumer Cyclical,2025-05-01,2.67,2.67,meet,0.25,1.92
+MCD,Consumer Cyclical,2025-08-06,3.15,3.19,beat,0.25,1.79
+MCD,Consumer Cyclical,2025-11-05,3.33,3.22,miss,0.5,1.07
+MCD,Consumer Cyclical,2026-02-11,3.05,3.12,beat,0.25,6.27
+MCD,Consumer Cyclical,2026-05-07,2.74,2.83,beat,0.5,-6.81
+NEE,Utilities,2014-10-31,0.38,0.39,beat,0.5,5.96
+NEE,Utilities,2015-01-27,0.26,0.26,meet,0.67,0.42
+NEE,Utilities,2015-04-29,0.32,0.35,beat,0.5,-0.61
+NEE,Utilities,2015-08-03,0.37,0.39,beat,0.5,4.97
+NEE,Utilities,2015-10-28,0.41,0.4,miss,0.75,6.71
+NEE,Utilities,2016-01-28,0.27,0.29,beat,0.5,1.99
+NEE,Utilities,2016-04-28,0.35,0.34,miss,0.75,-1.78
+NEE,Utilities,2016-07-27,0.39,0.42,beat,0.5,0.43
+NEE,Utilities,2016-10-31,0.42,0.44,beat,0.5,2.79
+NEE,Utilities,2017-01-27,0.32,0.3,miss,0.75,0.08
+NEE,Utilities,2017-04-21,0.4,0.44,beat,0.5,-1.16
+NEE,Utilities,2017-07-26,0.44,0.47,beat,0.75,-0.78
+NEE,Utilities,2017-10-26,0.44,0.46,beat,0.75,4.17
+NEE,Utilities,2018-01-26,0.33,0.31,miss,0.75,-1.42
+NEE,Utilities,2018-04-24,0.46,0.49,beat,0.75,1.03
+NEE,Utilities,2018-07-25,0.52,0.53,beat,0.75,2.29
+NEE,Utilities,2018-10-23,0.54,0.55,beat,0.75,1.11
+NEE,Utilities,2019-01-25,0.38,0.37,miss,0.75,5.84
+NEE,Utilities,2019-04-23,0.51,0.55,beat,0.75,-1.83
+NEE,Utilities,2019-07-24,0.58,0.59,beat,0.75,-0.43
+NEE,Utilities,2019-10-22,0.57,0.6,beat,0.75,3.14
+NEE,Utilities,2020-01-24,0.37,0.36,miss,0.75,8.14
+NEE,Utilities,2020-04-22,0.56,0.6,beat,0.75,29.59
+NEE,Utilities,2020-07-24,0.63,0.65,beat,0.75,16.26
+NEE,Utilities,2020-10-21,0.65,0.67,beat,0.75,8.98
+NEE,Utilities,2021-01-26,0.38,0.4,beat,0.75,15.86
+NEE,Utilities,2021-04-21,0.61,0.67,beat,1.0,12.33
+NEE,Utilities,2021-07-23,0.69,0.71,beat,1.0,3.78
+NEE,Utilities,2021-10-20,0.72,0.75,beat,1.0,0.42
+NEE,Utilities,2022-01-25,0.4,0.41,beat,1.0,-9.68
+NEE,Utilities,2022-04-21,0.72,0.74,beat,1.0,-1.62
+NEE,Utilities,2022-07-22,0.76,0.81,beat,1.0,5.6
+NEE,Utilities,2022-10-28,0.8,0.85,beat,1.0,-8.38
+NEE,Utilities,2023-01-25,0.49,0.51,beat,1.0,-0.32
+NEE,Utilities,2023-04-25,0.76,0.84,beat,1.0,4.43
+NEE,Utilities,2023-07-25,0.81,0.88,beat,1.0,1.79
+NEE,Utilities,2023-10-24,0.88,0.94,beat,1.0,-23.9
+NEE,Utilities,2024-01-25,0.49,0.52,beat,1.0,-5.31
+NEE,Utilities,2024-04-23,0.8,0.91,beat,1.0,5.71
+NEE,Utilities,2024-07-24,0.95,0.96,beat,1.0,-2.36
+NEE,Utilities,2024-10-23,0.97,1.03,beat,1.0,-1.32
+NEE,Utilities,2025-01-24,0.53,0.53,meet,1.0,-5.05
+NEE,Utilities,2025-04-22,0.98,0.99,beat,0.75,-8.75
+NEE,Utilities,2025-07-23,1.01,1.05,beat,0.75,9.63
+NEE,Utilities,2025-10-28,1.02,1.13,beat,0.75,13.42
+NEE,Utilities,2026-01-27,0.53,0.54,beat,0.75,6.29
+NEE,Utilities,2026-04-23,1.03,1.09,beat,1.0,-1.77
+ORCL,Technology,2014-12-17,0.68,0.69,beat,0.0,-1.29
+ORCL,Technology,2015-03-17,0.68,0.68,meet,0.33,-1.18
+ORCL,Technology,2015-06-17,0.86,0.78,miss,0.25,0.9
+ORCL,Technology,2015-09-16,0.52,0.53,beat,0.25,-4.36
+ORCL,Technology,2015-12-16,0.6,0.63,beat,0.5,0.24
+ORCL,Technology,2016-03-15,0.62,0.64,beat,0.5,8.89
+ORCL,Technology,2016-06-16,0.82,0.81,miss,0.75,-2.93
+ORCL,Technology,2016-09-15,0.58,0.55,miss,0.75,-2.59
+ORCL,Technology,2016-12-15,0.6,0.61,beat,0.5,4.37
+ORCL,Technology,2017-03-15,0.62,0.69,beat,0.5,4.14
+ORCL,Technology,2017-06-21,0.78,0.89,beat,0.5,2.71
+ORCL,Technology,2017-09-14,0.6,0.62,beat,0.75,8.13
+ORCL,Technology,2017-12-14,0.68,0.7,beat,1.0,1.73
+ORCL,Technology,2018-03-19,0.72,0.83,beat,1.0,3.08
+ORCL,Technology,2018-06-19,0.94,0.99,beat,1.0,0.43
+ORCL,Technology,2018-09-17,0.68,0.71,beat,1.0,1.84
+ORCL,Technology,2018-12-17,0.78,0.8,beat,1.0,-8.93
+ORCL,Technology,2019-03-14,0.84,0.87,beat,1.0,3.59
+ORCL,Technology,2019-06-19,1.07,1.16,beat,1.0,-1.42
+ORCL,Technology,2019-09-11,0.81,0.81,meet,1.0,4.17
+ORCL,Technology,2019-12-12,0.89,0.9,beat,0.75,-0.49
+ORCL,Technology,2020-03-12,0.96,0.97,beat,0.75,-18.91
+ORCL,Technology,2020-06-16,1.15,1.2,beat,0.75,0.62
+ORCL,Technology,2020-09-10,0.86,0.93,beat,0.75,4.94
+ORCL,Technology,2020-12-10,1.0,1.06,beat,1.0,5.4
+ORCL,Technology,2021-03-10,1.11,1.16,beat,1.0,15.1
+ORCL,Technology,2021-06-15,1.33,1.54,beat,1.0,4.73
+ORCL,Technology,2021-09-13,0.97,1.03,beat,1.0,-0.77
+ORCL,Technology,2021-12-09,1.11,1.21,beat,1.0,-5.97
+ORCL,Technology,2022-03-10,1.18,1.13,miss,1.0,-5.81
+ORCL,Technology,2022-06-13,1.38,1.54,beat,0.75,-5.66
+ORCL,Technology,2022-09-12,1.08,1.03,miss,0.75,-4.09
+ORCL,Technology,2022-12-12,1.17,1.21,beat,0.5,2.73
+ORCL,Technology,2023-03-09,1.2,1.22,beat,0.5,0.85
+ORCL,Technology,2023-06-12,1.58,1.67,beat,0.75,12.26
+ORCL,Technology,2023-09-11,1.15,1.19,beat,0.75,11.73
+ORCL,Technology,2023-12-11,1.33,1.34,beat,1.0,0.48
+ORCL,Technology,2024-03-11,1.38,1.41,beat,1.0,-3.62
+ORCL,Technology,2024-06-11,1.65,1.63,miss,1.0,6.71
+ORCL,Technology,2024-09-09,1.33,1.39,beat,0.75,7.38
+ORCL,Technology,2024-12-09,1.48,1.47,miss,0.75,1.29
+ORCL,Technology,2025-03-10,1.49,1.47,miss,0.5,-11.06
+ORCL,Technology,2025-06-11,1.64,1.7,beat,0.25,12.89
+ORCL,Technology,2025-09-09,1.48,1.47,miss,0.5,-4.63
+ORCL,Technology,2025-12-10,1.64,2.26,beat,0.25,-8.01
+ORCL,Technology,2026-03-10,1.69,1.79,beat,0.5,6.12
+ORCL,Technology,2026-06-10,1.96,2.11,beat,0.75,6.18
+PG,Consumer Defensive,2014-10-24,1.07,1.07,meet,1.0,-1.61
+PG,Consumer Defensive,2015-01-27,1.13,1.06,miss,0.67,-3.47
+PG,Consumer Defensive,2015-04-23,0.92,0.92,meet,0.5,-0.99
+PG,Consumer Defensive,2015-07-30,0.95,1.0,beat,0.25,3.89
+PG,Consumer Defensive,2015-10-23,0.94,0.98,beat,0.25,7.49
+PG,Consumer Defensive,2016-01-26,0.97,1.04,beat,0.5,-2.85
+PG,Consumer Defensive,2016-04-26,0.82,0.86,beat,0.75,-0.98
+PG,Consumer Defensive,2016-08-02,0.74,0.79,beat,1.0,2.72
+PG,Consumer Defensive,2016-10-25,0.98,1.03,beat,1.0,-3.43
+PG,Consumer Defensive,2017-01-20,1.06,1.08,beat,1.0,1.29
+PG,Consumer Defensive,2017-04-26,0.94,0.96,beat,1.0,0.22
+PG,Consumer Defensive,2017-07-27,0.78,0.85,beat,1.0,1.57
+PG,Consumer Defensive,2017-10-20,1.08,1.09,beat,1.0,-2.25
+PG,Consumer Defensive,2018-01-23,1.14,1.19,beat,1.0,0.5
+PG,Consumer Defensive,2018-04-19,0.98,1.0,beat,1.0,-0.14
+PG,Consumer Defensive,2018-07-31,0.9,0.94,beat,1.0,3.67
+PG,Consumer Defensive,2018-10-19,1.09,1.12,beat,1.0,-3.63
+PG,Consumer Defensive,2019-01-23,1.21,1.25,beat,1.0,4.34
+PG,Consumer Defensive,2019-04-23,1.04,1.06,beat,1.0,5.02
+PG,Consumer Defensive,2019-07-30,1.05,1.1,beat,1.0,6.48
+PG,Consumer Defensive,2019-10-22,1.24,1.37,beat,1.0,-1.96
+PG,Consumer Defensive,2020-01-23,1.37,1.42,beat,1.0,0.87
+PG,Consumer Defensive,2020-04-17,1.13,1.17,beat,1.0,3.45
+PG,Consumer Defensive,2020-07-30,1.01,1.16,beat,1.0,7.99
+PG,Consumer Defensive,2020-10-20,1.42,1.63,beat,1.0,3.3
+PG,Consumer Defensive,2021-01-20,1.51,1.64,beat,1.0,-2.85
+PG,Consumer Defensive,2021-04-20,1.19,1.26,beat,1.0,6.72
+PG,Consumer Defensive,2021-07-30,1.09,1.13,beat,1.0,4.02
+PG,Consumer Defensive,2021-10-19,1.59,1.61,beat,1.0,-1.39
+PG,Consumer Defensive,2022-01-19,1.65,1.66,beat,1.0,-0.72
+PG,Consumer Defensive,2022-04-20,1.29,1.33,beat,1.0,5.77
+PG,Consumer Defensive,2022-07-29,1.23,1.21,miss,1.0,4.8
+PG,Consumer Defensive,2022-10-19,1.55,1.57,beat,0.75,-6.97
+PG,Consumer Defensive,2023-01-19,1.59,1.59,meet,0.75,-2.69
+PG,Consumer Defensive,2023-04-21,1.32,1.37,beat,0.5,5.42
+PG,Consumer Defensive,2023-07-28,1.32,1.37,beat,0.5,2.05
+PG,Consumer Defensive,2023-10-18,1.72,1.83,beat,0.75,-5.06
+PG,Consumer Defensive,2024-01-23,1.7,1.84,beat,0.75,2.42
+PG,Consumer Defensive,2024-04-19,1.41,1.52,beat,1.0,-2.27
+PG,Consumer Defensive,2024-07-30,1.37,1.4,beat,1.0,3.66
+PG,Consumer Defensive,2024-10-18,1.9,1.93,beat,1.0,-0.94
+PG,Consumer Defensive,2025-01-22,1.86,1.88,beat,1.0,-3.8
+PG,Consumer Defensive,2025-04-24,1.53,1.54,beat,1.0,2.4
+PG,Consumer Defensive,2025-07-29,1.42,1.48,beat,1.0,-1.05
+PG,Consumer Defensive,2025-10-24,1.9,1.99,beat,1.0,-0.14
+PG,Consumer Defensive,2026-01-22,1.86,1.88,beat,1.0,2.01
+PG,Consumer Defensive,2026-04-24,1.56,1.59,beat,1.0,1.24
+PLTR,Technology,2021-05-11,0.04,0.04,meet,1.0,-23.17
+PLTR,Technology,2021-08-12,0.03,0.04,beat,0.67,-0.45
+PLTR,Technology,2021-11-09,0.04,0.04,meet,0.75,13.83
+PLTR,Technology,2022-02-17,0.04,0.02,miss,0.5,-6.68
+PLTR,Technology,2022-05-09,0.04,0.02,miss,0.25,-25.35
+PLTR,Technology,2022-08-08,0.03,-0.01,miss,0.25,12.59
+PLTR,Technology,2022-11-07,0.02,0.01,miss,0.0,-2.7
+PLTR,Technology,2023-02-13,0.03,0.04,beat,0.0,7.9
+PLTR,Technology,2023-05-08,0.04,0.05,beat,0.25,-8.41
+PLTR,Technology,2023-08-07,0.05,0.05,meet,0.5,18.64
+PLTR,Technology,2023-11-02,0.06,0.07,beat,0.5,0.13
+PLTR,Technology,2024-02-05,0.08,0.08,meet,0.75,6.51
+PLTR,Technology,2024-05-06,0.08,0.08,meet,0.5,1.61
+PLTR,Technology,2024-08-05,0.08,0.09,beat,0.25,-9.14
+PLTR,Technology,2024-11-04,0.09,0.1,beat,0.5,4.77
+PLTR,Technology,2025-02-03,0.11,0.14,beat,0.5,3.25
+PLTR,Technology,2025-05-05,0.13,0.13,meet,0.75,67.92
+PLTR,Technology,2025-08-04,0.14,0.16,beat,0.75,14.82
+PLTR,Technology,2025-11-03,0.17,0.21,beat,0.75,15.83
+PLTR,Technology,2026-02-02,0.23,0.25,beat,0.75,-12.67
+PLTR,Technology,2026-05-04,0.28,0.33,beat,0.75,-2.96
+PM,Consumer Defensive,2014-10-16,1.33,1.39,beat,1.0,-0.3
+PM,Consumer Defensive,2015-02-05,1.06,1.03,miss,1.0,1.21
+PM,Consumer Defensive,2015-04-16,1.01,1.16,beat,0.75,1.58
+PM,Consumer Defensive,2015-07-16,1.13,1.21,beat,0.75,2.27
+PM,Consumer Defensive,2015-10-15,1.11,1.24,beat,0.75,5.88
+PM,Consumer Defensive,2016-02-04,0.81,0.81,meet,0.75,2.19
+PM,Consumer Defensive,2016-04-19,1.11,0.98,miss,0.75,3.55
+PM,Consumer Defensive,2016-07-19,1.19,1.15,miss,0.5,3.29
+PM,Consumer Defensive,2016-10-18,1.23,1.25,beat,0.25,-2.37
+PM,Consumer Defensive,2017-02-02,1.11,1.1,miss,0.25,5.17
+PM,Consumer Defensive,2017-04-20,1.03,0.98,miss,0.25,0.37
+PM,Consumer Defensive,2017-07-20,1.23,1.14,miss,0.25,0.45
+PM,Consumer Defensive,2017-10-19,1.38,1.27,miss,0.25,-1.54
+PM,Consumer Defensive,2018-02-08,1.35,1.32,miss,0.0,-5.73
+PM,Consumer Defensive,2018-04-19,0.88,1.0,beat,0.0,2.26
+PM,Consumer Defensive,2018-07-19,1.23,1.41,beat,0.25,3.06
+PM,Consumer Defensive,2018-10-18,1.29,1.44,beat,0.5,6.76
+PM,Consumer Defensive,2019-02-07,1.16,1.25,beat,0.75,11.26
+PM,Consumer Defensive,2019-04-18,1.01,1.09,beat,1.0,-4.35
+PM,Consumer Defensive,2019-07-18,1.33,1.46,beat,1.0,6.7
+PM,Consumer Defensive,2019-10-17,1.36,1.43,beat,1.0,11.64
+PM,Consumer Defensive,2020-02-06,1.21,1.22,beat,1.0,-2.85
+PM,Consumer Defensive,2020-04-21,1.13,1.21,beat,1.0,25.81
+PM,Consumer Defensive,2020-07-21,1.1,1.29,beat,1.0,0.96
+PM,Consumer Defensive,2020-10-20,1.36,1.42,beat,1.0,1.27
+PM,Consumer Defensive,2021-02-04,1.21,1.26,beat,1.0,-2.62
+PM,Consumer Defensive,2021-04-20,1.39,1.57,beat,1.0,2.71
+PM,Consumer Defensive,2021-07-20,1.55,1.57,beat,1.0,-0.38
+PM,Consumer Defensive,2021-10-19,1.56,1.58,beat,1.0,-3.15
+PM,Consumer Defensive,2022-02-10,1.33,1.35,beat,1.0,3.08
+PM,Consumer Defensive,2022-04-21,1.49,1.56,beat,1.0,11.53
+PM,Consumer Defensive,2022-07-21,1.25,1.48,beat,1.0,-9.13
+PM,Consumer Defensive,2022-10-20,1.36,1.53,beat,1.0,-8.65
+PM,Consumer Defensive,2023-02-09,1.28,1.39,beat,1.0,-0.88
+PM,Consumer Defensive,2023-04-20,1.34,1.38,beat,1.0,7.5
+PM,Consumer Defensive,2023-07-20,1.48,1.6,beat,1.0,5.56
+PM,Consumer Defensive,2023-10-19,1.61,1.67,beat,1.0,-2.88
+PM,Consumer Defensive,2024-02-08,1.45,1.36,miss,1.0,-4.34
+PM,Consumer Defensive,2024-04-23,1.41,1.5,beat,0.75,3.5
+PM,Consumer Defensive,2024-07-23,1.56,1.59,beat,0.75,7.31
+PM,Consumer Defensive,2024-10-22,1.82,1.91,beat,0.75,-0.41
+PM,Consumer Defensive,2025-02-06,1.5,1.55,beat,0.75,7.89
+PM,Consumer Defensive,2025-04-23,1.61,1.69,beat,1.0,8.29
+PM,Consumer Defensive,2025-07-22,1.86,1.91,beat,1.0,-0.79
+PM,Consumer Defensive,2025-10-21,2.1,2.24,beat,1.0,-2.09
+PM,Consumer Defensive,2026-02-06,1.7,1.7,meet,1.0,17.31
+PM,Consumer Defensive,2026-04-22,1.83,1.96,beat,0.75,-6.12
+RTX,Industrials,2014-10-21,1.81,2.04,beat,1.0,-6.43
+RTX,Industrials,2015-01-26,1.62,1.62,meet,1.0,2.34
+RTX,Industrials,2015-04-21,1.46,1.58,beat,0.75,-2.47
+RTX,Industrials,2015-07-21,1.71,1.73,beat,0.75,-3.84
+RTX,Industrials,2015-10-20,1.56,1.61,beat,0.75,1.08
+RTX,Industrials,2016-01-27,1.52,1.53,beat,0.75,-10.86
+RTX,Industrials,2016-04-27,1.4,1.47,beat,1.0,5.95
+RTX,Industrials,2016-07-26,1.68,1.82,beat,1.0,5.82
+RTX,Industrials,2016-10-25,1.67,1.76,beat,1.0,-2.96
+RTX,Industrials,2017-01-25,1.56,1.56,meet,1.0,0.87
+RTX,Industrials,2017-04-26,1.39,1.48,beat,0.75,4.51
+RTX,Industrials,2017-07-25,1.77,1.85,beat,0.75,0.74
+RTX,Industrials,2017-10-24,1.69,1.73,beat,0.75,5.11
+RTX,Industrials,2018-01-24,1.56,1.6,beat,0.75,6.92
+RTX,Industrials,2018-04-24,1.52,1.77,beat,1.0,0.94
+RTX,Industrials,2018-07-24,1.85,1.97,beat,1.0,3.6
+RTX,Industrials,2018-10-23,1.82,1.93,beat,1.0,-11.04
+RTX,Industrials,2019-01-23,1.53,1.95,beat,1.0,8.82
+RTX,Industrials,2019-04-23,1.72,1.91,beat,1.0,9.4
+RTX,Industrials,2019-07-23,2.05,2.2,beat,1.0,3.26
+RTX,Industrials,2019-10-22,2.03,2.21,beat,1.0,2.05
+RTX,Industrials,2020-01-28,1.84,1.94,beat,1.0,0.5
+RTX,Industrials,2020-05-07,1.33,1.78,beat,1.0,0.28
+RTX,Industrials,2020-07-28,0.12,0.4,beat,1.0,3.37
+RTX,Industrials,2020-10-27,0.5,0.58,beat,1.0,5.77
+RTX,Industrials,2021-01-26,0.69,0.74,beat,1.0,-5.68
+RTX,Industrials,2021-04-27,0.83,0.9,beat,1.0,3.62
+RTX,Industrials,2021-07-27,0.93,1.03,beat,1.0,-0.89
+RTX,Industrials,2021-10-26,1.09,1.26,beat,1.0,4.75
+RTX,Industrials,2022-01-25,1.02,1.08,beat,1.0,3.79
+RTX,Industrials,2022-04-26,1.02,1.15,beat,1.0,-2.75
+RTX,Industrials,2022-07-26,1.11,1.16,beat,1.0,0.39
+RTX,Industrials,2022-10-25,1.14,1.21,beat,1.0,9.39
+RTX,Industrials,2023-01-24,1.25,1.27,beat,1.0,-3.07
+RTX,Industrials,2023-04-25,1.13,1.22,beat,1.0,6.24
+RTX,Industrials,2023-07-25,1.18,1.29,beat,1.0,0.1
+RTX,Industrials,2023-10-24,1.22,1.25,beat,1.0,2.17
+RTX,Industrials,2024-01-23,1.25,1.29,beat,1.0,2.15
+RTX,Industrials,2024-04-23,1.23,1.34,beat,1.0,6.3
+RTX,Industrials,2024-07-25,1.3,1.41,beat,1.0,3.21
+RTX,Industrials,2024-10-22,1.34,1.45,beat,1.0,6.56
+RTX,Industrials,2025-01-28,1.38,1.54,beat,1.0,7.15
+RTX,Industrials,2025-04-22,1.37,1.47,beat,1.0,-4.72
+RTX,Industrials,2025-07-22,1.43,1.56,beat,1.0,3.36
+RTX,Industrials,2025-10-21,1.41,1.7,beat,1.0,1.56
+RTX,Industrials,2026-01-27,1.47,1.55,beat,1.0,4.84
+RTX,Industrials,2026-04-21,1.52,1.78,beat,1.0,-1.2
+TMO,Healthcare,2014-10-22,1.69,1.71,beat,1.0,-2.95
+TMO,Healthcare,2015-01-29,1.94,1.99,beat,1.0,-1.79
+TMO,Healthcare,2015-04-22,1.61,1.63,beat,1.0,-2.49
+TMO,Healthcare,2015-07-22,1.78,1.84,beat,1.0,4.9
+TMO,Healthcare,2015-10-21,1.79,1.8,beat,1.0,1.81
+TMO,Healthcare,2016-01-28,2.11,2.12,beat,1.0,-5.03
+TMO,Healthcare,2016-04-28,1.74,1.8,beat,1.0,4.99
+TMO,Healthcare,2016-07-28,2.01,2.03,beat,1.0,11.0
+TMO,Healthcare,2016-10-27,1.97,2.03,beat,1.0,-6.82
+TMO,Healthcare,2017-01-31,2.38,2.41,beat,1.0,1.55
+TMO,Healthcare,2017-04-26,2.02,2.08,beat,1.0,2.73
+TMO,Healthcare,2017-07-26,2.27,2.3,beat,1.0,3.98
+TMO,Healthcare,2017-10-25,2.25,2.31,beat,1.0,3.77
+TMO,Healthcare,2018-01-31,2.67,2.79,beat,1.0,13.03
+TMO,Healthcare,2018-04-25,2.41,2.5,beat,1.0,1.66
+TMO,Healthcare,2018-07-25,2.63,2.75,beat,1.0,8.04
+TMO,Healthcare,2018-10-24,2.56,2.62,beat,1.0,-7.77
+TMO,Healthcare,2019-01-30,3.18,3.25,beat,1.0,5.86
+TMO,Healthcare,2019-04-24,2.74,2.81,beat,1.0,-1.82
+TMO,Healthcare,2019-07-24,3.0,3.04,beat,1.0,-0.65
+TMO,Healthcare,2019-10-23,2.89,2.94,beat,1.0,-3.26
+TMO,Healthcare,2020-01-30,3.54,3.55,beat,1.0,2.78
+TMO,Healthcare,2020-04-22,2.82,2.94,beat,1.0,25.19
+TMO,Healthcare,2020-07-22,2.89,3.89,beat,1.0,14.46
+TMO,Healthcare,2020-10-21,4.3,5.63,beat,1.0,9.35
+TMO,Healthcare,2021-02-01,6.57,7.09,beat,1.0,9.43
+TMO,Healthcare,2021-04-29,6.68,7.21,beat,1.0,7.6
+TMO,Healthcare,2021-07-28,5.47,5.6,beat,1.0,4.99
+TMO,Healthcare,2021-10-27,4.7,5.76,beat,1.0,2.3
+TMO,Healthcare,2022-02-02,5.27,6.54,beat,1.0,-7.85
+TMO,Healthcare,2022-04-28,6.21,7.25,beat,1.0,-12.21
+TMO,Healthcare,2022-07-28,4.98,5.51,beat,1.0,8.62
+TMO,Healthcare,2022-10-26,4.82,5.08,beat,1.0,0.06
+TMO,Healthcare,2023-02-01,5.2,5.4,beat,1.0,3.57
+TMO,Healthcare,2023-04-26,5.03,5.03,meet,1.0,-2.37
+TMO,Healthcare,2023-07-26,5.43,5.15,miss,0.75,9.36
+TMO,Healthcare,2023-10-25,5.61,5.69,beat,0.5,-9.37
+TMO,Healthcare,2024-01-31,5.65,5.67,beat,0.5,6.84
+TMO,Healthcare,2024-04-24,4.71,5.11,beat,0.5,0.18
+TMO,Healthcare,2024-07-24,5.13,5.37,beat,0.75,-2.42
+TMO,Healthcare,2024-10-23,5.25,5.28,beat,1.0,-3.93
+TMO,Healthcare,2025-01-30,5.94,6.1,beat,1.0,9.23
+TMO,Healthcare,2025-04-23,5.1,5.15,beat,1.0,-16.38
+TMO,Healthcare,2025-07-23,5.23,5.36,beat,1.0,6.85
+TMO,Healthcare,2025-10-22,5.5,5.79,beat,1.0,17.47
+TMO,Healthcare,2026-01-29,6.45,6.57,beat,1.0,4.21
+TMO,Healthcare,2026-04-23,5.24,5.44,beat,1.0,4.83
+TSLA,Consumer Cyclical,2015-08-05,-0.04,-0.03,beat,0.5,-4.8
+TSLA,Consumer Cyclical,2015-11-03,-0.04,-0.04,meet,0.67,-13.64
+TSLA,Consumer Cyclical,2016-02-10,0.01,-0.06,miss,0.5,-28.67
+TSLA,Consumer Cyclical,2016-05-04,-0.04,-0.04,meet,0.5,-5.94
+TSLA,Consumer Cyclical,2016-08-03,-0.04,-0.07,miss,0.25,4.94
+TSLA,Consumer Cyclical,2017-02-22,-0.03,-0.05,miss,0.0,11.44
+TSLA,Consumer Cyclical,2017-05-03,-0.05,-0.09,miss,0.0,6.82
+TSLA,Consumer Cyclical,2017-08-02,-0.13,-0.09,beat,0.0,-9.37
+TSLA,Consumer Cyclical,2017-11-01,-0.15,-0.19,miss,0.25,-2.93
+TSLA,Consumer Cyclical,2018-02-07,-0.21,-0.2,beat,0.25,-0.73
+TSLA,Consumer Cyclical,2018-05-02,-0.24,-0.22,beat,0.5,18.79
+TSLA,Consumer Cyclical,2018-08-01,-0.19,-0.2,miss,0.75,-11.02
+TSLA,Consumer Cyclical,2019-01-30,0.14,0.13,miss,0.5,-10.62
+TSLA,Consumer Cyclical,2019-04-24,-0.06,-0.19,miss,0.5,1.34
+TSLA,Consumer Cyclical,2019-07-24,-0.03,-0.07,miss,0.25,16.33
+TSLA,Consumer Cyclical,2019-10-23,-0.02,0.12,beat,0.0,5.95
+TSLA,Consumer Cyclical,2020-01-29,0.12,0.14,beat,0.25,36.7
+TSLA,Consumer Cyclical,2020-04-29,-0.01,0.08,beat,0.5,53.17
+TSLA,Consumer Cyclical,2020-07-22,-0.01,0.15,beat,0.75,57.73
+TSLA,Consumer Cyclical,2020-10-21,0.2,0.25,beat,1.0,-6.11
+TSLA,Consumer Cyclical,2021-01-27,0.35,0.27,miss,1.0,33.06
+TSLA,Consumer Cyclical,2021-04-26,0.26,0.31,beat,0.75,17.89
+TSLA,Consumer Cyclical,2021-07-26,0.32,0.48,beat,0.75,-4.24
+TSLA,Consumer Cyclical,2021-10-20,0.54,0.62,beat,0.75,18.37
+TSLA,Consumer Cyclical,2022-01-26,0.79,0.85,beat,0.75,-16.05
+TSLA,Consumer Cyclical,2022-04-20,0.75,1.07,beat,1.0,11.61
+TSLA,Consumer Cyclical,2022-07-20,0.6,0.76,beat,1.0,13.27
+TSLA,Consumer Cyclical,2022-10-19,1.0,1.05,beat,1.0,-28.76
+TSLA,Consumer Cyclical,2023-01-25,1.11,1.19,beat,1.0,16.84
+TSLA,Consumer Cyclical,2023-04-19,0.85,0.85,meet,1.0,0.58
+TSLA,Consumer Cyclical,2023-07-19,0.82,0.91,beat,0.75,12.59
+TSLA,Consumer Cyclical,2023-10-18,0.73,0.66,miss,0.75,-3.93
+TSLA,Consumer Cyclical,2024-01-24,0.74,0.71,miss,0.5,-17.19
+TSLA,Consumer Cyclical,2024-04-23,0.49,0.45,miss,0.25,-16.85
+TSLA,Consumer Cyclical,2024-07-23,0.62,0.52,miss,0.25,37.43
+TSLA,Consumer Cyclical,2024-10-23,0.6,0.72,beat,0.0,-12.81
+TSLA,Consumer Cyclical,2025-01-29,0.77,0.73,miss,0.25,-4.63
+TSLA,Consumer Cyclical,2025-04-22,0.41,0.27,miss,0.25,-8.53
+TSLA,Consumer Cyclical,2025-07-23,0.4,0.4,meet,0.25,-4.75
+TSLA,Consumer Cyclical,2025-10-22,0.56,0.5,miss,0.25,1.93
+TSLA,Consumer Cyclical,2026-01-28,0.45,0.5,beat,0.0,-6.25
+TSLA,Consumer Cyclical,2026-04-22,0.35,0.41,beat,0.25,1.46
+V,Financial Services,2014-10-29,0.53,0.55,beat,0.5,2.74
+V,Financial Services,2015-01-29,0.62,0.63,beat,0.67,-6.88
+V,Financial Services,2015-04-30,0.62,0.63,beat,0.75,2.95
+V,Financial Services,2015-07-23,0.58,0.62,beat,1.0,3.67
+V,Financial Services,2015-11-02,0.63,0.62,miss,1.0,9.78
+V,Financial Services,2016-01-28,0.68,0.69,beat,0.75,-10.48
+V,Financial Services,2016-04-21,0.66,0.68,beat,0.75,11.23
+V,Financial Services,2016-07-21,0.67,0.69,beat,0.75,2.63
+V,Financial Services,2016-10-24,0.73,0.78,beat,0.75,-0.23
+V,Financial Services,2017-02-02,0.78,0.86,beat,1.0,3.7
+V,Financial Services,2017-04-20,0.79,0.86,beat,1.0,1.92
+V,Financial Services,2017-07-20,0.81,0.86,beat,1.0,4.1
+V,Financial Services,2017-10-25,0.85,0.9,beat,1.0,5.23
+V,Financial Services,2018-02-01,0.98,1.08,beat,1.0,8.49
+V,Financial Services,2018-04-25,1.01,1.11,beat,1.0,0.52
+V,Financial Services,2018-07-25,1.09,1.2,beat,1.0,6.95
+V,Financial Services,2018-10-24,1.2,1.21,beat,1.0,-6.7
+V,Financial Services,2019-01-30,1.25,1.3,beat,1.0,2.32
+V,Financial Services,2019-04-24,1.24,1.31,beat,1.0,5.64
+V,Financial Services,2019-07-23,1.32,1.37,beat,1.0,4.11
+V,Financial Services,2019-10-24,1.43,1.47,beat,1.0,-1.81
+V,Financial Services,2020-01-30,1.47,1.46,miss,1.0,9.03
+V,Financial Services,2020-04-30,1.35,1.39,beat,0.75,12.83
+V,Financial Services,2020-07-28,1.04,1.06,beat,0.75,4.04
+V,Financial Services,2020-10-28,1.1,1.12,beat,0.75,-5.12
+V,Financial Services,2021-01-28,1.28,1.42,beat,0.75,-9.05
+V,Financial Services,2021-04-27,1.27,1.38,beat,1.0,7.87
+V,Financial Services,2021-07-27,1.35,1.49,beat,1.0,5.45
+V,Financial Services,2021-10-26,1.54,1.62,beat,1.0,0.99
+V,Financial Services,2022-01-27,1.7,1.81,beat,1.0,-5.59
+V,Financial Services,2022-04-26,1.65,1.79,beat,1.0,-3.88
+V,Financial Services,2022-07-26,1.75,1.98,beat,1.0,4.26
+V,Financial Services,2022-10-25,1.87,1.93,beat,1.0,3.67
+V,Financial Services,2023-01-26,2.01,2.18,beat,1.0,9.02
+V,Financial Services,2023-04-25,1.99,2.09,beat,1.0,5.3
+V,Financial Services,2023-07-25,2.12,2.16,beat,1.0,4.87
+V,Financial Services,2023-10-24,2.24,2.33,beat,1.0,-1.51
+V,Financial Services,2024-01-25,2.34,2.41,beat,1.0,4.82
+V,Financial Services,2024-04-23,2.43,2.51,beat,1.0,-3.86
+V,Financial Services,2024-07-23,2.42,2.42,meet,1.0,-2.73
+V,Financial Services,2024-10-29,2.58,2.71,beat,0.75,3.28
+V,Financial Services,2025-01-30,2.66,2.75,beat,0.75,6.28
+V,Financial Services,2025-04-29,2.68,2.76,beat,0.75,-1.56
+V,Financial Services,2025-07-29,2.85,2.98,beat,0.75,1.97
+V,Financial Services,2025-10-28,2.97,2.98,beat,1.0,3.1
+V,Financial Services,2026-01-29,3.14,3.17,beat,1.0,-7.53
+V,Financial Services,2026-04-28,3.1,3.31,beat,1.0,4.78
+VZ,Communication Services,2014-10-21,0.91,0.89,miss,0.5,-2.64
+VZ,Communication Services,2015-01-22,0.71,0.71,meet,0.33,2.41
+VZ,Communication Services,2015-04-21,0.95,1.02,beat,0.25,0.76
+VZ,Communication Services,2015-07-21,1.01,1.04,beat,0.5,2.54
+VZ,Communication Services,2015-10-20,1.02,1.04,beat,0.5,1.59
+VZ,Communication Services,2016-01-21,0.88,0.89,beat,0.75,-2.96
+VZ,Communication Services,2016-04-21,1.06,1.06,meet,1.0,-1.72
+VZ,Communication Services,2016-07-26,0.93,0.94,beat,0.75,3.68
+VZ,Communication Services,2016-10-20,0.99,1.01,beat,0.75,-0.62
+VZ,Communication Services,2017-01-24,0.89,0.86,miss,0.75,-1.32
+VZ,Communication Services,2017-04-20,0.96,0.95,miss,0.5,-1.27
+VZ,Communication Services,2017-07-27,0.96,0.96,meet,0.5,0.32
+VZ,Communication Services,2017-10-19,0.97,0.98,beat,0.25,-0.22
+VZ,Communication Services,2018-01-23,0.88,0.86,miss,0.25,1.65
+VZ,Communication Services,2018-04-24,1.11,1.17,beat,0.25,6.44
+VZ,Communication Services,2018-07-24,1.15,1.2,beat,0.5,3.17
+VZ,Communication Services,2018-10-23,1.19,1.22,beat,0.75,2.15
+VZ,Communication Services,2019-01-29,1.09,1.12,beat,0.75,0.68
+VZ,Communication Services,2019-04-23,1.16,1.2,beat,1.0,-1.32
+VZ,Communication Services,2019-08-01,1.2,1.23,beat,1.0,-3.92
+VZ,Communication Services,2019-10-25,1.24,1.25,beat,1.0,1.56
+VZ,Communication Services,2020-01-30,1.15,1.13,miss,1.0,-2.04
+VZ,Communication Services,2020-04-24,1.22,1.26,beat,0.75,16.56
+VZ,Communication Services,2020-07-24,1.15,1.18,beat,0.75,4.72
+VZ,Communication Services,2020-10-21,1.21,1.25,beat,0.75,-2.94
+VZ,Communication Services,2021-01-26,1.17,1.21,beat,0.75,0.35
+VZ,Communication Services,2021-04-21,1.29,1.31,beat,1.0,4.29
+VZ,Communication Services,2021-07-21,1.3,1.37,beat,1.0,-0.33
+VZ,Communication Services,2021-10-20,1.36,1.41,beat,1.0,-2.37
+VZ,Communication Services,2022-01-25,1.28,1.31,beat,1.0,1.74
+VZ,Communication Services,2022-04-22,1.32,1.35,beat,1.0,9.24
+VZ,Communication Services,2022-07-22,1.33,1.31,miss,1.0,-4.98
+VZ,Communication Services,2022-10-21,1.29,1.32,beat,0.75,-4.7
+VZ,Communication Services,2023-01-24,1.19,1.19,meet,0.75,4.8
+VZ,Communication Services,2023-04-25,1.19,1.2,beat,0.5,0.14
+VZ,Communication Services,2023-07-25,1.17,1.21,beat,0.5,-2.6
+VZ,Communication Services,2023-10-24,1.18,1.22,beat,0.75,-3.67
+VZ,Communication Services,2024-01-23,1.08,1.08,meet,0.75,7.36
+VZ,Communication Services,2024-04-22,1.12,1.15,beat,0.75,1.92
+VZ,Communication Services,2024-07-22,1.15,1.15,meet,0.75,5.12
+VZ,Communication Services,2024-10-22,1.18,1.19,beat,0.5,0.12
+VZ,Communication Services,2025-01-24,1.1,1.1,meet,0.5,0.19
+VZ,Communication Services,2025-04-22,1.15,1.19,beat,0.5,-0.84
+VZ,Communication Services,2025-07-21,1.19,1.22,beat,0.5,-0.48
+VZ,Communication Services,2025-10-29,1.19,1.21,beat,0.75,-7.52
+VZ,Communication Services,2026-01-30,1.06,1.09,beat,0.75,-0.56
+VZ,Communication Services,2026-04-27,1.21,1.28,beat,1.0,-6.42
+WMT,Consumer Defensive,2014-11-13,0.37,0.38,beat,0.0,1.56
+WMT,Consumer Defensive,2015-02-19,0.51,0.54,beat,0.33,-0.46
+WMT,Consumer Defensive,2015-05-19,0.35,0.34,miss,0.5,3.27
+WMT,Consumer Defensive,2015-08-18,0.37,0.36,miss,0.5,-1.35
+WMT,Consumer Defensive,2015-11-17,0.33,0.33,meet,0.5,-1.73
+WMT,Consumer Defensive,2016-02-18,0.49,0.5,beat,0.25,5.67
+WMT,Consumer Defensive,2016-05-19,0.29,0.33,beat,0.25,-8.83
+WMT,Consumer Defensive,2016-08-18,0.34,0.36,beat,0.5,-0.31
+WMT,Consumer Defensive,2016-11-17,0.32,0.33,beat,0.75,3.66
+WMT,Consumer Defensive,2017-02-21,0.43,0.43,meet,1.0,3.26
+WMT,Consumer Defensive,2017-05-18,0.32,0.33,beat,0.75,2.34
+WMT,Consumer Defensive,2017-08-17,0.36,0.36,meet,0.75,6.94
+WMT,Consumer Defensive,2017-11-16,0.32,0.33,beat,0.5,4.48
+WMT,Consumer Defensive,2018-02-20,0.46,0.44,miss,0.5,0.18
+WMT,Consumer Defensive,2018-05-17,0.37,0.38,beat,0.5,-1.4
+WMT,Consumer Defensive,2018-08-16,0.41,0.43,beat,0.5,2.9
+WMT,Consumer Defensive,2018-11-15,0.34,0.36,beat,0.75,5.97
+WMT,Consumer Defensive,2019-02-19,0.44,0.47,beat,0.75,2.31
+WMT,Consumer Defensive,2019-05-16,0.34,0.38,beat,1.0,-2.45
+WMT,Consumer Defensive,2019-08-15,0.41,0.42,beat,1.0,-7.0
+WMT,Consumer Defensive,2019-11-14,0.36,0.39,beat,1.0,1.21
+WMT,Consumer Defensive,2020-02-18,0.48,0.46,miss,1.0,2.55
+WMT,Consumer Defensive,2020-05-19,0.36,0.39,beat,0.75,-2.95
+WMT,Consumer Defensive,2020-08-18,0.42,0.52,beat,0.75,3.35
+WMT,Consumer Defensive,2020-11-17,0.4,0.45,beat,0.75,5.34
+WMT,Consumer Defensive,2021-02-18,0.5,0.46,miss,0.75,2.66
+WMT,Consumer Defensive,2021-05-18,0.4,0.56,beat,0.75,-0.84
+WMT,Consumer Defensive,2021-08-17,0.52,0.59,beat,0.75,6.88
+WMT,Consumer Defensive,2021-11-16,0.46,0.48,beat,0.75,4.53
+WMT,Consumer Defensive,2022-02-17,0.5,0.51,beat,0.75,-6.31
+WMT,Consumer Defensive,2022-05-17,0.49,0.43,miss,1.0,-5.3
+WMT,Consumer Defensive,2022-08-16,0.54,0.59,beat,0.75,3.18
+WMT,Consumer Defensive,2022-11-15,0.44,0.5,beat,0.75,6.1
+WMT,Consumer Defensive,2023-02-21,0.5,0.57,beat,0.75,4.2
+WMT,Consumer Defensive,2023-05-18,0.44,0.49,beat,0.75,0.17
+WMT,Consumer Defensive,2023-08-17,0.57,0.61,beat,1.0,3.4
+WMT,Consumer Defensive,2023-11-16,0.51,0.51,meet,1.0,5.18
+WMT,Consumer Defensive,2024-02-20,0.55,0.6,beat,0.75,4.91
+WMT,Consumer Defensive,2024-05-16,0.53,0.6,beat,0.75,0.33
+WMT,Consumer Defensive,2024-08-15,0.65,0.67,beat,0.75,-1.9
+WMT,Consumer Defensive,2024-11-19,0.53,0.58,beat,0.75,3.41
+WMT,Consumer Defensive,2025-02-20,0.65,0.66,beat,1.0,11.73
+WMT,Consumer Defensive,2025-05-15,0.58,0.61,beat,1.0,3.29
+WMT,Consumer Defensive,2025-08-21,0.74,0.68,miss,1.0,7.26
+WMT,Consumer Defensive,2025-11-20,0.6,0.62,beat,0.75,-5.28
+WMT,Consumer Defensive,2026-02-19,0.73,0.74,beat,0.75,6.66
+WMT,Consumer Defensive,2026-05-21,0.66,0.66,meet,0.75,1.16
+XOM,Energy,2014-10-31,1.72,1.89,beat,1.0,1.71
+XOM,Energy,2015-02-02,1.34,1.32,miss,1.0,-5.83
+XOM,Energy,2015-04-30,0.83,1.17,beat,0.75,3.38
+XOM,Energy,2015-07-31,1.11,1.06,miss,0.75,0.78
+XOM,Energy,2015-10-30,0.9,1.01,beat,0.5,10.6
+XOM,Energy,2016-02-02,0.64,0.67,beat,0.5,-2.13
+XOM,Energy,2016-04-29,0.31,0.43,beat,0.75,4.15
+XOM,Energy,2016-07-29,0.64,0.41,miss,0.75,-2.44
+XOM,Energy,2016-10-28,0.6,0.63,beat,0.75,0.02
+XOM,Energy,2017-01-31,0.7,0.89,beat,0.75,-5.98
+XOM,Energy,2017-04-28,0.87,0.95,beat,0.75,-0.93
+XOM,Energy,2017-07-28,0.85,0.78,miss,0.75,-0.86
+XOM,Energy,2017-10-27,0.87,0.93,beat,0.75,2.51
+XOM,Energy,2018-02-02,1.03,0.88,miss,0.75,2.73
+XOM,Energy,2018-04-27,1.1,1.09,miss,0.5,11.06
+XOM,Energy,2018-07-27,1.27,0.92,miss,0.25,3.1
+XOM,Energy,2018-11-02,1.22,1.46,beat,0.25,-6.36
+XOM,Energy,2019-02-01,1.09,1.5,beat,0.25,5.15
+XOM,Energy,2019-04-26,0.73,0.55,miss,0.5,2.34
+XOM,Energy,2019-08-02,0.71,0.61,miss,0.5,-5.21
+XOM,Energy,2019-11-01,0.66,0.68,beat,0.5,0.63
+XOM,Energy,2020-01-31,0.45,0.41,miss,0.5,-7.15
+XOM,Energy,2020-05-01,0.05,0.53,beat,0.25,23.82
+XOM,Energy,2020-07-31,-0.6,-0.7,miss,0.5,-4.21
+XOM,Energy,2020-10-30,-0.25,-0.18,beat,0.5,-3.96
+XOM,Energy,2021-02-02,0.02,0.03,beat,0.5,8.98
+XOM,Energy,2021-04-30,0.6,0.65,beat,0.75,5.57
+XOM,Energy,2021-07-30,0.99,1.1,beat,0.75,-6.58
+XOM,Energy,2021-10-29,1.52,1.58,beat,1.0,7.4
+XOM,Energy,2022-02-01,1.93,2.05,beat,1.0,24.14
+XOM,Energy,2022-04-29,2.22,2.07,miss,1.0,4.08
+XOM,Energy,2022-07-29,3.89,4.14,beat,0.75,5.13
+XOM,Energy,2022-10-28,3.82,4.45,beat,0.75,21.03
+XOM,Energy,2023-01-31,3.28,3.4,beat,0.75,2.96
+XOM,Energy,2023-04-28,2.59,2.83,beat,0.75,7.22
+XOM,Energy,2023-07-28,2.02,1.94,miss,1.0,0.02
+XOM,Energy,2023-10-27,2.36,2.27,miss,0.75,-10.48
+XOM,Energy,2024-02-02,2.19,2.48,beat,0.5,-0.8
+XOM,Energy,2024-04-26,2.16,2.06,miss,0.5,5.53
+XOM,Energy,2024-08-02,2.01,2.14,beat,0.25,1.91
+XOM,Energy,2024-11-01,1.87,1.92,beat,0.5,-3.9
+XOM,Energy,2025-01-31,1.55,1.67,beat,0.75,1.86
+XOM,Energy,2025-05-02,1.74,1.76,beat,0.75,-10.86
+XOM,Energy,2025-08-01,1.56,1.64,beat,1.0,0.53
+XOM,Energy,2025-10-31,1.82,1.88,beat,1.0,2.41
+XOM,Energy,2026-01-30,1.69,1.71,beat,1.0,16.76
+XOM,Energy,2026-05-01,1.01,1.16,beat,1.0,-4.01
